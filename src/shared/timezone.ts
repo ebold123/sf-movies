@@ -62,3 +62,24 @@ export function zonedIsoString(date: Date, timeZone: string): string {
 
   return `${get("year")}-${get("month")}-${get("day")}T${get("hour")}:${get("minute")}:${get("second")}${sign}${offsetHours}:${offsetMinutesPart}`;
 }
+
+// Today's wall-clock date in `timeZone`, not the server's local date. Scrapers
+// that infer a missing year from "is this month/day still ahead of today"
+// need this instead of `new Date()`, whose getFullYear/getMonth/getDate read
+// the server's own zone and can be a day off from the venue's local date.
+export function todayInZone(timeZone: string): { year: number; month: number; day: number } {
+  const parts = new Intl.DateTimeFormat("en-CA", {
+    timeZone,
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(new Date());
+  const get = (type: string) => Number(parts.find((part) => part.type === type)?.value);
+  return { year: get("year"), month: get("month"), day: get("day") };
+}
+
+// Shared 12-hour -> 24-hour conversion for scrapers parsing "7:10 PM"-style times.
+export function to24Hour(hour12: number, minute: number, meridiem: string): { hour: number; minute: number } {
+  const hour = (hour12 % 12) + (meridiem.toUpperCase() === "PM" ? 12 : 0);
+  return { hour, minute };
+}

@@ -1,15 +1,10 @@
 import * as cheerio from "cheerio";
 import type { Event } from "../events/event";
-import { zonedIsoString, zonedTimeToUtc } from "../timezone";
+import { to24Hour, todayInZone, zonedIsoString, zonedTimeToUtc } from "../timezone";
 
 const LA_TIME_ZONE = "America/Los_Angeles";
 const DATE_URL_PATTERN = /\/(\d{4})(\d{2})(\d{2})\.html$/;
 const MUSIC_TIME_PATTERN = /music at (\d{1,2}):(\d{2})\s*(am|pm)/i;
-
-function to24Hour(hour12: number, minute: number, meridiem: string): { hour: number; minute: number } {
-  const hour = (hour12 % 12) + (meridiem.toLowerCase() === "pm" ? 12 : 0);
-  return { hour, minute };
-}
 
 // Parses a single show detail page (e.g. bottomofthehill.com/20260909.html).
 // Date is extracted from the URL; bands come from <big class="band"> elements
@@ -71,7 +66,7 @@ export async function fetchBottomOfTheHillEvents(
   const calendarHtml = await calendarResponse.text();
   const $ = cheerio.load(calendarHtml);
 
-  const currentYear = new Date().getFullYear();
+  const currentYear = todayInZone(LA_TIME_ZONE).year;
   const detailUrls = new Set<string>();
   $("a").each((_, el) => {
     const href = $(el).attr("href") ?? "";
@@ -82,7 +77,7 @@ export async function fetchBottomOfTheHillEvents(
     }
   });
 
-  const results = await Promise.all(
+  const results = await Promise.allSettled(
     [...detailUrls].map(async (url) => {
       const response = await fetchFn(url);
       const html = await response.text();
@@ -90,5 +85,13 @@ export async function fetchBottomOfTheHillEvents(
     }),
   );
 
-  return results.filter((e): e is Event => e !== null);
+  const events: Event[] = [];
+  for (const result of results) {
+    if (result.status === "fulfilled") {
+      if (result.value !== null) events.push(result.value);
+    } else {
+      console.error("Bottom of the Hill: failed to fetch/parse a detail page", result.reason);
+    }
+  }
+  return events;
 }

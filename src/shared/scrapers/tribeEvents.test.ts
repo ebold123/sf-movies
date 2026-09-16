@@ -86,4 +86,40 @@ describe("fetchTribeEvents", () => {
       parseTribeEvent(page2.events[0], "ATA"),
     ]);
   });
+
+  it("stops paginating once a page's events fall past the 6-month cutoff, even if the API keeps sending next_rest_url", async () => {
+    const inRangeEvent = {
+      title: "syllabary: poetry + music",
+      start_date: "2026-08-20 19:00:00",
+      timezone: "America/Los_Angeles",
+      url: "https://artiststelevisionaccess.org/event/syllabary-poetry-music/",
+    };
+    const farFutureEvent = {
+      title: "some 2028 event",
+      start_date: "2028-01-01 19:00:00",
+      timezone: "America/Los_Angeles",
+      url: "https://artiststelevisionaccess.org/event/far-future/",
+    };
+
+    const page1 = {
+      events: [inRangeEvent],
+      next_rest_url: "https://artiststelevisionaccess.org/wp-json/tribe/events/v1/events/?page=2",
+    };
+    // Simulates an API that ignores end_date on later pages and would keep
+    // paginating into the far future forever if not stopped client-side.
+    const page2 = {
+      events: [farFutureEvent],
+      next_rest_url: "https://artiststelevisionaccess.org/wp-json/tribe/events/v1/events/?page=3",
+    };
+
+    const fetchFn = vi.fn(async (url: string) => {
+      const body = url.includes("page=2") ? page2 : page1;
+      return { json: async () => body } as Response;
+    });
+
+    const events = await fetchTribeEvents("https://artiststelevisionaccess.org", "ATA", fetchFn);
+
+    expect(fetchFn).toHaveBeenCalledTimes(2);
+    expect(events).toEqual([parseTribeEvent(inRangeEvent, "ATA")]);
+  });
 });

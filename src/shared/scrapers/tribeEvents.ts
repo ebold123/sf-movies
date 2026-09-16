@@ -59,11 +59,21 @@ export async function fetchTribeEvents(
     const response = await fetchFn(url);
     const page: TribeEventsPage = await response.json();
 
+    // Re-check the cutoff on every page: the API is only asked to filter by
+    // end_date on the first request, and next_rest_url is followed as given,
+    // so a server that doesn't honor (or drops) the filter on later pages
+    // could otherwise return unbounded future events.
+    let withinRange = false;
     for (const raw of page.events) {
-      events.push(parseTribeEvent(raw, theater));
+      if (raw.start_date.slice(0, 10) <= endDate) {
+        events.push(parseTribeEvent(raw, theater));
+        withinRange = true;
+      }
     }
 
-    url = page.next_rest_url;
+    // Events come back in ascending start_date order, so once a page has no
+    // events left within range, later pages won't either.
+    url = withinRange || page.events.length === 0 ? page.next_rest_url : undefined;
   }
 
   return events;

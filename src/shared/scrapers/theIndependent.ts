@@ -1,24 +1,17 @@
 import * as cheerio from "cheerio";
 import type { Event } from "../events/event";
-import { zonedIsoString, zonedTimeToUtc } from "../timezone";
+import { to24Hour, todayInZone, zonedIsoString, zonedTimeToUtc } from "../timezone";
 
 const LA_TIME_ZONE = "America/Los_Angeles";
 // Date format on the listing: "9.8" = month 9, day 8. No year in source HTML.
 const DATE_PATTERN = /^(\d{1,2})\.(\d{1,2})$/;
 const TIME_PATTERN = /(\d{1,2}):(\d{2})\s*(AM|PM)/i;
 
-function to24Hour(hour12: number, minute: number, meridiem: string): { hour: number; minute: number } {
-  const hour = (hour12 % 12) + (meridiem.toUpperCase() === "PM" ? 12 : 0);
-  return { hour, minute };
-}
-
 // The listing omits the year. If month/day has already passed this calendar
-// year, the show must be next year.
+// year (in the venue's own timezone, not the server's), the show must be
+// next year.
 function inferYear(month: number, day: number): number {
-  const now = new Date();
-  const y = now.getFullYear();
-  const m = now.getMonth() + 1;
-  const d = now.getDate();
+  const { year: y, month: m, day: d } = todayInZone(LA_TIME_ZONE);
   return month < m || (month === m && day < d) ? y + 1 : y;
 }
 
