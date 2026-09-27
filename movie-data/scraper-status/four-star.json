@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-26T13:41:44.394Z",
+  "generatedAt": "2026-09-27T13:42:11.922Z",
   "status": "discrepancies",
   "report": {
     "matched": 11,
@@ -24,18 +24,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "My Neighbor Totoro",
-        "startTime": "2026-09-26T10:00:00-07:00"
-      },
-      {
-        "title": "Closed for a Private Event",
-        "startTime": "2026-09-26T14:00:00-07:00"
-      },
-      {
-        "title": "LIVE MUSIC: Mildred, Charlie Bishop (Presented by THROWIN' BO'S)",
-        "startTime": "2026-09-26T20:00:00-07:00"
-      },
       {
         "title": "My Neighbor Totoro",
         "startTime": "2026-09-27T10:00:00-07:00"
@@ -110,10 +98,6 @@
       }
     ],
     "scenefOnly": [
-      {
-        "title": "My Neighbor Totoro",
-        "startTime": "2026-09-26T12:15:00-07:00"
-      },
       {
         "title": "My Neighbor Totoro",
         "startTime": "2026-09-27T12:30:00-07:00"
