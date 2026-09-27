@@ -295,6 +295,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "The Samurai and the Prisoner",
+    "startTime": "2026-10-04T19:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-samurai-and-the-prisoner/#showtimes-20261004-1900",
+    "synopsis": "MUST END OCTOBER 4 Co-presented by the Japan Society of Northern California “Kurosawa has made one of his best films, a work that feels a […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Traces of Home",
     "startTime": "2026-10-05T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/traces-of-home/#showtimes-20261005-1800",
@@ -316,6 +323,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "American Doctor",
+    "startTime": "2026-10-05T20:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/american-doctor/#showtimes-20261005-2010",
+    "synopsis": "Co-presented by the Arab Film & Media Institute (AFMI) and the Jewish Film Institute From Oscar®-nominated and Emmy® Award-winning filmmaker Poh Si Teng, American Doctor follows three American […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Filipiñana",
     "startTime": "2026-10-06T18:15:00-07:00",
     "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20261006-1815",
@@ -330,6 +344,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-10-06T20:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/teenage-sex-and-death-at-camp-miasma/#showtimes-20261006-2030",
+    "synopsis": "Visionary director Jane Schoenbrun (I Saw the TV Glow) presents a new kind of horror remake in TEENAGE SEX AND DEATH AT CAMP MIASMA. […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Wrathbone",
     "startTime": "2026-10-07T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/wrathbone/#showtimes-20261007-1800",
@@ -341,6 +362,13 @@
     "startTime": "2026-10-07T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/perfect-blue/#showtimes-20261007-1800",
     "synopsis": "“Who are…you?” Mima Kirigoe, a former pop idol, makes a bold transition into acting, but her reinvention begins to fracture her sense of identity. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Dead Souls",
+    "startTime": "2026-10-07T20:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dead-souls/#showtimes-20261007-2030",
+    "synopsis": "Composer & Sound Designer Dan Wool, Animator Tom “Gibby” Gibbons, actor Ed Pansullo, and VFX Supervisor Ken Rogerson IN PERSON after the Sunday, Sept […]"
   },
   {
     "theater": "Roxie",
@@ -449,6 +477,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Who Moves America",
+    "startTime": "2026-10-11T12:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/who-moves-america/#showtimes-20261011-1230",
+    "synopsis": "Q&A with local teamsters after the screening! As the deadline for a historic strike nears, UPS Teamsters across the United States navigate the challenges […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "3rd i 2026: Ghost School",
     "startTime": "2026-10-11T14:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/3rd-i-2026-ghost-school/#showtimes-20261011-1400",
@@ -519,6 +554,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Office Killer",
+    "startTime": "2026-10-13T20:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/office-killer/#showtimes-20261013-2000",
+    "synopsis": "Cindy Sherman’s first and only feature film is a mordantly funny horror-comedy starring Carol Kane as Dorine, a timid copy editor pushed around by […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "The House With Laughing Windows",
     "startTime": "2026-10-13T20:35:00-07:00",
     "sourceUrl": "https://roxie.com/film/the-house-with-laughing-windows/#showtimes-20261013-2035",
@@ -537,6 +579,13 @@
     "startTime": "2026-10-14T18:15:00-07:00",
     "sourceUrl": "https://roxie.com/film/arthouse-50-49-square-miles-surrounded-by-reality-the-city-envisioned-by-canyon-cinema/#showtimes-20261014-1815",
     "synopsis": "Presented by Canyon Cinema Part of our Arthouse 50: Celebrating our 50th anniversary as an Arthouse In celebration of The Roxie Theater’s 50th year, this […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Scout",
+    "startTime": "2026-10-16T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-scout/#showtimes-20261016-1800",
+    "synopsis": "Sofia works as a location scout for a TV pilot filming in New York City. It’s her job to find the homes, businesses, and […]"
   },
   {
     "theater": "Roxie",
@@ -582,10 +631,31 @@
   },
   {
     "theater": "Roxie",
+    "title": "The Match Factory Girl",
+    "startTime": "2026-10-17T16:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-match-factory-girl/#showtimes-20261017-1610",
+    "synopsis": "Aki Kaurismäki takes his penchant for despairing character studies to unspeakably grim, and shockingly entertaining, depths in THE MATCH FACTORY GIRL. Kati Outinen is […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: Jigoku (4K Restoration)",
     "startTime": "2026-10-17T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/new-people-jigoku/#showtimes-20261017-1800",
     "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Shocking, outrageous, and poetic, Jigoku (Hell, a.k.a. The […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "NAZA",
+    "startTime": "2026-10-17T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261017-1800",
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11 before moving to The Roxie starting October 12. In secret conversations on the rooftops of Tel Aviv […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Scout",
+    "startTime": "2026-10-17T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-scout/#showtimes-20261017-1800",
+    "synopsis": "Sofia works as a location scout for a TV pilot filming in New York City. It’s her job to find the homes, businesses, and […]"
   },
   {
     "theater": "Roxie",
@@ -610,6 +680,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "The Scout",
+    "startTime": "2026-10-18T17:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-scout/#showtimes-20261018-1715",
+    "synopsis": "Sofia works as a location scout for a TV pilot filming in New York City. It’s her job to find the homes, businesses, and […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Dr. Jekyll and Mr. Hyde (1931)",
     "startTime": "2026-10-20T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/dr-jekyll-and-mr-hyde-1931/#showtimes-20261020-1800",
@@ -621,6 +698,13 @@
     "startTime": "2026-10-20T20:20:00-07:00",
     "sourceUrl": "https://roxie.com/film/this-is-buzz/#showtimes-20261020-2020",
     "synopsis": "Director Mark Pellington on site for a post-screening Q&A! This Is Buzz is experimental and music-driven documentary, illustrating the tale of the seismically influential, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Scout",
+    "startTime": "2026-10-21T18:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-scout/#showtimes-20261021-1830",
+    "synopsis": "Sofia works as a location scout for a TV pilot filming in New York City. It’s her job to find the homes, businesses, and […]"
   },
   {
     "theater": "Roxie",
@@ -638,6 +722,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Lady",
+    "startTime": "2026-10-23T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/lady/#showtimes-20261023-1800",
+    "synopsis": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Floating Features: Hocus Pocus",
     "startTime": "2026-10-23T19:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/floating-features-hocus-pocus-2/#showtimes-20261023-1900",
@@ -645,10 +736,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "Dr. Jekyll and Mr. Hyde (1931)",
+    "startTime": "2026-10-24T15:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dr-jekyll-and-mr-hyde-1931/#showtimes-20261024-1500",
+    "synopsis": "Fredric March and Miriam Hopkins (Design for Living) star in Robert Lewis Stevenson‘s classic horror tale of a kind and gentle doctor looking for […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "One In A Million",
     "startTime": "2026-10-24T15:40:00-07:00",
     "sourceUrl": "https://roxie.com/film/one-in-a-million/#showtimes-20261024-1540",
     "synopsis": "Post-screening Q&A with director Jack MacInnes & film subject, Israa! Filmed over ten years, ONE IN A MILLION follows Israa from childhood to adulthood […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Lady",
+    "startTime": "2026-10-24T17:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/lady/#showtimes-20261024-1715",
+    "synopsis": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession […]"
   },
   {
     "theater": "Roxie",
@@ -673,10 +778,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "Woman in the Dunes",
+    "startTime": "2026-10-29T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/woman-in-the-dunes/#showtimes-20261029-1800",
+    "synopsis": "One of the great international art-house sensations of the 1960s, Hiroshi Teshigahara’s WOMAN IN THE DUNES remains a hypnotic, unsettling vision of desire, captivity, […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Floating Features: Us",
     "startTime": "2026-10-30T19:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/floating-features-us/#showtimes-20261030-1900",
     "synopsis": "In order to get away from their busy lives, the Wilson family takes a vacation to Santa Cruz, California. At night, four strangers break […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Alien",
+    "startTime": "2026-10-30T21:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/alien/#showtimes-20261030-2105",
+    "synopsis": "The crew of the commercial towing ship Nostromo is heading home with 20 million tons of mineral ore when a mysterious transmission pulls them […]"
   },
   {
     "theater": "Roxie",
