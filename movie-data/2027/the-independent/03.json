@@ -1,0 +1,35 @@
+[
+  {
+    "theater": "The Independent",
+    "title": "Valley",
+    "startTime": "2027-03-01T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/valley/",
+    "synopsis": "with Moody Joody"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Rayland Baxter",
+    "startTime": "2027-03-06T21:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/rayland-baxter/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "strongboi – MOVED TO CASTRO THEATRE",
+    "startTime": "2027-03-09T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/strongboi/",
+    "synopsis": "with Salami Rose Joe Louis"
+  },
+  {
+    "theater": "The Independent",
+    "title": "POSTPONED: Dogma",
+    "startTime": "2027-03-17T20:00:00-07:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/dogma-with-special-guest-frayle/",
+    "synopsis": "with Frayle"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Dan and Peggy Reeder",
+    "startTime": "2027-03-25T20:00:00-07:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/dan-and-peggy-reeder/"
+  }
+]

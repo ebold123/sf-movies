@@ -1,0 +1,28 @@
+[
+  {
+    "theater": "The Independent",
+    "title": "Live on the Stoop",
+    "startTime": "2027-01-07T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/stoop-sessions-live/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Com Truise b2b Matthew Dear",
+    "startTime": "2027-01-08T21:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/com-truise-b2b-matthew-dear/",
+    "synopsis": "with Com Truise, Matthew Dear"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Sister Nancy & the Steady Rock Band",
+    "startTime": "2027-01-15T21:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/sister-nancy-the-steady-rock-band/",
+    "synopsis": "with Reggae Angels"
+  },
+  {
+    "theater": "The Independent",
+    "title": "STS9",
+    "startTime": "2027-01-17T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/sts9/"
+  }
+]

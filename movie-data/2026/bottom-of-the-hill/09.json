@@ -1,0 +1,23 @@
+[
+  {
+    "theater": "Bottom of the Hill",
+    "title": "Stephan Jenkins",
+    "startTime": "2026-09-28T20:00:00-07:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20260928.html",
+    "synopsis": "with Emily Afton"
+  },
+  {
+    "theater": "Bottom of the Hill",
+    "title": "The Quiet Men",
+    "startTime": "2026-09-29T20:30:00-07:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20260929.html",
+    "synopsis": "with Greg Hoy & the Boys, Fast & Vengefully"
+  },
+  {
+    "theater": "Bottom of the Hill",
+    "title": "Cult Strange",
+    "startTime": "2026-09-30T20:30:00-07:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20260930.html",
+    "synopsis": "with The Ink Bats, Vague Lanes"
+  }
+]

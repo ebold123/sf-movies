@@ -1,0 +1,43 @@
+[
+  {
+    "theater": "Bottom of the Hill",
+    "title": "Emo\nNight Karaoke",
+    "startTime": "2026-12-02T20:30:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261202.html",
+    "synopsis": "with Emo Night Karaoke, -Emo Night Karaoke"
+  },
+  {
+    "theater": "Bottom of the Hill",
+    "title": "Sonny & His Rhinestone Sunsets",
+    "startTime": "2026-12-05T20:30:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261205.html",
+    "synopsis": "with Kelly McFarling, Noelle & the Deserters"
+  },
+  {
+    "theater": "Bottom of the Hill",
+    "title": "Makeout Reef",
+    "startTime": "2026-12-08T20:30:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261208.html",
+    "synopsis": "with Lovers Peak"
+  },
+  {
+    "theater": "Bottom of the Hill",
+    "title": "Andre Nickatina",
+    "startTime": "2026-12-11T21:00:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261211.html"
+  },
+  {
+    "theater": "Bottom of the Hill",
+    "title": "Hot Lunch",
+    "startTime": "2026-12-12T20:30:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261212.html",
+    "synopsis": "with Drunk Horse, Hightower"
+  },
+  {
+    "theater": "Bottom of the Hill",
+    "title": "Swingin' Utters",
+    "startTime": "2026-12-23T20:30:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261223.html",
+    "synopsis": "with Western Addiction, Seized Up"
+  }
+]
