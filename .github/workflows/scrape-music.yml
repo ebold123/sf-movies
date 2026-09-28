@@ -1,4 +1,4 @@
-name: Scrape Balboa
+name: Scrape Music Venues
 
 on:
   schedule:
@@ -21,9 +21,12 @@ jobs:
 
       - run: npm ci
 
-      - run: npm run scrape -- balboa
+      - run: npm run scrape:music
 
       - name: Commit and push if data changed
+        # Runs even if a venue failed to scrape above, so the venues that did
+        # succeed still get committed.
+        if: always()
         run: |
           if git diff --quiet -- movie-data; then
             echo "No changes to commit"
@@ -32,5 +35,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add movie-data
-          git commit -m "Update Balboa showtimes"
+          git commit -m "Update music venue showtimes"
           git push

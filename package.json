@@ -13,6 +13,7 @@
     "test": "vitest run",
     "check": "astro check",
     "scrape": "tsx src/scripts/scrape-theater.ts",
+    "scrape:music": "tsx src/scripts/scrape-music-venues.ts",
     "compare": "tsx src/scripts/compare-scenef.ts"
   },
   "dependencies": {

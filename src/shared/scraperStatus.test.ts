@@ -11,6 +11,7 @@ const balboa: TheaterConfig = {
   name: "Balboa",
   baseUrl: "https://www.balboamovies.com",
   source: "cinema-sf",
+  category: "movie",
 };
 
 function sampleOurEvent(overrides: Partial<Event> = {}): Event {
@@ -122,6 +123,7 @@ describe("recordScraperStatus", () => {
       baseUrl: "https://drafthouse.com/sf",
       source: "scenef",
       venueId: "alamo-new-mission",
+      category: "movie",
     };
 
     await recordScraperStatus(statusDir, alamo, [sampleOurEvent()], fetchReturning(sampleListings()), NOW);

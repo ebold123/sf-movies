@@ -1,7 +1,9 @@
 ---
 import { theaters } from "../shared/theaters";
 
-const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ? -1 : 1));
+const sortedTheaters = Object.values(theaters)
+  .filter((theater) => theater.category === "music")
+  .sort((a, b) => (a.name < b.name ? -1 : 1));
 ---
 
 <div class="filter-bar">

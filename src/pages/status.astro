@@ -20,7 +20,7 @@ interface TheaterRow {
 }
 
 const rows: TheaterRow[] = Object.values(theaters)
-  .filter((theater) => theater.source !== "scenef")
+  .filter((theater) => theater.category === "music" && theater.source !== "scenef")
   .map((theater) => {
     const block = blockBySlug.get(theater.slug);
     return {

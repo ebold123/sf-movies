@@ -6,10 +6,10 @@ import type { Event } from "./event";
 import { loadAllEvents } from "./loadEvents";
 
 const sampleEvent: Event = {
-  theater: "Balboa",
-  title: "The Tale of Zatoichi",
-  startTime: "2026-08-30T14:30:00-07:00",
-  sourceUrl: "https://www.balboamovies.com/calendar-of-events/the-tale-of-zatoichi-august-30",
+  theater: "Bottom of the Hill",
+  title: "The Fake Names",
+  startTime: "2026-08-30T20:00:00-07:00",
+  sourceUrl: "https://bottomofthehill.com/calendar/the-fake-names-august-30",
 };
 
 let dataDir: string;
@@ -24,17 +24,27 @@ afterEach(async () => {
 
 describe("loadAllEvents", () => {
   it("loads month files but ignores the scraper-status directory", async () => {
-    await mkdir(join(dataDir, "2026", "balboa"), { recursive: true });
-    await writeFile(join(dataDir, "2026", "balboa", "08.json"), JSON.stringify([sampleEvent]));
+    await mkdir(join(dataDir, "2026", "bottom-of-the-hill"), { recursive: true });
+    await writeFile(
+      join(dataDir, "2026", "bottom-of-the-hill", "08.json"),
+      JSON.stringify([sampleEvent]),
+    );
 
     // Status blocks share movie-data (so the scrape workflows commit them)
     // but are not events and must never reach the site.
     await mkdir(join(dataDir, "scraper-status"), { recursive: true });
     await writeFile(
-      join(dataDir, "scraper-status", "balboa.json"),
-      JSON.stringify({ slug: "balboa", status: "ok" }),
+      join(dataDir, "scraper-status", "bottom-of-the-hill.json"),
+      JSON.stringify({ slug: "bottom-of-the-hill", status: "ok" }),
     );
 
     expect(await loadAllEvents(dataDir)).toEqual([sampleEvent]);
+  });
+
+  it("ignores movie theater directories — this fork only displays music venues", async () => {
+    await mkdir(join(dataDir, "2026", "balboa"), { recursive: true });
+    await writeFile(join(dataDir, "2026", "balboa", "08.json"), JSON.stringify([sampleEvent]));
+
+    expect(await loadAllEvents(dataDir)).toEqual([]);
   });
 });
