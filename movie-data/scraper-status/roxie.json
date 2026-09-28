@@ -1,69 +1,205 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-08T13:51:39.530Z",
+  "generatedAt": "2026-09-28T13:55:30.600Z",
   "status": "discrepancies",
   "report": {
-    "matched": 95,
+    "matched": 80,
     "timeMismatches": [],
     "titleMismatches": [
       {
-        "startTime": "2026-09-12T15:45:00-07:00",
-        "ourTitle": "MAQUILÁPOLIS",
-        "scenefTitle": "Maquilapolis"
+        "startTime": "2026-10-08T19:45:00-07:00",
+        "ourTitle": "Zoé Presents: Memorex + Rexsexex y Más",
+        "scenefTitle": "Zoé: ‘MEMOREX + REXSEXEX Y MÁS’"
+      },
+      {
+        "startTime": "2026-10-18T12:30:00-07:00",
+        "ourTitle": "Carter Country",
+        "scenefTitle": "How to Marry a Millionaire"
       }
     ],
     "oursOnly": [
       {
-        "title": "ZYZZYVA Movie Night with Ingrid Rojas Contreras: Songs of Earth",
-        "startTime": "2026-09-17T18:00:00-07:00"
+        "title": "American Doctor",
+        "startTime": "2026-09-30T18:00:00-07:00"
       },
       {
-        "title": "Floating Features: The Rock",
-        "startTime": "2026-09-18T19:00:00-07:00"
+        "title": "New People: Lady",
+        "startTime": "2026-10-01T18:00:00-07:00"
       },
       {
-        "title": "Larry Reed: A Life in Light and Shadow",
-        "startTime": "2026-09-19T13:15:00-07:00"
+        "title": "Black Swan + Perfect Blue",
+        "startTime": "2026-10-01T18:30:00-07:00"
       },
       {
-        "title": "Filipiñana",
-        "startTime": "2026-09-19T15:10:00-07:00"
+        "title": "Perfect Blue",
+        "startTime": "2026-10-01T20:50:00-07:00"
       },
       {
-        "title": "Mysterious Skin (4K Restoration)",
-        "startTime": "2026-09-21T20:20:00-07:00"
-      },
-      {
-        "title": "Floating Features: Bullitt",
-        "startTime": "2026-09-25T19:00:00-07:00"
+        "title": "New People: Hausu",
+        "startTime": "2026-10-02T18:30:00-07:00"
       },
       {
         "title": "Floating Features: Jaws",
         "startTime": "2026-10-02T19:00:00-07:00"
       },
       {
+        "title": "New People: Funeral Parade Of Roses",
+        "startTime": "2026-10-02T20:30:00-07:00"
+      },
+      {
+        "title": "New People: If I Go Will They Miss Me",
+        "startTime": "2026-10-03T13:15:00-07:00"
+      },
+      {
+        "title": "New People: Hausu",
+        "startTime": "2026-10-03T16:00:00-07:00"
+      },
+      {
+        "title": "New People: Funeral Parade Of Roses",
+        "startTime": "2026-10-03T18:10:00-07:00"
+      },
+      {
+        "title": "New People: The Last First: Winter K2",
+        "startTime": "2026-10-04T14:00:00-07:00"
+      },
+      {
+        "title": "New People: NAZA",
+        "startTime": "2026-10-09T18:20:00-07:00"
+      },
+      {
         "title": "Floating Features: Top Gun",
         "startTime": "2026-10-09T19:00:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: Avie Luthra",
+        "startTime": "2026-10-09T19:30:00-07:00"
+      },
+      {
+        "title": "New People: Never After Dark",
+        "startTime": "2026-10-09T20:20:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: Sand City",
+        "startTime": "2026-10-10T13:00:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: TechnoCats",
+        "startTime": "2026-10-10T15:00:00-07:00"
+      },
+      {
+        "title": "New People: NAZA",
+        "startTime": "2026-10-10T16:00:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: The Great Shamsuddin Family",
+        "startTime": "2026-10-10T17:15:00-07:00"
+      },
+      {
+        "title": "New People: Never After Dark",
+        "startTime": "2026-10-10T18:00:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: Lali",
+        "startTime": "2026-10-10T19:45:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: Eternal Trees, Eternal Mountains",
+        "startTime": "2026-10-11T12:15:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: Ghost School",
+        "startTime": "2026-10-11T14:00:00-07:00"
+      },
+      {
+        "title": "New People: NAZA",
+        "startTime": "2026-10-11T14:30:00-07:00"
+      },
+      {
+        "title": "River of Life LGBTQ+",
+        "startTime": "2026-10-11T15:00:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: The Loyal Man",
+        "startTime": "2026-10-11T16:00:00-07:00"
+      },
+      {
+        "title": "New People: Never After Dark",
+        "startTime": "2026-10-11T16:30:00-07:00"
+      },
+      {
+        "title": "New People: Jigoku (4K Restoration)",
+        "startTime": "2026-10-16T18:15:00-07:00"
       },
       {
         "title": "Floating Features: The Game",
         "startTime": "2026-10-16T19:00:00-07:00"
       },
       {
+        "title": "New People: First They Came for My College",
+        "startTime": "2026-10-17T15:00:00-07:00"
+      },
+      {
+        "title": "New People: Jigoku (4K Restoration)",
+        "startTime": "2026-10-17T18:00:00-07:00"
+      },
+      {
+        "title": "New People: Jigoku (4K Restoration)",
+        "startTime": "2026-10-18T15:00:00-07:00"
+      },
+      {
+        "title": "The 9 Lives of Barbara Dane",
+        "startTime": "2026-10-18T15:10:00-07:00"
+      },
+      {
+        "title": "New People: Take Me Home",
+        "startTime": "2026-10-23T18:00:00-07:00"
+      },
+      {
         "title": "Floating Features: Hocus Pocus",
         "startTime": "2026-10-23T19:00:00-07:00"
-      }
-    ],
-    "scenefOnly": [
+      },
       {
-        "title": "Filipiñana",
-        "startTime": "2026-09-29T18:00:00-07:00"
+        "title": "New People: The Great Experiment",
+        "startTime": "2026-10-29T18:00:00-07:00"
+      },
+      {
+        "title": "Floating Features: Us",
+        "startTime": "2026-10-30T19:00:00-07:00"
+      },
+      {
+        "title": "New People: The Snake Girl and the Silver-Haired Witch",
+        "startTime": "2026-10-31T16:45:00-07:00"
+      },
+      {
+        "title": "New People: The Gymnasts of Fisherman Colony",
+        "startTime": "2026-11-01T13:00:00-08:00"
+      },
+      {
+        "title": "An Evening with Jane Schoenbrun: Public Access Afterworld + I Saw the TV Glow",
+        "startTime": "2026-11-04T18:00:00-08:00"
+      },
+      {
+        "title": "Floating Features: Pacific Heights",
+        "startTime": "2026-11-06T19:00:00-08:00"
+      },
+      {
+        "title": "Floating Features: Friday the 13th",
+        "startTime": "2026-11-13T19:00:00-08:00"
+      },
+      {
+        "title": "New People: An Eye for an Eye",
+        "startTime": "2026-11-29T15:30:00-08:00"
+      },
+      {
+        "title": "Cameron Winter at Carnegie Hall (35mm)",
+        "startTime": "2026-12-05T16:00:00-08:00"
       }
     ],
+    "scenefOnly": [],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 5,
+      "ours": 2,
       "scenef": 0
     }
   }

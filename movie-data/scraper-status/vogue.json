@@ -1,59 +1,34 @@
 {
   "slug": "vogue",
   "theater": "Vogue",
-  "generatedAt": "2026-09-08T13:31:47.449Z",
+  "generatedAt": "2026-09-28T13:37:56.514Z",
   "status": "discrepancies",
   "report": {
-    "matched": 27,
+    "matched": 32,
     "timeMismatches": [],
-    "titleMismatches": [],
-    "oursOnly": [],
+    "titleMismatches": [
+      {
+        "startTime": "2026-10-26T19:00:00-07:00",
+        "ourTitle": "National Theatre Live: Frankenstein",
+        "scenefTitle": "NT LIVE: FRANKENSTEIN w/ Miller as Creature"
+      }
+    ],
+    "oursOnly": [
+      {
+        "title": "The Nightmare Before Christmas",
+        "startTime": "2026-10-20T17:00:00-07:00"
+      }
+    ],
     "scenefOnly": [
       {
-        "title": "The Playboy of the Western World",
-        "startTime": "2026-09-14T19:00:00-07:00"
-      },
-      {
-        "title": "Late Fame",
-        "startTime": "2026-09-18T17:00:00-07:00"
-      },
-      {
-        "title": "Late Fame",
-        "startTime": "2026-09-18T19:30:00-07:00"
-      },
-      {
-        "title": "Late Fame",
-        "startTime": "2026-09-19T14:30:00-07:00"
-      },
-      {
-        "title": "Late Fame",
-        "startTime": "2026-09-19T17:00:00-07:00"
-      },
-      {
-        "title": "Late Fame",
-        "startTime": "2026-09-19T19:30:00-07:00"
-      },
-      {
-        "title": "Late Fame",
-        "startTime": "2026-09-20T14:30:00-07:00"
-      },
-      {
-        "title": "Late Fame",
-        "startTime": "2026-09-20T17:00:00-07:00"
-      },
-      {
-        "title": "Late Fame",
-        "startTime": "2026-09-20T19:30:00-07:00"
-      },
-      {
-        "title": "Late Fame",
-        "startTime": "2026-09-23T17:00:00-07:00"
+        "title": "The Nightmare Before Christmas",
+        "startTime": "2026-10-20T16:30:00-07:00"
       }
     ],
     "collapsedDuplicates": 0,
     "excluded": {
       "ours": 0,
-      "scenef": 0
+      "scenef": 1
     }
   }
 }

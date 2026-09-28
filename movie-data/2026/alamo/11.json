@@ -1,6 +1,14 @@
 [
   {
     "theater": "Alamo",
+    "title": "Radioactive Dreams",
+    "startTime": "2026-11-04T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/0b71325ee25f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After an atomic war Phillip Hammer and Marlowe Chandler have spent 15 years on their own in an bunker, stuffed with junk from the 40s and old detective novels. Now, 19 years old, they leave their shelter to find a world full of mutants, freaks and cannibals. They become famous detectives in the struggle for the two keys that could fire the last nuclear weapon."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Exorcist",
     "startTime": "2026-11-17T21:30:00-08:00",
     "sourceUrl": "https://scenef.com/go/66f13c8d9bca",

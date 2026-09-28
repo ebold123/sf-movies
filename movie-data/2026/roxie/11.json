@@ -8,6 +8,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "New People: The Gymnasts of Fisherman Colony",
+    "startTime": "2026-11-01T13:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-the-gymnasts-of-fisherman-colony/#showtimes-20261101-1300",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Followed by a post-screening Q&A with director Habiba […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "An Evening with Jane Schoenbrun: Public Access Afterworld + I Saw the TV Glow",
+    "startTime": "2026-11-04T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/an-evening-with-jane-schoenbrun-public-access-afterworld-i-saw-the-tv-glow/#showtimes-20261104-1800",
+    "synopsis": "THIS SCREENING IS AT RUSH! Co-presented by Book Passage. Join us for a special evening with acclaimed filmmaker and writer Jane Schoenbrun, celebrating the […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Floating Features: Pacific Heights",
     "startTime": "2026-11-06T19:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/floating-features-pacific-heights/#showtimes-20261106-1900",
@@ -19,5 +33,19 @@
     "startTime": "2026-11-13T19:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/floating-features-friday-the-13th/#showtimes-20261113-1900",
     "synopsis": "A group of camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp which, years before, was […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Counsellor at Law",
+    "startTime": "2026-11-17T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/counsellor-at-law/#showtimes-20261117-1800",
+    "synopsis": "Part of our series Wild, Weird, Wicked: Films From Before the Code! Directed by the illustrious William Wyler (The Good Fairy, The Big Country, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: An Eye for an Eye",
+    "startTime": "2026-11-29T15:30:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-an-eye-for-an-eye/#showtimes-20261129-1530",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Director Tanaz Eshaghian in person for a post-screening […]"
   }
 ]

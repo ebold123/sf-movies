@@ -1,6 +1,104 @@
 [
   {
     "theater": "Roxie",
+    "title": "SpookFest 2026",
+    "startTime": "2026-10-08T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/spookfest-2026/#showtimes-20261008-1800",
+    "synopsis": "Now in its tenth year, SpookFest is the film festival that goes bump in the night! We scavenged the crypts, summoned the demons, and […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Don’t Play With Fire",
+    "startTime": "2026-10-02T20:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dont-play-with-fire/#showtimes-20261002-2015",
+    "synopsis": "Now presented in a new 2k restoration supervised by the director himself. Don’t Play with Fire (aka Dangerous Encounters of the First Kind), directed […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Dance Thrill Fest VI",
+    "startTime": "2026-10-31T15:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dance-thrill-fest-vi/#showtimes-20261031-1530",
+    "synopsis": "Dance Thrill Fest VI is the 6th iteration of an annual dance film festival curated by REYES Dance featuring short dance film works by […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "3rd i 2026: TechnoCats",
+    "startTime": "2026-10-11T15:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/3rd-i-2026-technocats/#showtimes-20261011-1500",
+    "synopsis": "At India’s elite Indian Institutes of Technology (IIT), a “Cat” is someone who aces everything. These engineering schools have produced the CEOs of Google, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: The Last First: Winter K2",
+    "startTime": "2026-10-07T14:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-the-last-first-winter-k2/#showtimes-20261007-1400",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post street in Japantown. Followed by a post-screening Q&A with director Amir […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Dead Souls",
+    "startTime": "2026-10-01T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dead-souls/#showtimes-20261001-1800",
+    "synopsis": "Composer Dan Wool, Animator Tom “Gibby” Gibbons, and VFX Supervisor Ken Rogerson IN PERSON for the Sunday, Sept 27 show! For his directorial swan […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Kwaidan (4K Restoration)",
+    "startTime": "2026-10-04T15:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/kwaidan-4k-restoration/#showtimes-20261004-1510",
+    "synopsis": "Taking its title from an archaic Japanese word meaning “ghost story,” this anthology adapts four folk tales. A penniless samurai marries for money with […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Don’t Play With Fire",
+    "startTime": "2026-10-04T18:55:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dont-play-with-fire/#showtimes-20261004-1855",
+    "synopsis": "Now presented in a new 2k restoration supervised by the director himself. Don’t Play with Fire (aka Dangerous Encounters of the First Kind), directed […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Zoé Presents: Memorex + Rexsexex y Más",
+    "startTime": "2026-10-07T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/zoe-presents-memorex-rexsexex-y-mas/#showtimes-20261007-1800",
+    "synopsis": "6 GNP Stadiums in Mexico City. Over 380,000 souls. What happened across those six nights was farmore than an unprecedented record for Mexican rock; […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Never After Dark",
+    "startTime": "2026-10-09T18:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-never-after-dark/#showtimes-20261009-1815",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Never After Dark follows Airi, a wandering medium […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Dead Souls",
+    "startTime": "2026-10-04T19:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dead-souls/#showtimes-20261004-1900",
+    "synopsis": "Composer & Sound Designer Dan Wool, Animator Tom “Gibby” Gibbons, actor Ed Pansullo, and VFX Supervisor Ken Rogerson IN PERSON after the Sunday, Sept […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Ghost in the Shell: 30th Anniversary Remaster",
+    "startTime": "2026-10-01T16:20:00-07:00",
+    "sourceUrl": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/#showtimes-20261001-1620",
+    "synopsis": "The Friday, September 18 screening is now at RUSH. “My codename is Project 2501, and I am a life form that was born in […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Filipiñana",
+    "startTime": "2026-10-01T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20261001-1800",
+    "synopsis": "Director Rafael Manuel in person for introduction and Q&A moderated by Ali El-Sadany, editor of FilmSlop, on Saturday, September 5 (at rush). Presented by FiliKula […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Lady",
+    "startTime": "2026-10-01T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-lady/#showtimes-20261001-1800",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post street in Japantown. MEMBERS-ONLY SNEAK PREVIEW Roxie members are invited to […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Black Swan",
     "startTime": "2026-10-01T18:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/black-swan/#showtimes-20261001-1830",
@@ -15,10 +113,38 @@
   },
   {
     "theater": "Roxie",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-10-01T20:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/teenage-sex-and-death-at-camp-miasma/#showtimes-20261001-2010",
+    "synopsis": "Visionary director Jane Schoenbrun (I Saw the TV Glow) presents a new kind of horror remake in TEENAGE SEX AND DEATH AT CAMP MIASMA. […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Perfect Blue",
     "startTime": "2026-10-01T20:50:00-07:00",
     "sourceUrl": "https://roxie.com/film/perfect-blue/#showtimes-20261001-2050",
     "synopsis": "“Who are…you?” Mima Kirigoe, a former pop idol, makes a bold transition into acting, but her reinvention begins to fracture her sense of identity. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Chronovisor",
+    "startTime": "2026-10-02T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/chronovisor/#showtimes-20261002-1800",
+    "synopsis": "An armchair mystery in which the life of a reclusive academic collides with the story of a clandestine technology that can photograph the past. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Traces of Home",
+    "startTime": "2026-10-02T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/traces-of-home/#showtimes-20261002-1800",
+    "synopsis": "Filmmaker Colette Ghunim in person for post-screening Q&A on Friday, October 2! Filmed over five years and featuring evocative animation and archival footage, Traces […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Hausu",
+    "startTime": "2026-10-02T18:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-hausu/#showtimes-20261002-1830",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. How to describe Nobuhiko Obayashi’s indescribable 1977 movie Hausu? […]"
   },
   {
     "theater": "Roxie",
@@ -29,10 +155,94 @@
   },
   {
     "theater": "Roxie",
+    "title": "Unzipped",
+    "startTime": "2026-10-02T20:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/unzipped/#showtimes-20261002-2010",
+    "synopsis": "NEW 4K RESTORATION This behind-the-scenes documentary takes a lighthearted look at the fashion industry through the launch of New York City designer Isaac Mizrahi’s […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Funeral Parade Of Roses",
+    "startTime": "2026-10-02T20:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/funeral-parade-of-roses/#showtimes-20261002-2030",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Part of New People Cinema Club series One […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Don’t Play With Fire",
+    "startTime": "2026-10-02T20:45:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dont-play-with-fire/#showtimes-20261002-2045",
+    "synopsis": "Now presented in a new 2k restoration supervised by the director himself. Don’t Play with Fire (aka Dangerous Encounters of the First Kind), directed […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Ashima",
     "startTime": "2026-10-03T12:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/ashima/#showtimes-20261003-1230",
     "synopsis": "Director Kenji Tsukamoto in person for Q&A! ASHIMA follows elite rock climber Ashima Shiraishi as she travels to South Africa to attempt to become […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: If I Go Will They Miss Me",
+    "startTime": "2026-10-03T13:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-if-i-go-will-they-miss-me/#showtimes-20261003-1315",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Director Walter Thompson-Hernandez in person for a post […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Chronovisor",
+    "startTime": "2026-10-03T15:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/chronovisor/#showtimes-20261003-1510",
+    "synopsis": "An armchair mystery in which the life of a reclusive academic collides with the story of a clandestine technology that can photograph the past. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Filipiñana",
+    "startTime": "2026-10-03T15:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20261003-1510",
+    "synopsis": "Director Rafael Manuel in person for introduction and Q&A moderated by Ali El-Sadany, editor of FilmSlop, on Saturday, September 5 (at rush). Presented by FiliKula […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Hausu",
+    "startTime": "2026-10-03T16:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-hausu/#showtimes-20261003-1600",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. How to describe Nobuhiko Obayashi’s indescribable 1977 movie Hausu? […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Unzipped",
+    "startTime": "2026-10-03T17:20:00-07:00",
+    "sourceUrl": "https://roxie.com/film/unzipped/#showtimes-20261003-1720",
+    "synopsis": "NEW 4K RESTORATION This behind-the-scenes documentary takes a lighthearted look at the fashion industry through the launch of New York City designer Isaac Mizrahi’s […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Perfect Blue",
+    "startTime": "2026-10-03T17:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/perfect-blue/#showtimes-20261003-1730",
+    "synopsis": "“Who are…you?” Mima Kirigoe, a former pop idol, makes a bold transition into acting, but her reinvention begins to fracture her sense of identity. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Funeral Parade Of Roses",
+    "startTime": "2026-10-03T18:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/funeral-parade-of-roses/#showtimes-20261003-1810",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Part of New People Cinema Club series One […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Traces of Home",
+    "startTime": "2026-10-03T19:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/traces-of-home/#showtimes-20261003-1905",
+    "synopsis": "Filmmaker Colette Ghunim in person for post-screening Q&A on Friday, October 2! Filmed over five years and featuring evocative animation and archival footage, Traces […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Wrong Girls",
+    "startTime": "2026-10-03T19:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-wrong-girls/#showtimes-20261003-1930",
+    "synopsis": "Director Dylan Meyer IN PERSON for Q&A! Codependent best friends Frankie (Kristen Stewart) and Molly (Alia Shawkat) spend their days living paycheck to paycheck […]"
   },
   {
     "theater": "Roxie",
@@ -43,10 +253,157 @@
   },
   {
     "theater": "Roxie",
-    "title": "Zoé Presents: Memorex + Rexsexex y Más",
+    "title": "Traces of Home",
+    "startTime": "2026-10-04T13:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/traces-of-home/#showtimes-20261004-1300",
+    "synopsis": "Filmmaker Colette Ghunim in person for post-screening Q&A on Friday, October 2! Filmed over five years and featuring evocative animation and archival footage, Traces […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: The Last First: Winter K2",
+    "startTime": "2026-10-04T14:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-the-last-first-winter-k2/#showtimes-20261004-1400",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post street in Japantown. Followed by a post-screening Q&A with director Amir […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Unzipped",
+    "startTime": "2026-10-04T15:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/unzipped/#showtimes-20261004-1505",
+    "synopsis": "NEW 4K RESTORATION This behind-the-scenes documentary takes a lighthearted look at the fashion industry through the launch of New York City designer Isaac Mizrahi’s […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Kwaidan (4K Restoration)",
+    "startTime": "2026-10-04T15:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/kwaidan-4k-restoration/#showtimes-20261004-1515",
+    "synopsis": "Taking its title from an archaic Japanese word meaning “ghost story,” this anthology adapts four folk tales. A penniless samurai marries for money with […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Chronovisor",
+    "startTime": "2026-10-04T16:50:00-07:00",
+    "sourceUrl": "https://roxie.com/film/chronovisor/#showtimes-20261004-1650",
+    "synopsis": "An armchair mystery in which the life of a reclusive academic collides with the story of a clandestine technology that can photograph the past. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Don’t Play With Fire",
+    "startTime": "2026-10-04T19:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dont-play-with-fire/#showtimes-20261004-1900",
+    "synopsis": "Now presented in a new 2k restoration supervised by the director himself. Don’t Play with Fire (aka Dangerous Encounters of the First Kind), directed […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Samurai and the Prisoner",
+    "startTime": "2026-10-04T19:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-samurai-and-the-prisoner/#showtimes-20261004-1900",
+    "synopsis": "MUST END OCTOBER 4 Co-presented by the Japan Society of Northern California “Kurosawa has made one of his best films, a work that feels a […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Traces of Home",
+    "startTime": "2026-10-05T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/traces-of-home/#showtimes-20261005-1800",
+    "synopsis": "Filmmaker Colette Ghunim in person for post-screening Q&A on Friday, October 2! Filmed over five years and featuring evocative animation and archival footage, Traces […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Chronovisor",
+    "startTime": "2026-10-05T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/chronovisor/#showtimes-20261005-1800",
+    "synopsis": "An armchair mystery in which the life of a reclusive academic collides with the story of a clandestine technology that can photograph the past. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Ghost in the Shell: 30th Anniversary Remaster",
+    "startTime": "2026-10-05T20:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/#showtimes-20261005-2010",
+    "synopsis": "The Friday, September 18 screening is now at RUSH. “My codename is Project 2501, and I am a life form that was born in […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "American Doctor",
+    "startTime": "2026-10-05T20:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/american-doctor/#showtimes-20261005-2010",
+    "synopsis": "Co-presented by the Arab Film & Media Institute (AFMI) and the Jewish Film Institute From Oscar®-nominated and Emmy® Award-winning filmmaker Poh Si Teng, American Doctor follows three American […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Filipiñana",
+    "startTime": "2026-10-06T18:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20261006-1815",
+    "synopsis": "Director Rafael Manuel in person for introduction and Q&A moderated by Ali El-Sadany, editor of FilmSlop, on Saturday, September 5 (at rush). Presented by FiliKula […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "A Lizard in a Woman’s Skin",
+    "startTime": "2026-10-06T20:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/a-lizard-in-a-womans-skin/#showtimes-20261006-2030",
+    "synopsis": "A Gialloween classic returns! When Carol (giallo superstar Florinda Bolkan, Footprints on the Moon, Don’t Torture a Duckling) begins to have feverish, erotic nightmares […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-10-06T20:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/teenage-sex-and-death-at-camp-miasma/#showtimes-20261006-2030",
+    "synopsis": "Visionary director Jane Schoenbrun (I Saw the TV Glow) presents a new kind of horror remake in TEENAGE SEX AND DEATH AT CAMP MIASMA. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Wrathbone",
     "startTime": "2026-10-07T18:00:00-07:00",
-    "sourceUrl": "https://roxie.com/film/zoe-presents-memorex-rexsexex-y-mas/#showtimes-20261007-1800",
+    "sourceUrl": "https://roxie.com/film/wrathbone/#showtimes-20261007-1800",
+    "synopsis": "Stick around after the screening for an in-depth Q&A with Steve, moderated by SpookFest co-founder Sam Haynor. International rock star Nigel Wrathbone had everything: […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Perfect Blue",
+    "startTime": "2026-10-07T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/perfect-blue/#showtimes-20261007-1800",
+    "synopsis": "“Who are…you?” Mima Kirigoe, a former pop idol, makes a bold transition into acting, but her reinvention begins to fracture her sense of identity. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Dead Souls",
+    "startTime": "2026-10-07T20:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dead-souls/#showtimes-20261007-2030",
+    "synopsis": "Composer & Sound Designer Dan Wool, Animator Tom “Gibby” Gibbons, actor Ed Pansullo, and VFX Supervisor Ken Rogerson IN PERSON after the Sunday, Sept […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Unzipped",
+    "startTime": "2026-10-08T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/unzipped/#showtimes-20261008-1800",
+    "synopsis": "NEW 4K RESTORATION This behind-the-scenes documentary takes a lighthearted look at the fashion industry through the launch of New York City designer Isaac Mizrahi’s […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "SpookFest 2026",
+    "startTime": "2026-10-08T19:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/spookfest-2026/#showtimes-20261008-1900",
+    "synopsis": "Doors open at 6:30PM! Costume contest starts at 6:50PM! Now in its tenth year, SpookFest is the film festival that goes bump in the […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Zoé Presents: Memorex + Rexsexex y Más",
+    "startTime": "2026-10-08T19:45:00-07:00",
+    "sourceUrl": "https://roxie.com/film/zoe-presents-memorex-rexsexex-y-mas/#showtimes-20261008-1945",
     "synopsis": "6 GNP Stadiums in Mexico City. Over 380,000 souls. What happened across those six nights was farmore than an unprecedented record for Mexican rock; […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Ha-Chan, Shake Your Booty!",
+    "startTime": "2026-10-09T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/ha-chan-shake-your-booty/#showtimes-20261009-1800",
+    "synopsis": "Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: NAZA",
+    "startTime": "2026-10-09T18:20:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-naza/#showtimes-20261009-1820",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. NAZA screens at NEW PEOPLE October 9–11, then […]"
   },
   {
     "theater": "Roxie",
@@ -57,10 +414,213 @@
   },
   {
     "theater": "Roxie",
+    "title": "3rd i 2026: Avie Luthra",
+    "startTime": "2026-10-09T19:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/3rd-i-2026-avie-luthra/#showtimes-20261009-1930",
+    "synopsis": "With post-screening Q&A with director Avie Luthra! For Opening Night, 3rd i Festival is thrilled to honor the creative genius of award-winning British-Indian director […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Never After Dark",
+    "startTime": "2026-10-09T20:20:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-never-after-dark/#showtimes-20261009-2020",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Never After Dark follows Airi, a wandering medium […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "3rd i 2026: Sand City",
+    "startTime": "2026-10-10T13:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/3rd-i-2026-sand-city/#showtimes-20261010-1300",
+    "synopsis": "In this arthouse experimental film, director Mahde Hasan explores Dhaka, Bangladesh, where the landscape and its inhabitants share a profound connection: sand. Cinematographer Mathieu […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "3rd i 2026: TechnoCats",
+    "startTime": "2026-10-10T15:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/3rd-i-2026-technocats/#showtimes-20261010-1500",
+    "synopsis": "At India’s elite Indian Institutes of Technology (IIT), a “Cat” is someone who aces everything. These engineering schools have produced the CEOs of Google, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: NAZA",
+    "startTime": "2026-10-10T16:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-naza/#showtimes-20261010-1600",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. NAZA screens at NEW PEOPLE October 9–11, then […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "3rd i 2026: The Great Shamsuddin Family",
+    "startTime": "2026-10-10T17:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/3rd-i-2026-the-great-shamsuddin-family/#showtimes-20261010-1715",
+    "synopsis": "A witty, razor-sharp, heartwarming social satire, acclaimed filmmaker Anusha Rizvi directs her latest tour de force (her first film, PEEPLI LIVE, was India’s offering […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Never After Dark",
+    "startTime": "2026-10-10T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-never-after-dark/#showtimes-20261010-1800",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Never After Dark follows Airi, a wandering medium […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "3rd i 2026: Lali",
+    "startTime": "2026-10-10T19:45:00-07:00",
+    "sourceUrl": "https://roxie.com/film/3rd-i-2026-lali/#showtimes-20261010-1945",
+    "synopsis": "Darkly comic and colorful, Sarmad Khoosat (producer, JOYLAND) directs a layered thriller in which ghosts walk among the living and prophecies weigh heavily on […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "3rd i 2026: Eternal Trees, Eternal Mountains",
+    "startTime": "2026-10-11T12:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/3rd-i-2026-eternal-trees-eternal-mountains/#showtimes-20261011-1215",
+    "synopsis": "With post-screening Q&A with directors Harsha Reddy and Chris Chekuri! In 1998, American student Harsha ventures into the forests of South India to study […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Who Moves America",
+    "startTime": "2026-10-11T12:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/who-moves-america/#showtimes-20261011-1230",
+    "synopsis": "Q&A with local teamsters after the screening! As the deadline for a historic strike nears, UPS Teamsters across the United States navigate the challenges […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "3rd i 2026: Ghost School",
+    "startTime": "2026-10-11T14:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/3rd-i-2026-ghost-school/#showtimes-20261011-1400",
+    "synopsis": "A magical, sweet, and visually evocative narrative, British-Pakistani director Seemab Gul captures a child’s pursuit of answers in a community weighed down by fear […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: NAZA",
+    "startTime": "2026-10-11T14:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-naza/#showtimes-20261011-1430",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. NAZA screens at NEW PEOPLE October 9–11, then […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "River of Life LGBTQ+",
+    "startTime": "2026-10-11T15:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/river-of-life-lgbtq/#showtimes-20261011-1500",
+    "synopsis": "Followed by a Q&A with filmmaker Grace Walcott and cast members after the show! River of Life LGBTQ+, directed by drama therapist Grace Walcott, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "3rd i 2026: The Loyal Man",
+    "startTime": "2026-10-11T16:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/3rd-i-2026-the-loyal-man/#showtimes-20261011-1600",
+    "synopsis": "With specially recorded Q&A with Lawrence Valin! Preceded by the short film HOMEBODY, directed by Shruti Parekh. Audience favorite, French-Sri Lankan Lawrence Valin (LITTLE […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Never After Dark",
+    "startTime": "2026-10-11T16:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-never-after-dark/#showtimes-20261011-1630",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Never After Dark follows Airi, a wandering medium […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Ha-Chan, Shake Your Booty!",
+    "startTime": "2026-10-11T17:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/ha-chan-shake-your-booty/#showtimes-20261011-1730",
+    "synopsis": "Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Tenor: My Name is Pati",
+    "startTime": "2026-10-11T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/tenor-my-name-is-pati/#showtimes-20261011-1800",
+    "synopsis": "Q&A with Pene Pati & filmmaker Rebecca Tansley, moderated by New Zealand Film Commission Chief Executive, Annie Murray Sun, Oct 11! Tenor: My Name […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "NAZA",
+    "startTime": "2026-10-12T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261012-1800",
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11 before moving to The Roxie starting October 12. In secret conversations on the rooftops of Tel Aviv […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Staff Pick: The Piano Teacher (35mm)",
+    "startTime": "2026-10-12T20:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/staff-pick-the-piano-teacher-35mm/#showtimes-20261012-2010",
+    "synopsis": "Alejo’s Staff Pick! Academy Award–winning Austrian director Michael Haneke shifted his focus from the social to the psychological for this riveting study of female […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "NAZA",
+    "startTime": "2026-10-13T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261013-1800",
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11 before moving to The Roxie starting October 12. In secret conversations on the rooftops of Tel Aviv […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Ha-Chan, Shake Your Booty!",
+    "startTime": "2026-10-13T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/ha-chan-shake-your-booty/#showtimes-20261013-1800",
+    "synopsis": "Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Office Killer",
+    "startTime": "2026-10-13T20:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/office-killer/#showtimes-20261013-2000",
+    "synopsis": "Cindy Sherman’s first and only feature film is a mordantly funny horror-comedy starring Carol Kane as Dorine, a timid copy editor pushed around by […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The House With Laughing Windows",
+    "startTime": "2026-10-13T20:35:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-house-with-laughing-windows/#showtimes-20261013-2035",
+    "synopsis": "Part of Gialloween VI! Rightfully taking its place amongst the greatest gialli ever made, Pupi Avati’s The House with Laughing Windows offers a uniquely […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Hanging By A Wire",
+    "startTime": "2026-10-14T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/hanging-by-a-wire/#showtimes-20261014-1800",
+    "synopsis": "Director Mohammed Ali Naqvi on site for a post-screening Q&A. On the morning of August 22, 2023, eight passengers – six of them schoolboys […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Arthouse 50: 49 Square Miles Surrounded by Reality: The City Envisioned by Canyon Cinema",
+    "startTime": "2026-10-14T18:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/arthouse-50-49-square-miles-surrounded-by-reality-the-city-envisioned-by-canyon-cinema/#showtimes-20261014-1815",
+    "synopsis": "Presented by Canyon Cinema Part of our Arthouse 50: Celebrating our 50th anniversary as an Arthouse In celebration of The Roxie Theater’s 50th year, this […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Scout",
+    "startTime": "2026-10-16T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-scout/#showtimes-20261016-1800",
+    "synopsis": "Sofia works as a location scout for a TV pilot filming in New York City. It’s her job to find the homes, businesses, and […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Jigoku (4K Restoration)",
+    "startTime": "2026-10-16T18:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-jigoku/#showtimes-20261016-1815",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Shocking, outrageous, and poetic, Jigoku (Hell, a.k.a. The […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Floating Features: The Game",
     "startTime": "2026-10-16T19:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/floating-features-the-game/#showtimes-20261016-1900",
     "synopsis": "After a wealthy banker is given an opportunity to participate in a mysterious game, his life is turned upside down when he becomes unable […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "NAZA",
+    "startTime": "2026-10-16T19:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261016-1905",
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11 before moving to The Roxie starting October 12. In secret conversations on the rooftops of Tel Aviv […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "3rd Annual Graveyard Shift",
+    "startTime": "2026-10-16T21:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/3rd-annual-graveyard-shift/#showtimes-20261016-2130",
+    "synopsis": "With our Arthouse 50 series this year, The Roxie is celebrating five decades as an art house cinema. Now we’re bringing the celebration to […]"
   },
   {
     "theater": "Roxie",
@@ -71,10 +631,108 @@
   },
   {
     "theater": "Roxie",
+    "title": "New People: First They Came for My College",
+    "startTime": "2026-10-17T15:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-first-they-came-for-my-college/#showtimes-20261017-1500",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Followed by a post-screening Q&A with Director Patrick […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Match Factory Girl",
+    "startTime": "2026-10-17T16:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-match-factory-girl/#showtimes-20261017-1610",
+    "synopsis": "Aki Kaurismäki takes his penchant for despairing character studies to unspeakably grim, and shockingly entertaining, depths in THE MATCH FACTORY GIRL. Kati Outinen is […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Jigoku (4K Restoration)",
+    "startTime": "2026-10-17T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-jigoku/#showtimes-20261017-1800",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Shocking, outrageous, and poetic, Jigoku (Hell, a.k.a. The […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "NAZA",
+    "startTime": "2026-10-17T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261017-1800",
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11 before moving to The Roxie starting October 12. In secret conversations on the rooftops of Tel Aviv […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Scout",
+    "startTime": "2026-10-17T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-scout/#showtimes-20261017-1800",
+    "synopsis": "Sofia works as a location scout for a TV pilot filming in New York City. It’s her job to find the homes, businesses, and […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Carter Country",
+    "startTime": "2026-10-18T12:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/carter-country/#showtimes-20261018-1230",
+    "synopsis": "Post-screening Q&A with special guests to be announced. Film Director and Writer Bobby Buccallato shares his documentary film debut of Carter Country, which follows […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Jigoku (4K Restoration)",
+    "startTime": "2026-10-18T15:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-jigoku/#showtimes-20261018-1500",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Shocking, outrageous, and poetic, Jigoku (Hell, a.k.a. The […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The 9 Lives of Barbara Dane",
+    "startTime": "2026-10-18T15:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-9-lives-of-barbara-dane/#showtimes-20261018-1510",
+    "synopsis": "WOMEN’S REBEL VOICES FILM + MUSIC TOUR Roxie + The Chapel 3:15 pm – Film Screening THE 9 LIVES OF BARBARA DANE at The […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Scout",
+    "startTime": "2026-10-18T17:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-scout/#showtimes-20261018-1715",
+    "synopsis": "Sofia works as a location scout for a TV pilot filming in New York City. It’s her job to find the homes, businesses, and […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Dr. Jekyll and Mr. Hyde (1931)",
     "startTime": "2026-10-20T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/dr-jekyll-and-mr-hyde-1931/#showtimes-20261020-1800",
     "synopsis": "Fredric March and Miriam Hopkins (Design for Living) star in Robert Lewis Stevenson‘s classic horror tale of a kind and gentle doctor looking for […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "This is Buzz",
+    "startTime": "2026-10-20T20:20:00-07:00",
+    "sourceUrl": "https://roxie.com/film/this-is-buzz/#showtimes-20261020-2020",
+    "synopsis": "Director Mark Pellington on site for a post-screening Q&A! This Is Buzz is experimental and music-driven documentary, illustrating the tale of the seismically influential, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Scout",
+    "startTime": "2026-10-21T18:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-scout/#showtimes-20261021-1830",
+    "synopsis": "Sofia works as a location scout for a TV pilot filming in New York City. It’s her job to find the homes, businesses, and […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Dario Argento’s Door Into Darkness",
+    "startTime": "2026-10-21T20:35:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dario-argentos-door-into-darkness/#showtimes-20261021-2035",
+    "synopsis": "Part of Gialloween VI! At the peak of his Seventies cinematic triumphs, horror legend Dario Argento (Suspiria, Phenomena, Tenebrae) created projects for RAI TV […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Take Me Home",
+    "startTime": "2026-10-23T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-take-me-home/#showtimes-20261023-1800",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Director Liz Sargent in person for a post-screening […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Lady",
+    "startTime": "2026-10-23T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/lady/#showtimes-20261023-1800",
+    "synopsis": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession […]"
   },
   {
     "theater": "Roxie",
@@ -85,6 +743,34 @@
   },
   {
     "theater": "Roxie",
+    "title": "Dr. Jekyll and Mr. Hyde (1931)",
+    "startTime": "2026-10-24T15:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dr-jekyll-and-mr-hyde-1931/#showtimes-20261024-1500",
+    "synopsis": "Fredric March and Miriam Hopkins (Design for Living) star in Robert Lewis Stevenson‘s classic horror tale of a kind and gentle doctor looking for […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "One In A Million",
+    "startTime": "2026-10-24T15:40:00-07:00",
+    "sourceUrl": "https://roxie.com/film/one-in-a-million/#showtimes-20261024-1540",
+    "synopsis": "Post-screening Q&A with director Jack MacInnes & film subject, Israa! Filmed over ten years, ONE IN A MILLION follows Israa from childhood to adulthood […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Lady",
+    "startTime": "2026-10-24T17:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/lady/#showtimes-20261024-1715",
+    "synopsis": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Playing with Fire: An Ecosexual Emergency",
+    "startTime": "2026-10-25T13:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/playing-with-fire-an-ecosexual-emergency/#showtimes-20261025-1300",
+    "synopsis": "Beth Stephens & Annie Sprinkle IN PERSON! Playing with Fire: An Ecosexual Emergency is a joyous ecosexual documentary born from the ashes of California’s […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Rewind Presents: The Craft",
     "startTime": "2026-10-27T21:15:00-07:00",
     "sourceUrl": "https://roxie.com/film/rewind-presents-the-craft/#showtimes-20261027-2115",
@@ -92,9 +778,51 @@
   },
   {
     "theater": "Roxie",
+    "title": "New People: The Great Experiment",
+    "startTime": "2026-10-29T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-the-great-experiment/#showtimes-20261029-1800",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Followed by a post-screening Q&A with Co-Director Eric […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Woman in the Dunes",
+    "startTime": "2026-10-29T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/woman-in-the-dunes/#showtimes-20261029-1800",
+    "synopsis": "One of the great international art-house sensations of the 1960s, Hiroshi Teshigahara’s WOMAN IN THE DUNES remains a hypnotic, unsettling vision of desire, captivity, […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Floating Features: Us",
     "startTime": "2026-10-30T19:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/floating-features-us/#showtimes-20261030-1900",
     "synopsis": "In order to get away from their busy lives, the Wilson family takes a vacation to Santa Cruz, California. At night, four strangers break […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Alien",
+    "startTime": "2026-10-30T21:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/alien/#showtimes-20261030-2105",
+    "synopsis": "The crew of the commercial towing ship Nostromo is heading home with 20 million tons of mineral ore when a mysterious transmission pulls them […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Séance",
+    "startTime": "2026-10-31T13:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/seance/#showtimes-20261031-1300",
+    "synopsis": "Director Vivian Kerr in attendance for a post-screening Q&A! In 1892 California, a woman contemplating adultery is forced to take refuge from a storm […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Dance Thrill Fest VI",
+    "startTime": "2026-10-31T16:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dance-thrill-fest-vi/#showtimes-20261031-1600",
+    "synopsis": "Dance Thrill Fest VI is the 6th iteration of an annual dance film festival curated by REYES Dance featuring short dance film works by […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: The Snake Girl and the Silver-Haired Witch",
+    "startTime": "2026-10-31T16:45:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-the-snake-girl-and-the-silver-haired-witch/#showtimes-20261031-1645",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. This movie feels like it was dreamed into […]"
   }
 ]

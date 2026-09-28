@@ -146,21 +146,29 @@ function laDate(isoInstant: string): string {
 }
 
 // The two feeds look different distances into the future, so showings are
-// only comparable on days both feeds cover: from the later of the two first
-// days through the earlier of the two last days. Showings outside that
-// window are counted as excluded, never as discrepancies.
-function overlapWindow(oursDates: string[], theirsDates: string[]): { first: string; last: string } | undefined {
+// only comparable on days both feeds cover: from the latest of today and the
+// two first days through the earlier of the two last days. Showings outside
+// that window are counted as excluded, never as discrepancies.
+function overlapWindow(
+  oursDates: string[],
+  theirsDates: string[],
+  today: string,
+): { first: string; last: string } | undefined {
   if (oursDates.length === 0 || theirsDates.length === 0) return undefined;
   const bounds = (dates: string[]) => [dates.reduce((a, b) => (a < b ? a : b)), dates.reduce((a, b) => (a > b ? a : b))];
   const [oursFirst, oursLast] = bounds(oursDates);
   const [theirsFirst, theirsLast] = bounds(theirsDates);
   return {
-    first: oursFirst > theirsFirst ? oursFirst : theirsFirst,
+    first: [oursFirst, theirsFirst, today].reduce((a, b) => (a > b ? a : b)),
     last: oursLast < theirsLast ? oursLast : theirsLast,
   };
 }
 
-export function compareWithSceneF(ours: Event[], scenef: SceneFListingsResponse): ComparisonReport {
+export function compareWithSceneF(
+  ours: Event[],
+  scenef: SceneFListingsResponse,
+  now: Date,
+): ComparisonReport {
   const titleByFilmKey = new Map(scenef.films.map((film) => [film.key, film.title]));
   const { kept: theirs, collapsed: collapsedDuplicates } = collapseDuplicates(
     scenef.screenings.map((screening) => ({
@@ -170,7 +178,11 @@ export function compareWithSceneF(ours: Event[], scenef: SceneFListingsResponse)
     })),
   );
 
-  const window = overlapWindow(ours.map((e) => laDate(e.startTime)), theirs.map((r) => laDate(r.startTime)));
+  const window = overlapWindow(
+    ours.map((e) => laDate(e.startTime)),
+    theirs.map((r) => laDate(r.startTime)),
+    laDate(now.toISOString()),
+  );
   const inWindow = (isoInstant: string) =>
     window !== undefined && laDate(isoInstant) >= window.first && laDate(isoInstant) <= window.last;
 

@@ -42,6 +42,24 @@ const timeFormatter = new Intl.DateTimeFormat("en-US", {
   minute: "2-digit",
 });
 
+// "YYYY-MM-DD HH:MM" in Pacific time, for when this page was built.
+function formatTimestamp(date: Date): string {
+  const parts = Object.fromEntries(
+    new Intl.DateTimeFormat("en-US", {
+      timeZone: "America/Los_Angeles",
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+      hour: "2-digit",
+      minute: "2-digit",
+      hourCycle: "h23",
+    })
+      .formatToParts(date)
+      .map((part) => [part.type, part.value]),
+  );
+  return `${parts.year}-${parts.month}-${parts.day} ${parts.hour}:${parts.minute}`;
+}
+
 function formatDay(isoInstant: string): string {
   return showingFormatter.format(new Date(isoInstant));
 }
@@ -91,6 +109,7 @@ function summarize(view: StatusView | undefined): string {
   <body>
     <main class="content">
       <h1>Scraper Status</h1>
+      <p class="last-updated">last updated: {formatTimestamp(new Date())}</p>
       <p class="attribution">
         Each theater's scraped showtimes, checked against an independent source.
         Showtimes via <a href="https://scenef.com">SceneF.com</a>.
@@ -201,6 +220,9 @@ function summarize(view: StatusView | undefined): string {
     max-width: 46rem;
     margin: 0 auto;
     padding: 1rem;
+  }
+  .last-updated {
+    font-size: var(--font-size-sm);
   }
   .attribution {
     font-size: var(--font-size-sm);

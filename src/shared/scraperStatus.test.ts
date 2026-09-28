@@ -38,6 +38,9 @@ function sampleListings() {
   };
 }
 
+// A "now" before the sample showing, so it isn't excluded as past.
+const NOW = new Date("2026-08-01T12:00:00-07:00");
+
 function fetchReturning(body: unknown) {
   return async () => ({ json: async () => body }) as Response;
 }
@@ -58,7 +61,7 @@ async function readBlock(slug: string) {
 
 describe("recordScraperStatus", () => {
   it("writes an ok block when SceneF confirms every showing", async () => {
-    await recordScraperStatus(statusDir, balboa, [sampleOurEvent()], fetchReturning(sampleListings()));
+    await recordScraperStatus(statusDir, balboa, [sampleOurEvent()], fetchReturning(sampleListings()), NOW);
 
     expect(await readBlock("balboa")).toEqual({
       slug: "balboa",
@@ -87,7 +90,7 @@ describe("recordScraperStatus", () => {
       ticketUrl: "https://scenef.com/go/ef195d1f20d0",
     });
 
-    await recordScraperStatus(statusDir, balboa, [sampleOurEvent()], fetchReturning(listings));
+    await recordScraperStatus(statusDir, balboa, [sampleOurEvent()], fetchReturning(listings), NOW);
 
     const block = await readBlock("balboa");
     expect(block.status).toBe("discrepancies");
@@ -101,7 +104,7 @@ describe("recordScraperStatus", () => {
       throw new Error("SceneF request timed out");
     };
 
-    await recordScraperStatus(statusDir, balboa, [sampleOurEvent()], failingFetch);
+    await recordScraperStatus(statusDir, balboa, [sampleOurEvent()], failingFetch, NOW);
 
     expect(await readBlock("balboa")).toEqual({
       slug: "balboa",
@@ -121,7 +124,7 @@ describe("recordScraperStatus", () => {
       venueId: "alamo-new-mission",
     };
 
-    await recordScraperStatus(statusDir, alamo, [sampleOurEvent()], fetchReturning(sampleListings()));
+    await recordScraperStatus(statusDir, alamo, [sampleOurEvent()], fetchReturning(sampleListings()), NOW);
 
     await expect(readBlock("alamo")).rejects.toThrow(/ENOENT/);
   });

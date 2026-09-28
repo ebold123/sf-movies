@@ -31,6 +31,7 @@ export async function runSceneFComparison(
   theater: TheaterConfig,
   ours: Event[],
   fetchFn: (url: string) => Promise<Response> = fetch,
+  now: Date = new Date(),
 ): Promise<ComparisonReport> {
   const venueId = scenefVenueIdFor(theater);
   if (!venueId) throw new Error(`No SceneF venue mapping for "${theater.slug}"`);
@@ -39,7 +40,7 @@ export async function runSceneFComparison(
   // there, and the comparison needs it to spot SceneF's duplicate listings.
   const response = await fetchFn(`https://scenef.com/api/listings?venue=${venueId}`);
   const scenef: SceneFListingsResponse = await response.json();
-  return compareWithSceneF(ours, scenef);
+  return compareWithSceneF(ours, scenef, now);
 }
 
 export interface ScraperStatusBlock {
@@ -56,12 +57,13 @@ export async function recordScraperStatus(
   theater: TheaterConfig,
   events: Event[],
   fetchFn: (url: string) => Promise<Response> = fetch,
+  now: Date = new Date(),
 ): Promise<void> {
   // A theater whose showtimes come FROM SceneF would only compare SceneF
   // to itself — circular, so it gets no status block at all.
   if (theater.source === "scenef") return;
 
-  const block = await buildBlock(theater, events, fetchFn);
+  const block = await buildBlock(theater, events, fetchFn, now);
   await mkdir(statusDir, { recursive: true });
   await writeFile(join(statusDir, `${theater.slug}.json`), `${JSON.stringify(block, null, 2)}\n`);
 }
@@ -90,6 +92,7 @@ async function buildBlock(
   theater: TheaterConfig,
   events: Event[],
   fetchFn: (url: string) => Promise<Response>,
+  now: Date,
 ): Promise<ScraperStatusBlock> {
   const identity = {
     slug: theater.slug,
@@ -102,7 +105,7 @@ async function buildBlock(
   }
 
   try {
-    const report = await runSceneFComparison(theater, events, fetchFn);
+    const report = await runSceneFComparison(theater, events, fetchFn, now);
     return { ...identity, status: hasDiscrepancies(report) ? "discrepancies" : "ok", report };
   } catch (error) {
     return { ...identity, status: "unavailable", error: (error as Error).message };

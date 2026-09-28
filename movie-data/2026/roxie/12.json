@@ -1,6 +1,20 @@
 [
   {
     "theater": "Roxie",
+    "title": "Cameron Winter at Carnegie Hall (35mm)",
+    "startTime": "2026-12-05T16:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/cameron-winter-at-carnegie-hall-35mm/#showtimes-20261205-1600",
+    "synopsis": "Cameron Winter, in December 2025, after a months-long sold-out tour with his band Geese, returned to New York to play a single show at […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Cameron Winter at Carnegie Hall (35mm)",
+    "startTime": "2026-12-06T13:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/cameron-winter-at-carnegie-hall-35mm/#showtimes-20261206-1300",
+    "synopsis": "Cameron Winter, in December 2025, after a months-long sold-out tour with his band Geese, returned to New York to play a single show at […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Floating Features: National Lampoon’s Christmas Vacation",
     "startTime": "2026-12-12T18:30:00-08:00",
     "sourceUrl": "https://roxie.com/film/floating-features-national-lampoons-christmas-vacation/#showtimes-20261212-1830",

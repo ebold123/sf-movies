@@ -1,46 +1,21 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-08T13:43:02.930Z",
+  "generatedAt": "2026-09-28T13:48:44.496Z",
   "status": "discrepancies",
   "report": {
-    "matched": 9,
+    "matched": 10,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-09-10T19:30:00-07:00",
-        "ourTitle": "FUGS FILM! with LIVE MUSIC from Michael Mouse and Filmmaker Q&A (Presented by TRASH & TREASURES)",
-        "scenefTitle": "FUGS FILM! with Live Fugs Tribute Set and Q&A"
-      },
-      {
-        "startTime": "2026-09-12T18:30:00-07:00",
-        "ourTitle": "KEXP'S VINELANDS LIVE: Mild Universe, Camellia Boutros",
-        "scenefTitle": "KEXP VINELANDS LIVE: Mild Universe & more"
-      },
-      {
-        "startTime": "2026-09-16T20:00:00-07:00",
-        "ourTitle": "LIVE MUSIC: Croz Boyce (Avey Tare and Geologist of Animal Collective), Jas Stade (Presented by folkYEAH!)",
-        "scenefTitle": "LIVE MUSIC: Croz Boyce, Jas Stade"
-      },
-      {
-        "startTime": "2026-09-18T20:00:00-07:00",
-        "ourTitle": "LIVE MUSIC: Spencer Noble (Record Release), Peña, Cilantro",
-        "scenefTitle": "LIVE MUSIC: Spencer Noble, Peña, Cilantro"
-      },
-      {
-        "startTime": "2026-09-21T20:00:00-07:00",
-        "ourTitle": "LIVE MUSIC: Marlon Magnée (of La Femme), Future Twin",
-        "scenefTitle": "LIVE MUSIC: Marlon Magnée (La Femme), Future Twin"
-      },
-      {
-        "startTime": "2026-09-24T20:00:00-07:00",
-        "ourTitle": "LIVE MUSIC: Tom Conneely & the Birds of Paradise, My Dog Jack, Eliza Dewar",
-        "scenefTitle": "LIVE MUSIC: Tom Conneely & BoP, My Dog Jack"
-      },
       {
         "startTime": "2026-10-03T20:00:00-07:00",
         "ourTitle": "LIVE MUSIC: The Sleeves, Fred Frith",
         "scenefTitle": "LIVE MUSIC: Fred Frith, The Sleeves"
+      },
+      {
+        "startTime": "2026-10-08T19:30:00-07:00",
+        "ourTitle": "LIVE MUSIC: Freight Train Lady (Record Release), Indianna Hale, Forest Floor",
+        "scenefTitle": "MUSIC: Freight Train Lady, Indianna Hale & more"
       },
       {
         "startTime": "2026-10-23T20:00:00-07:00",
@@ -50,99 +25,95 @@
     ],
     "oursOnly": [
       {
-        "title": "FOGCUTTER FILM SERIES and DJ GRAMPAPHONE BIRTHDAY PARTY: VOLUME 25 - Stop Making Sense (Dance Party - Hosted by Robert Mailer Anderson)",
-        "startTime": "2026-09-09T18:00:00-07:00"
+        "title": "The Bad Guys",
+        "startTime": "2026-10-03T10:00:00-07:00"
       },
       {
-        "title": "LIVE MUSIC: Gordi, Gracie and Rachel (Presented by THROWIN' BO'S)",
-        "startTime": "2026-09-11T20:00:00-07:00"
+        "title": "Roll Fog (Preview Screening Fundraiser with Q&A)",
+        "startTime": "2026-10-03T15:00:00-07:00"
       },
       {
-        "title": "The Lego Movie",
-        "startTime": "2026-09-13T10:00:00-07:00"
+        "title": "The Bad Guys",
+        "startTime": "2026-10-04T10:00:00-07:00"
       },
       {
-        "title": "SF CRITTERFEST: Second Nature (with Ducks)",
-        "startTime": "2026-09-17T18:15:00-07:00"
+        "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+        "startTime": "2026-10-10T10:00:00-07:00"
       },
       {
-        "title": "COMEDY: Honey Pluton & Spike Einbinder",
-        "startTime": "2026-09-17T21:00:00-07:00"
+        "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+        "startTime": "2026-10-11T10:00:00-07:00"
       },
       {
-        "title": "4 Star Pokemon Cartoon Block",
-        "startTime": "2026-09-19T10:00:00-07:00"
-      },
-      {
-        "title": "SF CRITTERFEST: Flamingos: Life After the Meteorite (with Talking to Owls)",
-        "startTime": "2026-09-19T12:00:00-07:00"
-      },
-      {
-        "title": "SF CRITTERFEST: Better Call Babs (with Other Shorts)",
-        "startTime": "2026-09-19T14:00:00-07:00"
-      },
-      {
-        "title": "4 Star Pokemon Cartoon Block",
-        "startTime": "2026-09-20T10:00:00-07:00"
-      },
-      {
-        "title": "SF CRITTERFEST: Wild Asia: Life at Extremes (with Other Shorts)",
-        "startTime": "2026-09-20T12:00:00-07:00"
-      },
-      {
-        "title": "SF CRITTERFEST: The Ark",
-        "startTime": "2026-09-20T14:00:00-07:00"
-      },
-      {
-        "title": "SF CRITTERFEST: Unspoken Bond (with Gianna & Anne)",
-        "startTime": "2026-09-20T16:00:00-07:00"
-      },
-      {
-        "title": "My Neighbor Totoro",
-        "startTime": "2026-09-26T10:00:00-07:00"
+        "title": "Roll Fog (Preview Screening Fundraiser with Q&A)",
+        "startTime": "2026-10-11T12:30:00-07:00"
       },
       {
         "title": "Closed for a Private Event",
-        "startTime": "2026-09-26T14:00:00-07:00"
+        "startTime": "2026-10-11T15:30:00-07:00"
       },
       {
-        "title": "LIVE MUSIC: Mildred, Charlie Bishop (Presented by THROWIN' BO'S)",
-        "startTime": "2026-09-26T20:00:00-07:00"
+        "title": "FOGCUTTER FILM SERIES: VOLUME 26 - The Buddy Holly Story (Hosted by Chuck Prophet)",
+        "startTime": "2026-10-14T18:00:00-07:00"
       },
       {
-        "title": "My Neighbor Totoro",
-        "startTime": "2026-09-27T10:00:00-07:00"
+        "title": "4-Star Halloween Cartoon Special",
+        "startTime": "2026-10-17T10:00:00-07:00"
+      },
+      {
+        "title": "4-Star Halloween Cartoon Special",
+        "startTime": "2026-10-18T10:00:00-07:00"
+      },
+      {
+        "title": "Casper",
+        "startTime": "2026-10-24T10:00:00-07:00"
+      },
+      {
+        "title": "Casper",
+        "startTime": "2026-10-25T10:00:00-07:00"
       },
       {
         "title": "LIVE MUSIC: Resavoir, Cheflee (Presented by THROWIN' BO'S)",
         "startTime": "2026-10-25T20:00:00-07:00"
+      },
+      {
+        "title": "Labyrinth",
+        "startTime": "2026-10-31T10:00:00-07:00"
+      },
+      {
+        "title": "Labyrinth",
+        "startTime": "2026-11-01T10:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: Green-House, Cool Maritime (Presented by THROWIN' BO'S)",
+        "startTime": "2026-11-04T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: School Fair, goldenstar, Poor Image (Presented by THROWIN' BO'S)",
+        "startTime": "2026-11-12T20:00:00-08:00"
       }
     ],
     "scenefOnly": [
       {
-        "title": "Stop Making Sense",
-        "startTime": "2026-09-09T19:00:00-07:00"
+        "title": "The Buddy Holly Story",
+        "startTime": "2026-10-14T19:00:00-07:00"
       },
       {
-        "title": "COMEDY: Honey Pluton & Spike Einbinder",
-        "startTime": "2026-09-17T20:30:00-07:00"
+        "title": "It's the Great Pumpkin, Charlie Brown",
+        "startTime": "2026-10-30T18:00:00-07:00"
       },
       {
-        "title": "My Neighbor Totoro",
-        "startTime": "2026-09-26T12:15:00-07:00"
+        "title": "It",
+        "startTime": "2026-10-30T19:30:00-07:00"
       },
       {
-        "title": "My Neighbor Totoro",
-        "startTime": "2026-09-27T12:30:00-07:00"
-      },
-      {
-        "title": "My Neighbor Totoro",
-        "startTime": "2026-09-27T15:00:00-07:00"
+        "title": "Labyrinth",
+        "startTime": "2026-11-01T19:00:00-08:00"
       }
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 4,
+      "ours": 5,
       "scenef": 0
     }
   }

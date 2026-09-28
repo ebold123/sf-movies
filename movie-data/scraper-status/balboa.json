@@ -1,121 +1,88 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-09-08T13:28:31.550Z",
+  "generatedAt": "2026-09-28T13:33:48.601Z",
   "status": "discrepancies",
   "report": {
-    "matched": 75,
+    "matched": 76,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-09-19T20:00:00-07:00",
-        "ourTitle": "Comedy Night at the Balboa (Headliner Scott Capurro)",
-        "scenefTitle": "Comedy At The Balboa: Scott Capurro"
-      },
-      {
-        "startTime": "2026-09-22T19:00:00-07:00",
-        "ourTitle": "Ghost Dog: Way of the Samurai",
-        "scenefTitle": "Ghost Dog: The Way of the Samurai"
-      },
       {
         "startTime": "2026-10-23T20:00:00-07:00",
         "ourTitle": "LIVE  MUSIC:  Izaak Opatz, Joe Kaplow",
         "scenefTitle": "LIVE MUSIC: Izaak Opatz and Joe Kaplow"
+      },
+      {
+        "startTime": "2026-10-24T19:00:00-07:00",
+        "ourTitle": "Wildwood",
+        "scenefTitle": "Vibeland Episode 2"
       }
     ],
     "oursOnly": [
       {
-        "title": "Twilight (1999)",
-        "startTime": "2026-09-16T19:30:00-07:00"
+        "title": "Wildwood",
+        "startTime": "2026-10-23T18:00:00-07:00"
+      },
+      {
+        "title": "Wildwood",
+        "startTime": "2026-10-24T13:00:00-07:00"
+      },
+      {
+        "title": "Wildwood",
+        "startTime": "2026-10-24T16:00:00-07:00"
+      },
+      {
+        "title": "Vibeland Ep. 2",
+        "startTime": "2026-10-24T19:00:00-07:00"
+      },
+      {
+        "title": "Wildwood",
+        "startTime": "2026-10-28T19:00:00-07:00"
       }
     ],
     "scenefOnly": [
       {
-        "title": "Twin Peaks Fest (Fri. Pass)",
-        "startTime": "2026-09-11T22:00:00-07:00"
+        "title": "Digger",
+        "startTime": "2026-10-03T17:00:00-07:00"
       },
       {
-        "title": "Twin Peaks Fest (Sat. Pass)",
-        "startTime": "2026-09-12T22:00:00-07:00"
+        "title": "Digger",
+        "startTime": "2026-10-03T20:00:00-07:00"
       },
       {
-        "title": "Twin Peaks Fest (Sun. Pass)",
-        "startTime": "2026-09-13T22:00:00-07:00"
+        "title": "Digger",
+        "startTime": "2026-10-04T16:00:00-07:00"
       },
       {
-        "title": "Twin Peaks Fest (Weekend Pass)",
-        "startTime": "2026-09-13T23:00:00-07:00"
+        "title": "Digger",
+        "startTime": "2026-10-04T19:00:00-07:00"
       },
       {
-        "title": "Twin Peaks: SEASON 1, EP. 1 (Northwest Passage)",
-        "startTime": "2026-09-14T17:00:00-07:00"
-      },
-      {
-        "title": "Twilight",
-        "startTime": "2026-09-16T16:30:00-07:00"
-      },
-      {
-        "title": "Comedy Night at the Balboa (Headliner Scott Capurro)",
-        "startTime": "2026-09-19T19:30:00-07:00"
-      },
-      {
-        "title": "Resident Evil",
-        "startTime": "2026-09-25T20:00:00-07:00"
-      },
-      {
-        "title": "Resident Evil",
-        "startTime": "2026-09-26T15:00:00-07:00"
-      },
-      {
-        "title": "Resident Evil",
-        "startTime": "2026-09-26T17:30:00-07:00"
-      },
-      {
-        "title": "Resident Evil",
-        "startTime": "2026-09-26T20:00:00-07:00"
-      },
-      {
-        "title": "The Rocky Horror Picture Show",
-        "startTime": "2026-09-26T23:00:00-07:00"
-      },
-      {
-        "title": "Resident Evil",
-        "startTime": "2026-09-27T14:30:00-07:00"
-      },
-      {
-        "title": "Resident Evil",
-        "startTime": "2026-09-27T17:00:00-07:00"
-      },
-      {
-        "title": "Resident Evil",
-        "startTime": "2026-09-28T19:30:00-07:00"
-      },
-      {
-        "title": "Resident Evil",
-        "startTime": "2026-09-29T17:30:00-07:00"
-      },
-      {
-        "title": "Resident Evil",
-        "startTime": "2026-09-30T19:30:00-07:00"
-      },
-      {
-        "title": "Resident Evil",
-        "startTime": "2026-10-01T17:00:00-07:00"
-      },
-      {
-        "title": "Queen: Budapest",
-        "startTime": "2026-10-07T19:00:00-07:00"
-      },
-      {
-        "title": "Queen: Budapest",
-        "startTime": "2026-10-10T19:00:00-07:00"
+        "title": "Beauty and the Beast",
+        "startTime": "2026-10-06T19:30:00-07:00"
       },
       {
         "title": "The International Vampire Film Fest",
         "startTime": "2026-10-17T22:30:00-07:00"
+      },
+      {
+        "title": "Wildwood",
+        "startTime": "2026-10-23T17:00:00-07:00"
+      },
+      {
+        "title": "Wildwood",
+        "startTime": "2026-10-25T13:00:00-07:00"
+      },
+      {
+        "title": "Wildwood",
+        "startTime": "2026-10-25T16:00:00-07:00"
+      },
+      {
+        "title": "Wildwood",
+        "startTime": "2026-10-25T19:00:00-07:00"
       }
     ],
-    "collapsedDuplicates": 16,
+    "collapsedDuplicates": 1,
     "excluded": {
       "ours": 0,
       "scenef": 0

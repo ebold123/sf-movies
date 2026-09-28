@@ -33,6 +33,9 @@ function sampleListings(overrides: Partial<SceneFListingsResponse> = {}): SceneF
   };
 }
 
+// A "now" before every sample showing, so none are excluded as past.
+const NOW = new Date("2026-08-01T12:00:00-07:00");
+
 // SceneF reads the Cinema SF venues from two places and titles them
 // differently, publishing some screenings twice. These fixtures are the real
 // Sep 11 Balboa instant.
@@ -71,7 +74,7 @@ describe("SceneF duplicate screenings", () => {
       ],
     });
 
-    expect(compareWithSceneF(ours, scenef)).toEqual({
+    expect(compareWithSceneF(ours, scenef, NOW)).toEqual({
       matched: 1,
       timeMismatches: [],
       titleMismatches: [],
@@ -107,6 +110,7 @@ describe("SceneF duplicate screenings", () => {
     const report = compareWithSceneF(
       [sampleOurEvent({ title: "Akira", startTime: "2026-09-07T16:30:00-07:00" })],
       scenef,
+      NOW,
     );
 
     expect(report.collapsedDuplicates).toBe(0);
@@ -142,6 +146,7 @@ describe("SceneF duplicate screenings", () => {
         }),
       ],
       scenef,
+      NOW,
     );
 
     expect(report.collapsedDuplicates).toBe(1);
@@ -152,7 +157,7 @@ describe("SceneF duplicate screenings", () => {
 
 describe("compareWithSceneF", () => {
   it("counts a showing with the same start instant and title as matched", () => {
-    expect(compareWithSceneF([sampleOurEvent()], sampleListings())).toEqual({
+    expect(compareWithSceneF([sampleOurEvent()], sampleListings(), NOW)).toEqual({
       matched: 1,
       timeMismatches: [],
       titleMismatches: [],
@@ -168,7 +173,7 @@ describe("compareWithSceneF", () => {
     const ours = [sampleOurEvent({ title: "Akira 4K" })];
     const scenef = sampleListings({ films: [{ key: "tmdb-16692", title: "Akira" }] });
 
-    expect(compareWithSceneF(ours, scenef).matched).toBe(1);
+    expect(compareWithSceneF(ours, scenef, NOW).matched).toBe(1);
   });
 
   it("reports showings only SceneF has — the collapsed-Balboa-day case", () => {
@@ -183,7 +188,7 @@ describe("compareWithSceneF", () => {
       ],
     });
 
-    expect(compareWithSceneF(ours, scenef)).toEqual({
+    expect(compareWithSceneF(ours, scenef, NOW)).toEqual({
       matched: 1,
       timeMismatches: [],
       titleMismatches: [],
@@ -205,7 +210,7 @@ describe("compareWithSceneF", () => {
       sampleOurEvent({ title: "Basic Instinct", startTime: "2026-09-15T19:00:00-07:00" }),
     ];
 
-    expect(compareWithSceneF(ours, sampleListings())).toEqual({
+    expect(compareWithSceneF(ours, sampleListings(), NOW)).toEqual({
       matched: 1,
       timeMismatches: [],
       titleMismatches: [],
@@ -219,7 +224,7 @@ describe("compareWithSceneF", () => {
   it("reports the same film a few minutes apart as time mismatch, with both times", () => {
     const ours = [sampleOurEvent({ startTime: "2026-08-30T14:35:00-07:00" })];
 
-    expect(compareWithSceneF(ours, sampleListings())).toEqual({
+    expect(compareWithSceneF(ours, sampleListings(), NOW)).toEqual({
       matched: 0,
       timeMismatches: [
         {
@@ -239,7 +244,7 @@ describe("compareWithSceneF", () => {
   it("reports different films at the same instant as a title mismatch", () => {
     const ours = [sampleOurEvent({ title: "Basic Instinct" })];
 
-    expect(compareWithSceneF(ours, sampleListings())).toEqual({
+    expect(compareWithSceneF(ours, sampleListings(), NOW)).toEqual({
       matched: 0,
       timeMismatches: [],
       titleMismatches: [
@@ -256,6 +261,31 @@ describe("compareWithSceneF", () => {
     });
   });
 
+  it("excludes showings from before today in Pacific time", () => {
+    // 11 PM Pacific on Aug 29 is already Aug 30 in UTC; it is still a past day.
+    const ours = [
+      sampleOurEvent(),
+      sampleOurEvent({ title: "Basic Instinct", startTime: "2026-08-29T23:00:00-07:00" }),
+    ];
+    const scenef = sampleListings({
+      screenings: [
+        sampleScreening(),
+        sampleScreening({ id: "aaa111bbb222", startsAt: "2026-08-29T23:00:00-07:00" }),
+      ],
+    });
+    const now = new Date("2026-08-30T00:30:00-07:00");
+
+    expect(compareWithSceneF(ours, scenef, now)).toEqual({
+      matched: 1,
+      timeMismatches: [],
+      titleMismatches: [],
+      oursOnly: [],
+      scenefOnly: [],
+      collapsedDuplicates: 0,
+      excluded: { ours: 1, scenef: 1 },
+    });
+  });
+
   it("excludes SceneF showings beyond our horizon, symmetrically", () => {
     const scenef = sampleListings({
       screenings: [
@@ -264,7 +294,7 @@ describe("compareWithSceneF", () => {
       ],
     });
 
-    expect(compareWithSceneF([sampleOurEvent()], scenef)).toEqual({
+    expect(compareWithSceneF([sampleOurEvent()], scenef, NOW)).toEqual({
       matched: 1,
       timeMismatches: [],
       titleMismatches: [],
