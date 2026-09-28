@@ -6,6 +6,7 @@ import { fetchCinemaSfEvents } from "./cinemaSf";
 import { fetchTribeEvents } from "./tribeEvents";
 import { fetchBottomOfTheHillEvents } from "./bottomOfTheHill";
 import { fetchTheIndependentEvents } from "./theIndependent";
+import { fetchLiveNationEvents } from "./livenation";
 
 // The one entry point for "fetch this theater's upcoming events, live".
 // Every script (the daily scrape, diagnostics) goes through this dispatch so
@@ -27,5 +28,7 @@ export function fetchEventsFor(theater: TheaterConfig): Promise<Event[]> {
       return fetchBottomOfTheHillEvents(theater.baseUrl, theater.name);
     case "the-independent":
       return fetchTheIndependentEvents(theater.baseUrl, theater.name);
+    case "live-nation":
+      return fetchLiveNationEvents(theater.baseUrl, theater.name);
   }
 }

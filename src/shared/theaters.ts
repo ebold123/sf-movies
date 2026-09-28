@@ -2,7 +2,7 @@ export interface TheaterConfig {
   slug: string;
   name: string;
   baseUrl: string;
-  source: "cinema-sf" | "roxie" | "scenef" | "tribe" | "bottom-of-the-hill" | "the-independent";
+  source: "cinema-sf" | "roxie" | "scenef" | "tribe" | "bottom-of-the-hill" | "the-independent" | "live-nation";
   // Required when source is "scenef" — the venue id in SceneF's feed.
   venueId?: string;
   // This fork only scrapes and displays "music" venues (see scrape-music-venues.ts
@@ -77,6 +77,13 @@ export const theaters: Record<string, TheaterConfig> = {
     name: "Bottom of the Hill",
     baseUrl: "https://bottomofthehill.com",
     source: "bottom-of-the-hill",
+    category: "music",
+  },
+  fillmore: {
+    slug: "fillmore",
+    name: "The Fillmore",
+    baseUrl: "https://www.thefillmore.com",
+    source: "live-nation",
     category: "music",
   },
 };
