@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-27T13:51:27.088Z",
+  "generatedAt": "2026-09-28T13:55:30.600Z",
   "status": "discrepancies",
   "report": {
-    "matched": 86,
+    "matched": 80,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -20,12 +20,8 @@
     ],
     "oursOnly": [
       {
-        "title": "Filipiñana",
-        "startTime": "2026-09-27T17:40:00-07:00"
-      },
-      {
-        "title": "Filipiñana",
-        "startTime": "2026-09-27T19:55:00-07:00"
+        "title": "American Doctor",
+        "startTime": "2026-09-30T18:00:00-07:00"
       },
       {
         "title": "New People: Lady",
@@ -200,12 +196,7 @@
         "startTime": "2026-12-05T16:00:00-08:00"
       }
     ],
-    "scenefOnly": [
-      {
-        "title": "Ha-Chan, Shake Your Booty!",
-        "startTime": "2026-10-11T17:30:00-07:00"
-      }
-    ],
+    "scenefOnly": [],
     "collapsedDuplicates": 0,
     "excluded": {
       "ours": 2,
