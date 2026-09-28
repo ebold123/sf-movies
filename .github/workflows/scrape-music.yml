@@ -28,7 +28,10 @@ jobs:
         # succeed still get committed.
         if: always()
         run: |
-          if git diff --quiet -- movie-data; then
+          # git diff alone misses brand-new (untracked) files, e.g. a
+          # venue's first-ever scrape or a new month's json — status
+          # catches those too.
+          if [ -z "$(git status --porcelain -- movie-data)" ]; then
             echo "No changes to commit"
             exit 0
           fi
