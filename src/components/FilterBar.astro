@@ -238,7 +238,7 @@ const sortedTheaters = Object.values(theaters)
   }
 
   // Commits a day range and mirrors it back into the inputs. The day filter
-  // has no off state, so a hand-cleared From falls back to the default week
+  // has no off state, so a hand-cleared From falls back to the default range
   // rather than committing an empty range that would match nothing.
   function commitDayRange(from: string, to: string) {
     committedDayRange = from ? { from, to: to || from } : defaultDayRange(new Date());
@@ -294,7 +294,7 @@ const sortedTheaters = Object.values(theaters)
     dayPopover.hidden ? openPopover(dayPopover) : closePopover(dayPopover);
   });
 
-  // Clear returns the range to the default week rather than switching the
+  // Clear returns the range to the default rather than switching the
   // filter off — the browse list is always bounded by some range.
   dayClear.addEventListener("click", () => {
     const { from, to } = defaultDayRange(new Date());

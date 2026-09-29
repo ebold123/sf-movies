@@ -18,7 +18,7 @@ export interface FilterSelection {
   theaters: ReadonlySet<string>;
 }
 
-const ONE_WEEK_MS = 7 * 24 * 60 * 60 * 1000;
+const TWO_WEEKS_MS = 14 * 24 * 60 * 60 * 1000;
 
 // The range the page opens on, and the one the day filter's Clear button
 // returns to: the near-term schedule rather than every future showtime. `now`
@@ -26,7 +26,7 @@ const ONE_WEEK_MS = 7 * 24 * 60 * 60 * 1000;
 export function defaultDayRange(now: Date): DayRange {
   return {
     from: localDayOf(now),
-    to: localDayOf(new Date(now.getTime() + ONE_WEEK_MS)),
+    to: localDayOf(new Date(now.getTime() + TWO_WEEKS_MS)),
   };
 }
 

@@ -126,11 +126,11 @@ describe("labels", () => {
 });
 
 // 2026-08-15T04:00Z is 9pm PDT on Aug 14 — the LA calendar day, not the UTC
-// one, is where the default week starts.
+// one, is where the default range starts.
 const NOW = new Date("2026-08-15T04:00:00.000Z");
 
 describe("defaultDayRange", () => {
-  it("spans today through a week out, in LA calendar days", () => {
-    expect(defaultDayRange(NOW)).toEqual({ from: "2026-08-14", to: "2026-08-21" });
+  it("spans today through two weeks out, in LA calendar days", () => {
+    expect(defaultDayRange(NOW)).toEqual({ from: "2026-08-14", to: "2026-08-28" });
   });
 });
