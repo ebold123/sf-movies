@@ -10,7 +10,8 @@ export interface TheaterConfig {
     | "bottom-of-the-hill"
     | "the-independent"
     | "live-nation"
-    | "carbonhouse";
+    | "carbonhouse"
+    | "seetickets";
   // Required when source is "scenef" — the venue id in SceneF's feed.
   venueId?: string;
   // This fork only scrapes and displays "music" venues (see scrape-music-venues.ts
@@ -106,6 +107,13 @@ export const theaters: Record<string, TheaterConfig> = {
     name: "The Warfield",
     baseUrl: "https://www.thewarfieldtheatre.com",
     source: "carbonhouse",
+    category: "music",
+  },
+  gamh: {
+    slug: "gamh",
+    name: "Great American Music Hall",
+    baseUrl: "https://gamh.com",
+    source: "seetickets",
     category: "music",
   },
 };
