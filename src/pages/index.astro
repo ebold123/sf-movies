@@ -50,15 +50,15 @@ function formatDayHeader(date: string): string {
     <main class="content">
       <h1>Bands with Buds</h1>
       <div class="mobile-tabs">
-        <button type="button" class="mobile-tab" data-mode="wishlist" aria-pressed="true">
+        <button type="button" class="mobile-tab" data-mode="wishlist" aria-pressed="false">
           <StarIcon class="mobile-tab__star" /> Wish List
         </button>
-        <button type="button" class="mobile-tab" data-mode="browse" aria-pressed="false">
+        <button type="button" class="mobile-tab" data-mode="browse" aria-pressed="true">
           Browsing
         </button>
       </div>
       <div class="panes">
-        <div class="panes-track">
+        <div class="panes-track mode-browse">
           <!-- Named explicitly rather than by the heading: the heading is
                display:none on mobile, and a hidden label is read with the
                decorative star included. -->
