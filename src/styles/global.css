@@ -3,12 +3,20 @@
   --font-size-base: 1rem;
   --font-size-lg: 1.25rem;
   --font-size-xl: 1.5rem;
-  --body-background: #e1dcd1;
-  --link-color: #8b4513;
+  --body-background: #000000;
+  --body-text: #ececec;
+  --link-color: #e0a800;
+  /* The light "card" surfaces (movie cards, filter pills/popovers) keep
+     their own white background regardless of the page theme, so they
+     need their own dark, high-contrast text/link colors rather than
+     inheriting --body-text/--link-color. */
+  --surface-text: #1a1a1a;
+  --surface-link-color: #8b4513;
 }
 
 body {
   background: var(--body-background);
+  color: var(--body-text);
   font-family: "Lato", sans-serif;
   font-size: var(--font-size-base);
 }

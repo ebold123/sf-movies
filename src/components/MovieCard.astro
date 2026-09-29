@@ -64,10 +64,15 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
   .movie-card {
     list-style: none;
     background: white;
+    color: var(--surface-text);
     border-radius: 0.35rem;
     padding: 0.6rem 1rem;
     line-height: 1.2rem;
     margin-bottom: 2px;
+  }
+
+  .movie-card__title a {
+    color: var(--surface-link-color);
   }
 
   .movie-card__header {
