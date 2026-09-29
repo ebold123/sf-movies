@@ -39,4 +39,19 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add movie-data
           git commit -m "Update music venue showtimes"
-          git push
+
+          # main can move between checkout and here (a manual push, or an
+          # overlapping run of this workflow). Since this commit only
+          # touches movie-data, rebasing onto the latest main before
+          # retrying almost never conflicts.
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt/3) — fetching and rebasing onto the latest main"
+            git fetch origin main
+            git rebase origin/main || { git rebase --abort; echo "Rebase failed — giving up"; exit 1; }
+          done
+
+          echo "Still rejected after 3 attempts — giving up"
+          exit 1
