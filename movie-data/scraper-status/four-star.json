@@ -1,0 +1,76 @@
+{
+  "slug": "four-star",
+  "theater": "4-Star",
+  "generatedAt": "2026-09-29T05:03:49.885Z",
+  "status": "discrepancies",
+  "report": {
+    "matched": 5,
+    "timeMismatches": [],
+    "titleMismatches": [
+      {
+        "startTime": "2026-10-03T20:00:00-07:00",
+        "ourTitle": "LIVE MUSIC: The Sleeves, Fred Frith",
+        "scenefTitle": "LIVE MUSIC: Fred Frith, The Sleeves"
+      },
+      {
+        "startTime": "2026-10-08T19:30:00-07:00",
+        "ourTitle": "LIVE MUSIC: Freight Train Lady (Record Release), Indianna Hale, Forest Floor",
+        "scenefTitle": "MUSIC: Freight Train Lady, Indianna Hale & more"
+      },
+      {
+        "startTime": "2026-10-23T20:00:00-07:00",
+        "ourTitle": "Nosferatu: A Symphony of Horror with LIVE SCORE by Dallas Acid & Paz Lenchantin (Presented by folkYEAH!)",
+        "scenefTitle": "MUSIC: Nosferatu with Paz Lenchantin & Dallas Acid"
+      }
+    ],
+    "oursOnly": [
+      {
+        "title": "LIVE MUSIC: Resavoir, Cheflee (Presented by THROWIN' BO'S)",
+        "startTime": "2026-10-25T20:00:00-07:00"
+      },
+      {
+        "title": "LIVE MUSIC: Green-House, Cool Maritime (Presented by THROWIN' BO'S)",
+        "startTime": "2026-11-04T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: School Fair, goldenstar, Poor Image (Presented by THROWIN' BO'S)",
+        "startTime": "2026-11-12T20:00:00-08:00"
+      }
+    ],
+    "scenefOnly": [
+      {
+        "title": "Love Massacre",
+        "startTime": "2026-10-07T19:30:00-07:00"
+      },
+      {
+        "title": "Elephant Gym: More Real Than Dreams",
+        "startTime": "2026-10-11T19:00:00-07:00"
+      },
+      {
+        "title": "The Buddy Holly Story",
+        "startTime": "2026-10-14T19:00:00-07:00"
+      },
+      {
+        "title": "Cemetery Man",
+        "startTime": "2026-10-18T19:30:00-07:00"
+      },
+      {
+        "title": "It's the Great Pumpkin, Charlie Brown",
+        "startTime": "2026-10-30T18:00:00-07:00"
+      },
+      {
+        "title": "It",
+        "startTime": "2026-10-30T19:30:00-07:00"
+      },
+      {
+        "title": "Labyrinth",
+        "startTime": "2026-11-01T19:00:00-08:00"
+      }
+    ],
+    "collapsedDuplicates": 0,
+    "excluded": {
+      "ours": 5,
+      "scenef": 2
+    }
+  }
+}
