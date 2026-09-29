@@ -18,6 +18,11 @@ export interface TheaterConfig {
   // and loadEvents.ts) — "movie" entries are kept, unscraped, so the original
   // repo's theaters stay easy to diff/merge against upstream.
   category: "movie" | "music";
+  // When set, fetchEventsFor keeps only events whose title contains one of
+  // these strings (case-insensitive) — lets a movie theater's occasional
+  // live-music screenings surface without pulling in its whole film
+  // schedule.
+  titleIncludes?: string[];
 }
 
 // Cinema SF operates the Balboa, Vogue, and 4-Star on Squarespace sites that
@@ -43,7 +48,11 @@ export const theaters: Record<string, TheaterConfig> = {
     name: "4-Star",
     baseUrl: "https://www.4-star-movies.com",
     source: "cinema-sf",
-    category: "movie",
+    category: "music",
+    // 4-Star is primarily a movie theater, but it also hosts live-music
+    // screenings, titled e.g. "LIVE MUSIC: The Sleeves, Fred Frith" or
+    // "Nosferatu... with LIVE SCORE by Dallas Acid & Paz Lenchantin".
+    titleIncludes: ["LIVE MUSIC", "LIVE SCORE"],
   },
   roxie: {
     slug: "roxie",

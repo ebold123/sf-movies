@@ -10,10 +10,7 @@ import { fetchLiveNationEvents } from "./livenation";
 import { fetchCarbonhouseEvents } from "./carbonhouse";
 import { fetchSeeTicketsEvents } from "./seetickets";
 
-// The one entry point for "fetch this theater's upcoming events, live".
-// Every script (the daily scrape, diagnostics) goes through this dispatch so
-// they can never disagree about how a theater is scraped.
-export function fetchEventsFor(theater: TheaterConfig): Promise<Event[]> {
+function fetchRawEventsFor(theater: TheaterConfig): Promise<Event[]> {
   switch (theater.source) {
     case "cinema-sf":
       return fetchCinemaSfEvents(theater.baseUrl, theater.name);
@@ -37,4 +34,15 @@ export function fetchEventsFor(theater: TheaterConfig): Promise<Event[]> {
     case "seetickets":
       return fetchSeeTicketsEvents(theater.baseUrl, theater.name);
   }
+}
+
+// The one entry point for "fetch this theater's upcoming events, live".
+// Every script (the daily scrape, diagnostics) goes through this dispatch so
+// they can never disagree about how a theater is scraped.
+export async function fetchEventsFor(theater: TheaterConfig): Promise<Event[]> {
+  const events = await fetchRawEventsFor(theater);
+  if (!theater.titleIncludes) return events;
+
+  const needles = theater.titleIncludes.map((needle) => needle.toUpperCase());
+  return events.filter((event) => needles.some((needle) => event.title.toUpperCase().includes(needle)));
 }
