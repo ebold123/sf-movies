@@ -44,11 +44,11 @@ function formatDayHeader(date: string): string {
       href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap"
       rel="stylesheet"
     />
-    <title>Picture Show with Friends</title>
+    <title>Bands with Buds</title>
   </head>
   <body>
     <main class="content">
-      <h1>A Picture Show with Friends</h1>
+      <h1>Bands with Buds</h1>
       <div class="mobile-tabs">
         <button type="button" class="mobile-tab" data-mode="wishlist" aria-pressed="true">
           <StarIcon class="mobile-tab__star" /> Wish List
@@ -65,20 +65,17 @@ function formatDayHeader(date: string): string {
           <section class="pane wishlist-pane" aria-label="Wish List">
             <h2 class="pane-heading"><StarIcon /> Wish List</h2>
             <div id="wishlist-empty" class="wishlist-empty">
-              <p>The indie theaters of San Francisco each list their own showtimes. We gather them here.</p>
-              <p>Look through the Browsing list. When you find a showing you
-              want, click the ★. It goes to your Wish List. Send the list to
+              <p>These music listings are scraped from each venue's website. Always consult the website for the source of truth.</p>
+              <p>You can filter by venue, or "star" an event to add it to your Wish List. Send the list to
               your friends and go. Together.</p>
               <img
                 class="wishlist-empty__image"
-                src={`${import.meta.env.BASE_URL}film-projector.png`}
-                alt="Vintage film projector illustration"
+                src={`${import.meta.env.BASE_URL}independentsf.jpeg`}
+                alt="The Independent SF, one of the venues listed here"
               />
-              <p>Take <a href="https://github.com/nitidbit/sf-movies">the code</a> and make one for your own town.</p>
-              <p>Write to <strong>winston at nitidbit dot com</strong>. Bugs or kudos, both are good.</p>
-              <p>The name is not settled. Films with Friends. A Picture Show
-              with Friends. Flicks with Friends. Películas con Amigos. Tell me
-              which is right, or send a better one.</p>
+              <p>The <a href="https://github.com/ebold123/sf-movies">code is available on github</a>. Events are updated nightly.</p>
+              <p>Inspired by, and forked from <a href="https://github.com/nitidbit/sf-movies">the sf-movies</a> project.</p>
+              <p>Thanks to <strong>winston at nitidbit dot com</strong>.</p>
             </div>
             {
               dayGroups.map((group) => (
@@ -100,7 +97,7 @@ function formatDayHeader(date: string): string {
             <FilterBar />
             {
               dayGroups.length === 0 ? (
-                <p>No upcoming showtimes yet.</p>
+                <p>No upcoming shows yet.</p>
               ) : (
                 dayGroups.map((group) => (
                   <section class="day-group">
