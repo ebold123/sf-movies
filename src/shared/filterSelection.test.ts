@@ -106,7 +106,7 @@ describe("labels", () => {
     expect(labels(selection)).toEqual({
       title: "title: your name",
       day: "day: Aug 14–Aug 15",
-      theaters: "theaters: 2",
+      theaters: "venues: 2",
     });
   });
 
@@ -114,7 +114,7 @@ describe("labels", () => {
     expect(labels(sampleSelection)).toEqual({
       title: "title",
       day: "day: Aug 1–Aug 31",
-      theaters: "theaters",
+      theaters: "venues",
     });
   });
 

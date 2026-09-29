@@ -87,6 +87,6 @@ export function labels(selection: FilterSelection): {
   return {
     title: title === "" ? "title" : `title: ${title}`,
     day: from === to ? `day: ${formatDay(from)}` : `day: ${formatDay(from)}–${formatDay(to)}`,
-    theaters: theaterCount === 0 ? "theaters" : `theaters: ${theaterCount}`,
+    theaters: theaterCount === 0 ? "venues" : `venues: ${theaterCount}`,
   };
 }
