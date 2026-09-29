@@ -1,0 +1,21 @@
+[
+  {
+    "theater": "The Warfield",
+    "title": "ROA",
+    "startTime": "2026-12-03T20:00:00-08:00",
+    "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1573659"
+  },
+  {
+    "theater": "The Warfield",
+    "title": "Trippie Redd",
+    "startTime": "2026-12-11T20:00:00-08:00",
+    "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1619471"
+  },
+  {
+    "theater": "The Warfield",
+    "title": "Deltron 3030 performing \"Deltron 3030\"",
+    "startTime": "2026-12-31T20:30:00-08:00",
+    "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1608390",
+    "synopsis": "with DJ Prince Paul, Souls of Mischief"
+  }
+]
