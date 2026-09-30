@@ -1,15 +1,21 @@
 [
   {
     "theater": "Great American Music Hall",
+    "title": "King of Drag",
+    "startTime": "2026-12-07T20:00:00-08:00",
+    "sourceUrl": "https://wl.seetickets.us/event/king-of-drag/701795?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
     "title": "ZORN / MEDESKI / LOMBARDO \"Awakening Ground\" *Matinee*",
     "startTime": "2026-12-06T16:00:00-08:00",
     "sourceUrl": "https://wl.seetickets.us/event/zorn-medeski-lombardo-awakening-ground-matinee/694421?afflky=GreatAmericanMusicHall"
   },
   {
     "theater": "Great American Music Hall",
-    "title": "King of Drag",
+    "title": "*CANCELLED*  King of Drag",
     "startTime": "2026-12-07T20:00:00-08:00",
-    "sourceUrl": "https://wl.seetickets.us/event/king-of-drag/701795?afflky=GreatAmericanMusicHall"
+    "sourceUrl": "https://wl.seetickets.us/event/cancelled-king-of-drag/701795?afflky=GreatAmericanMusicHall"
   },
   {
     "theater": "Great American Music Hall",

@@ -8,7 +8,7 @@
   {
     "theater": "The Independent",
     "title": "Bella Kay",
-    "startTime": "2026-10-02T21:00:00-07:00",
+    "startTime": "2026-10-02T20:00:00-07:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/bella-kay/",
     "synopsis": "with Hailey Picardi"
   },
@@ -130,7 +130,8 @@
     "theater": "The Independent",
     "title": "City of the Sun",
     "startTime": "2026-10-21T20:00:00-07:00",
-    "sourceUrl": "https://www.theindependentsf.com/tm-event/city-of-the-sun/"
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/city-of-the-sun/",
+    "synopsis": "with Valley Wolf"
   },
   {
     "theater": "The Independent",
