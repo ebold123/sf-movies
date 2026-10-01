@@ -1,17 +1,23 @@
 [
   {
     "theater": "The Warfield",
-    "title": "Baddies",
-    "startTime": "2026-10-02T21:00:00-07:00",
-    "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1633923",
-    "synopsis": "with All-Star Baddies Cast"
-  },
-  {
-    "theater": "The Warfield",
     "title": "The Dresden Dolls",
     "startTime": "2026-10-07T20:00:00-07:00",
     "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1441079",
     "synopsis": "with Meatball, OBSIDIENNE OBSURD"
+  },
+  {
+    "theater": "The Warfield",
+    "title": "fakemink",
+    "startTime": "2026-10-24T20:00:00-07:00",
+    "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1518695"
+  },
+  {
+    "theater": "The Warfield",
+    "title": "Baddies",
+    "startTime": "2026-10-02T21:00:00-07:00",
+    "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1633923",
+    "synopsis": "with All-Star Baddies Cast"
   },
   {
     "theater": "The Warfield",
@@ -67,11 +73,5 @@
     "startTime": "2026-10-23T20:00:00-07:00",
     "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1407735",
     "synopsis": "with Bee Blackwell"
-  },
-  {
-    "theater": "The Warfield",
-    "title": "fakemink",
-    "startTime": "2026-10-24T20:00:00-07:00",
-    "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1518695"
   }
 ]
