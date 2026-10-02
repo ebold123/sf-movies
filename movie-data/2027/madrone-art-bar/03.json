@@ -9,14 +9,6 @@
   },
   {
     "theater": "Madrone Art Bar",
-    "title": "Motown on Mondays",
-    "startTime": "2027-03-01T19:00:00-08:00",
-    "endTime": "2027-03-02T01:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/motown-on-mondays-79-2025-12-01-2026-04-27/2027-03-01/",
-    "synopsis": "It’s only Monday if you treat it like one! DJ Gordo Cabeza and weekly guests play originals, exclusive remixes and close relatives of your favorite Motown songs. The most talked about night in town! Starting at 7pm. Doors 4pm – 2am / 21 & up w/ID $5 cover after 8pm"
-  },
-  {
-    "theater": "Madrone Art Bar",
     "title": "LIVE MODEL TUESDAY SKETCH",
     "startTime": "2027-03-02T18:30:00-08:00",
     "endTime": "2027-03-02T20:30:00-08:00",
@@ -29,6 +21,70 @@
     "startTime": "2027-03-03T18:30:00-08:00",
     "endTime": "2027-03-03T20:30:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/jerome-clay-2-2025-12-03-2026-02-04-2026-10-07/2027-03-03/",
+    "synopsis": "A lecture series and party for smarties.\nHosted by Big Brain\n7pm-8:45pm\nAdvance tickets available at Big Brain SF"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "LIVE MODEL TUESDAY SKETCH",
+    "startTime": "2027-03-09T18:30:00-08:00",
+    "endTime": "2027-03-09T20:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/livemodelsketch-2026-06-23/2027-03-09/",
+    "synopsis": "LIVE MODEL TUESDAY SKETCH\nhosted by Sketchboard Co.\n$15 fee to draw the model\nEvery Tuesday 6:30 to 8:30 PM\nwith live music by Twango\nBring your own materials\nNo Photos Please Respect the Models"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "SONAMÓ – Italian Funk",
+    "startTime": "2027-03-11T21:30:00-08:00",
+    "endTime": "2027-03-12T00:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/sonamo-italian-funk-16-2026-08-13-2026-10-08/2027-03-11/",
+    "synopsis": "SONAMÓ – Italian Funk is a San Francisco Bay Area band that delivers a dynamic, passionate blend of melodies via hefty doses of funk and acid jazz.\nTo describe the sound of the band: if Sting and Jamiroquai had a lovechild they would name it Sonamó, and it would be eclectic and open-minded- just like the group’s home base…the City by the Bay. $5 / Music at 9:30pm"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "LIVE MODEL TUESDAY SKETCH",
+    "startTime": "2027-03-16T18:30:00-07:00",
+    "endTime": "2027-03-16T20:30:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/livemodelsketch-2026-06-23/2027-03-16/",
+    "synopsis": "LIVE MODEL TUESDAY SKETCH\nhosted by Sketchboard Co.\n$15 fee to draw the model\nEvery Tuesday 6:30 to 8:30 PM\nwith live music by Twango\nBring your own materials\nNo Photos Please Respect the Models"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "LIVE MODEL TUESDAY SKETCH",
+    "startTime": "2027-03-23T18:30:00-07:00",
+    "endTime": "2027-03-23T20:30:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/livemodelsketch-2026-06-23/2027-03-23/",
+    "synopsis": "LIVE MODEL TUESDAY SKETCH\nhosted by Sketchboard Co.\n$15 fee to draw the model\nEvery Tuesday 6:30 to 8:30 PM\nwith live music by Twango\nBring your own materials\nNo Photos Please Respect the Models"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "LIVE MODEL TUESDAY SKETCH",
+    "startTime": "2027-03-30T18:30:00-07:00",
+    "endTime": "2027-03-30T20:30:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/livemodelsketch-2026-06-23/2027-03-30/",
+    "synopsis": "LIVE MODEL TUESDAY SKETCH\nhosted by Sketchboard Co.\n$15 fee to draw the model\nEvery Tuesday 6:30 to 8:30 PM\nwith live music by Twango\nBring your own materials\nNo Photos Please Respect the Models"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "Motown on Mondays",
+    "startTime": "2027-03-01T19:00:00-08:00",
+    "endTime": "2027-03-02T01:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/motown-on-mondays-79-2025-12-01-2026-04-27/2027-03-01/",
+    "synopsis": "It’s only Monday if you treat it like one! DJ Gordo Cabeza and weekly guests play originals, exclusive remixes and close relatives of your favorite Motown songs. The most talked about night in town! Starting at 7pm. Doors 4pm – 2am / 21 & up w/ID $5 cover after 8pm"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "LIVE MODEL TUESDAY SKETCH",
+    "startTime": "2027-03-02T18:30:00-08:00",
+    "endTime": "2027-03-02T20:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/livemodelsketch-2026-06-23-2026-10-06/2027-03-02/",
+    "synopsis": "LIVE MODEL TUESDAY SKETCH\nhosted by Sketchboard Co.\n$15 fee to draw the model\nEvery Tuesday 6:30 to 8:30 PM\nwith live music by Twango\nBring your own materials\nNo Photos Please Respect the Models"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "Big Brain",
+    "startTime": "2027-03-03T18:30:00-08:00",
+    "endTime": "2027-03-03T20:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/jerome-clay-2-2025-12-03-2026-02-04-2026-11-04/2027-03-03/",
     "synopsis": "A lecture series and party for smarties.\nHosted by Big Brain\n7pm-8:45pm\nAdvance tickets available at Big Brain SF"
   },
   {
@@ -108,7 +164,7 @@
     "title": "LIVE MODEL TUESDAY SKETCH",
     "startTime": "2027-03-09T18:30:00-08:00",
     "endTime": "2027-03-09T20:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/livemodelsketch-2026-06-23/2027-03-09/",
+    "sourceUrl": "https://madroneartbar.com/event/livemodelsketch-2026-06-23-2026-10-06/2027-03-09/",
     "synopsis": "LIVE MODEL TUESDAY SKETCH\nhosted by Sketchboard Co.\n$15 fee to draw the model\nEvery Tuesday 6:30 to 8:30 PM\nwith live music by Twango\nBring your own materials\nNo Photos Please Respect the Models"
   },
   {
@@ -132,7 +188,7 @@
     "title": "SONAMÓ – Italian Funk",
     "startTime": "2027-03-11T21:30:00-08:00",
     "endTime": "2027-03-12T00:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/sonamo-italian-funk-16-2026-08-13-2026-10-08/2027-03-11/",
+    "sourceUrl": "https://madroneartbar.com/event/sonamo-italian-funk-16-2026-08-13-2026-12-10/2027-03-11/",
     "synopsis": "SONAMÓ – Italian Funk is a San Francisco Bay Area band that delivers a dynamic, passionate blend of melodies via hefty doses of funk and acid jazz.\nTo describe the sound of the band: if Sting and Jamiroquai had a lovechild they would name it Sonamó, and it would be eclectic and open-minded- just like the group’s home base…the City by the Bay. $5 / Music at 9:30pm"
   },
   {
@@ -204,7 +260,7 @@
     "title": "LIVE MODEL TUESDAY SKETCH",
     "startTime": "2027-03-16T18:30:00-07:00",
     "endTime": "2027-03-16T20:30:00-07:00",
-    "sourceUrl": "https://madroneartbar.com/event/livemodelsketch-2026-06-23/2027-03-16/",
+    "sourceUrl": "https://madroneartbar.com/event/livemodelsketch-2026-06-23-2026-10-06/2027-03-16/",
     "synopsis": "LIVE MODEL TUESDAY SKETCH\nhosted by Sketchboard Co.\n$15 fee to draw the model\nEvery Tuesday 6:30 to 8:30 PM\nwith live music by Twango\nBring your own materials\nNo Photos Please Respect the Models"
   },
   {
@@ -276,7 +332,7 @@
     "title": "LIVE MODEL TUESDAY SKETCH",
     "startTime": "2027-03-23T18:30:00-07:00",
     "endTime": "2027-03-23T20:30:00-07:00",
-    "sourceUrl": "https://madroneartbar.com/event/livemodelsketch-2026-06-23/2027-03-23/",
+    "sourceUrl": "https://madroneartbar.com/event/livemodelsketch-2026-06-23-2026-10-06/2027-03-23/",
     "synopsis": "LIVE MODEL TUESDAY SKETCH\nhosted by Sketchboard Co.\n$15 fee to draw the model\nEvery Tuesday 6:30 to 8:30 PM\nwith live music by Twango\nBring your own materials\nNo Photos Please Respect the Models"
   },
   {
@@ -364,7 +420,7 @@
     "title": "LIVE MODEL TUESDAY SKETCH",
     "startTime": "2027-03-30T18:30:00-07:00",
     "endTime": "2027-03-30T20:30:00-07:00",
-    "sourceUrl": "https://madroneartbar.com/event/livemodelsketch-2026-06-23/2027-03-30/",
+    "sourceUrl": "https://madroneartbar.com/event/livemodelsketch-2026-06-23-2026-10-06/2027-03-30/",
     "synopsis": "LIVE MODEL TUESDAY SKETCH\nhosted by Sketchboard Co.\n$15 fee to draw the model\nEvery Tuesday 6:30 to 8:30 PM\nwith live music by Twango\nBring your own materials\nNo Photos Please Respect the Models"
   }
 ]

@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-01T18:57:01.515Z",
+  "generatedAt": "2026-10-02T18:30:54.576Z",
   "status": "discrepancies",
   "report": {
     "matched": 5,
@@ -43,6 +43,18 @@
         "startTime": "2026-10-07T19:30:00-07:00"
       },
       {
+        "title": "A Chinese Ghost Story",
+        "startTime": "2026-10-10T13:00:00-07:00"
+      },
+      {
+        "title": "A Chinese Ghost Story",
+        "startTime": "2026-10-10T16:00:00-07:00"
+      },
+      {
+        "title": "A Chinese Ghost Story",
+        "startTime": "2026-10-10T19:00:00-07:00"
+      },
+      {
         "title": "Elephant Gym: More Real Than Dreams",
         "startTime": "2026-10-11T19:00:00-07:00"
       },
@@ -70,7 +82,7 @@
     "collapsedDuplicates": 0,
     "excluded": {
       "ours": 5,
-      "scenef": 2
+      "scenef": 1
     }
   }
 }
