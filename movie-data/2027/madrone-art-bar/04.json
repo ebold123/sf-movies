@@ -1,30 +1,6 @@
 [
   {
     "theater": "Madrone Art Bar",
-    "title": "Madrone x Gamescape: Monthly Game Night",
-    "startTime": "2027-04-03T16:00:00-07:00",
-    "endTime": "2027-04-03T19:00:00-07:00",
-    "sourceUrl": "https://madroneartbar.com/event/madrone-x-gamescape-monthly-game-night-2026-11-07/2027-04-03/",
-    "synopsis": "Join us for our monthly Game Night with Gamescape! 🎲♟️\nCome solo or bring friends and choose from a mix of party games, strategy games, chess, puzzles, and more. The Gamescape crew will be on hand to help you find a game and get started.\nFree, 21+, and outside food is welcome!\n1st Saturdays of the month // 4–7 PM at Madrone Art Bar"
-  },
-  {
-    "theater": "Madrone Art Bar",
-    "title": "Pop Life",
-    "startTime": "2027-04-03T21:00:00-07:00",
-    "endTime": "2027-04-04T01:30:00-07:00",
-    "sourceUrl": "https://madroneartbar.com/event/pop-life/2027-04-03/",
-    "synopsis": "Have fun with your friends at POP LIFE – the music video party. Every first Saturday of the month!\nDisco, Soul, Top 40 Pop Hits, Party Anthems, Hip-Hop, One Hit Wonders, Guilty Pleasures, and more\n$10 at the door / 9pm-1:45am / 21+ / no dress code, dress how ya like!"
-  },
-  {
-    "theater": "Madrone Art Bar",
-    "title": "SUNDAY B3 SESSIONS",
-    "startTime": "2027-04-04T21:00:00-07:00",
-    "endTime": "2027-04-04T21:00:00-07:00",
-    "sourceUrl": "https://madroneartbar.com/event/spikes-open-mic-sunday-b3-sessions-2025-11-23/2027-04-04/",
-    "synopsis": "Sunday B3 Sessions Hosted by Adam Shulman and Mike Olmos\nSwinging soul jazz with a jam session to follow\n9pm-Close\n \nNo Cover"
-  },
-  {
-    "theater": "Madrone Art Bar",
     "title": "Motown on Mondays",
     "startTime": "2027-04-05T19:00:00-07:00",
     "endTime": "2027-04-06T01:30:00-07:00",
@@ -86,5 +62,29 @@
     "endTime": "2027-04-03T01:00:00-07:00",
     "sourceUrl": "https://madroneartbar.com/event/nu-noize/2027-04-02/",
     "synopsis": "NU NOIZE\nA dance party.\ncome early. leave sweaty.\nwith DJs Mackswell & Knowpa.\n\n\n$10 cover at 9:30pm / 21 up w/ID\nGuarantee your spot!"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "Madrone x Gamescape: Monthly Game Night",
+    "startTime": "2027-04-03T16:00:00-07:00",
+    "endTime": "2027-04-03T19:00:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/madrone-x-gamescape-monthly-game-night-2026-11-07/2027-04-03/",
+    "synopsis": "Join us for our monthly Game Night with Gamescape! 🎲♟️\nCome solo or bring friends and choose from a mix of party games, strategy games, chess, puzzles, and more. The Gamescape crew will be on hand to help you find a game and get started.\nFree, 21+, and outside food is welcome!\n1st Saturdays of the month // 4–7 PM at Madrone Art Bar"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "Pop Life",
+    "startTime": "2027-04-03T21:00:00-07:00",
+    "endTime": "2027-04-04T01:30:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/pop-life/2027-04-03/",
+    "synopsis": "Have fun with your friends at POP LIFE – the music video party. Every first Saturday of the month!\nDisco, Soul, Top 40 Pop Hits, Party Anthems, Hip-Hop, One Hit Wonders, Guilty Pleasures, and more\n$10 at the door / 9pm-1:45am / 21+ / no dress code, dress how ya like!"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "SUNDAY B3 SESSIONS",
+    "startTime": "2027-04-04T21:00:00-07:00",
+    "endTime": "2027-04-04T21:00:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/spikes-open-mic-sunday-b3-sessions-2025-11-23/2027-04-04/",
+    "synopsis": "Sunday B3 Sessions Hosted by Adam Shulman and Mike Olmos\nSwinging soul jazz with a jam session to follow\n9pm-Close\n \nNo Cover"
   }
 ]
