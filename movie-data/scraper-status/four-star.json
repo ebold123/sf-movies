@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-04T17:38:17.367Z",
+  "generatedAt": "2026-10-05T21:14:19.348Z",
   "status": "discrepancies",
   "report": {
     "matched": 4,
@@ -18,9 +18,19 @@
         "scenefTitle": "MUSIC: Nosferatu with Paz Lenchantin & Dallas Acid"
       },
       {
+        "startTime": "2026-11-05T20:00:00-08:00",
+        "ourTitle": "LIVE MUSIC: Good Friends, The Lowtimers, Red McAdam",
+        "scenefTitle": "LIVE MUSIC: Good Friends, The Lowtimers & more"
+      },
+      {
         "startTime": "2026-11-15T20:00:00-08:00",
         "ourTitle": "LIVE MUSIC: Todd Day Wait, Mac Cornish, Josiah Flores",
         "scenefTitle": "LIVE MUSIC: Todd Day Wait, Mac Cornish & more"
+      },
+      {
+        "startTime": "2026-12-04T20:00:00-08:00",
+        "ourTitle": "LIVE MUSIC: The Crooked Jades (10th Album Release Show)",
+        "scenefTitle": "LIVE MUSIC: Crooked Jades (10th Album Release)"
       }
     ],
     "oursOnly": [
@@ -35,13 +45,17 @@
       {
         "title": "LIVE MUSIC: School Fair, goldenstar, Poor Image (Presented by THROWIN' BO'S)",
         "startTime": "2026-11-12T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: Elanor Moss (Presented by THROWIN' BO'S)",
+        "startTime": "2026-11-16T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: Babehoven, Pileup (Presented by THROWIN' BO'S)",
+        "startTime": "2026-11-20T20:00:00-08:00"
       }
     ],
     "scenefOnly": [
-      {
-        "title": "Love Massacre",
-        "startTime": "2026-10-07T19:30:00-07:00"
-      },
       {
         "title": "A Chinese Ghost Story",
         "startTime": "2026-10-10T13:00:00-07:00"
@@ -129,8 +143,8 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 7,
-      "scenef": 0
+      "ours": 5,
+      "scenef": 1
     }
   }
 }

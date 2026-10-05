@@ -1,14 +1,6 @@
 [
   {
     "theater": "Madrone Art Bar",
-    "title": "Motown on Mondays",
-    "startTime": "2027-04-05T19:00:00-07:00",
-    "endTime": "2027-04-06T01:30:00-07:00",
-    "sourceUrl": "https://madroneartbar.com/event/motown-on-mondays-79-2025-12-01-2026-04-27/2027-04-05/",
-    "synopsis": "It’s only Monday if you treat it like one! DJ Gordo Cabeza and weekly guests play originals, exclusive remixes and close relatives of your favorite Motown songs. The most talked about night in town! Starting at 7pm. Doors 4pm – 2am / 21 & up w/ID $5 cover after 8pm"
-  },
-  {
-    "theater": "Madrone Art Bar",
     "title": "LIVE MODEL TUESDAY SKETCH",
     "startTime": "2027-04-06T18:30:00-07:00",
     "endTime": "2027-04-06T20:30:00-07:00",
@@ -86,5 +78,13 @@
     "endTime": "2027-04-04T21:00:00-07:00",
     "sourceUrl": "https://madroneartbar.com/event/spikes-open-mic-sunday-b3-sessions-2025-11-23/2027-04-04/",
     "synopsis": "Sunday B3 Sessions Hosted by Adam Shulman and Mike Olmos\nSwinging soul jazz with a jam session to follow\n9pm-Close\n \nNo Cover"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "Motown on Mondays",
+    "startTime": "2027-04-05T19:00:00-07:00",
+    "endTime": "2027-04-06T01:30:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/motown-on-mondays-79-2025-12-01-2026-04-27/2027-04-05/",
+    "synopsis": "It’s only Monday if you treat it like one! DJ Gordo Cabeza and weekly guests play originals, exclusive remixes and close relatives of your favorite Motown songs. The most talked about night in town! Starting at 7pm. Doors 4pm – 2am / 21 & up w/ID $5 cover after 8pm"
   }
 ]
