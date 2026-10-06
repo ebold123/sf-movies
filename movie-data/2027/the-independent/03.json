@@ -28,6 +28,12 @@
   },
   {
     "theater": "The Independent",
+    "title": "Hans Williams",
+    "startTime": "2027-03-24T19:30:00-07:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/hans-williams/"
+  },
+  {
+    "theater": "The Independent",
     "title": "Dan and Peggy Reeder",
     "startTime": "2027-03-25T20:00:00-07:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/dan-and-peggy-reeder/"

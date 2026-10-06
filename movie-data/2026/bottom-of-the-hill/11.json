@@ -99,10 +99,17 @@
   },
   {
     "theater": "Bottom of the Hill",
+    "title": "Warp",
+    "startTime": "2026-11-17T19:30:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261117.html",
+    "synopsis": "with Dinner Date, Crosswords"
+  },
+  {
+    "theater": "Bottom of the Hill",
     "title": "Mild Universe",
     "startTime": "2026-11-18T20:30:00-08:00",
     "sourceUrl": "http://www.bottomofthehill.com/20261118.html",
-    "synopsis": "with Joel Robinow, System Exclusive"
+    "synopsis": "with Joel Robinow, Pateka"
   },
   {
     "theater": "Bottom of the Hill",
