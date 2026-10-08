@@ -42,6 +42,13 @@
   },
   {
     "theater": "The Independent",
+    "title": "Lost Kings",
+    "startTime": "2026-10-15T21:00:00-07:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/lost-kings-2/",
+    "synopsis": "with BAUM, TARA"
+  },
+  {
+    "theater": "The Independent",
     "title": "The Breaks",
     "startTime": "2026-10-08T20:00:00-07:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/the-breaks/"
@@ -85,13 +92,6 @@
     "startTime": "2026-10-14T20:00:00-07:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/juice/",
     "synopsis": "with Porcelain"
-  },
-  {
-    "theater": "The Independent",
-    "title": "Lost Kings",
-    "startTime": "2026-10-15T21:00:00-07:00",
-    "sourceUrl": "https://www.theindependentsf.com/tm-event/lost-kings-2/",
-    "synopsis": "with BAUM, TARA"
   },
   {
     "theater": "The Independent",
