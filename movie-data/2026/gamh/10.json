@@ -50,6 +50,13 @@
   },
   {
     "theater": "Great American Music Hall",
+    "title": "Amantes del Futuro",
+    "startTime": "2026-10-19T20:00:00-07:00",
+    "sourceUrl": "https://wl.seetickets.us/event/amantes-del-futuro/701664?afflky=GreatAmericanMusicHall",
+    "synopsis": "with Turbo Sonidero, Grupo Gallardo, Sonido Aztlan"
+  },
+  {
+    "theater": "Great American Music Hall",
     "title": "Phillip Phillips",
     "startTime": "2026-10-09T20:00:00-07:00",
     "sourceUrl": "https://wl.seetickets.us/event/phillip-phillips/695127?afflky=GreatAmericanMusicHall",
@@ -109,9 +116,9 @@
   },
   {
     "theater": "Great American Music Hall",
-    "title": "Amantes del Futuro",
+    "title": "DJ X'ces",
     "startTime": "2026-10-19T20:00:00-07:00",
-    "sourceUrl": "https://wl.seetickets.us/event/amantes-del-futuro/701664?afflky=GreatAmericanMusicHall",
+    "sourceUrl": "https://wl.seetickets.us/event/dj-xces/701664?afflky=GreatAmericanMusicHall",
     "synopsis": "with Turbo Sonidero, Grupo Gallardo, Sonido Aztlan"
   },
   {
