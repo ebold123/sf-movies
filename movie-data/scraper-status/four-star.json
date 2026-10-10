@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-09T18:52:25.445Z",
+  "generatedAt": "2026-10-10T17:53:58.053Z",
   "status": "discrepancies",
   "report": {
-    "matched": 4,
+    "matched": 3,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -55,30 +55,6 @@
       }
     ],
     "scenefOnly": [
-      {
-        "title": "A Chinese Ghost Story",
-        "startTime": "2026-10-10T13:00:00-07:00"
-      },
-      {
-        "title": "A Chinese Ghost Story",
-        "startTime": "2026-10-10T16:00:00-07:00"
-      },
-      {
-        "title": "A Chinese Ghost Story",
-        "startTime": "2026-10-10T19:00:00-07:00"
-      },
-      {
-        "title": "Elephant Gym: More Real Than Dreams",
-        "startTime": "2026-10-11T19:00:00-07:00"
-      },
-      {
-        "title": "The Buddy Holly Story",
-        "startTime": "2026-10-14T19:00:00-07:00"
-      },
-      {
-        "title": "Cemetery Man",
-        "startTime": "2026-10-18T19:30:00-07:00"
-      },
       {
         "title": "House",
         "startTime": "2026-10-24T12:30:00-07:00"
@@ -143,7 +119,7 @@
     "collapsedDuplicates": 0,
     "excluded": {
       "ours": 5,
-      "scenef": 0
+      "scenef": 6
     }
   }
 }
