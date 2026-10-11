@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-10T13:44:01.166Z",
+  "generatedAt": "2026-10-11T13:44:24.376Z",
   "status": "discrepancies",
   "report": {
-    "matched": 18,
+    "matched": 15,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -39,10 +39,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
-        "startTime": "2026-10-10T10:00:00-07:00"
-      },
       {
         "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
         "startTime": "2026-10-11T10:00:00-07:00"
@@ -120,12 +116,24 @@
         "startTime": "2026-10-19T18:00:00-07:00"
       },
       {
+        "title": "SF SHORT FILM FESTIVAL: Spontaneous Connections Shorts",
+        "startTime": "2026-10-19T20:15:00-07:00"
+      },
+      {
         "title": "GREEN FILM FESTIVAL: Harvest",
         "startTime": "2026-10-20T18:00:00-07:00"
       },
       {
+        "title": "SF SHORT FILM FESTIVAL: Spine-tingling Shorts",
+        "startTime": "2026-10-20T20:15:00-07:00"
+      },
+      {
         "title": "GREEN FILM FESTIVAL: The Big Picture Shorts",
         "startTime": "2026-10-21T18:00:00-07:00"
+      },
+      {
+        "title": "SF SHORT FILM FESTIVAL: Closing Night Shorts",
+        "startTime": "2026-10-21T20:15:00-07:00"
       },
       {
         "title": "GREEN FILM FESTIVAL: A City in the Forest (Closing Night!)",
@@ -162,6 +170,14 @@
       {
         "title": "LIVE MUSIC: Green-House, Cool Maritime (Presented by THROWIN' BO'S)",
         "startTime": "2026-11-04T20:00:00-08:00"
+      },
+      {
+        "title": "STUDIO 8 FILM FESTIVAL: Juror Night (Films from Ed Jones, Michael LaRocco & Jac White - Presented by SF Artists Alumni)",
+        "startTime": "2026-11-06T19:30:00-08:00"
+      },
+      {
+        "title": "STUDIO 8 FILM FESTIVAL: Juried Show: Personal Visions (Presented by SF Artists Alumni)",
+        "startTime": "2026-11-07T14:00:00-08:00"
       },
       {
         "title": "LIVE MUSIC: School Fair, goldenstar, Poor Image (Presented by THROWIN' BO'S)",
