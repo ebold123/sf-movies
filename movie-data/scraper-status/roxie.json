@@ -1,41 +1,13 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-10T13:52:33.471Z",
+  "generatedAt": "2026-10-11T13:53:05.144Z",
   "status": "discrepancies",
   "report": {
-    "matched": 85,
+    "matched": 82,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "3rd i 2026: Sand City",
-        "startTime": "2026-10-10T13:00:00-07:00"
-      },
-      {
-        "title": "New People: NAZA",
-        "startTime": "2026-10-10T14:00:00-07:00"
-      },
-      {
-        "title": "New People: NAZA",
-        "startTime": "2026-10-10T16:00:00-07:00"
-      },
-      {
-        "title": "3rd i 2026: TechnoCats",
-        "startTime": "2026-10-10T15:00:00-07:00"
-      },
-      {
-        "title": "3rd i 2026: The Great Shamsuddin Family",
-        "startTime": "2026-10-10T17:15:00-07:00"
-      },
-      {
-        "title": "New People: Never After Dark",
-        "startTime": "2026-10-10T18:00:00-07:00"
-      },
-      {
-        "title": "3rd i 2026: Lali",
-        "startTime": "2026-10-10T19:45:00-07:00"
-      },
       {
         "title": "3rd i 2026: Eternal Trees, Eternal Mountains",
         "startTime": "2026-10-11T12:15:00-07:00"
