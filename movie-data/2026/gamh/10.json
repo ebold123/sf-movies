@@ -82,6 +82,12 @@
   },
   {
     "theater": "Great American Music Hall",
+    "title": "Ali Amran",
+    "startTime": "2026-10-25T18:00:00-07:00",
+    "sourceUrl": "https://wl.seetickets.us/event/ali-amran/700561?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
     "title": "Provoker",
     "startTime": "2026-10-13T19:00:00-07:00",
     "sourceUrl": "https://wl.seetickets.us/event/provoker/703886?afflky=GreatAmericanMusicHall",
@@ -176,9 +182,9 @@
   },
   {
     "theater": "Great American Music Hall",
-    "title": "Ali Amran",
+    "title": "*POSTPONED* Ali Amran",
     "startTime": "2026-10-25T18:00:00-07:00",
-    "sourceUrl": "https://wl.seetickets.us/event/ali-amran/700561?afflky=GreatAmericanMusicHall"
+    "sourceUrl": "https://wl.seetickets.us/event/postponed-ali-amran/700561?afflky=GreatAmericanMusicHall"
   },
   {
     "theater": "Great American Music Hall",
