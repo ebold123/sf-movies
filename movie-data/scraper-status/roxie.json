@@ -1,37 +1,13 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-11T13:53:05.144Z",
+  "generatedAt": "2026-10-12T14:05:27.132Z",
   "status": "discrepancies",
   "report": {
-    "matched": 82,
+    "matched": 77,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "3rd i 2026: Eternal Trees, Eternal Mountains",
-        "startTime": "2026-10-11T12:15:00-07:00"
-      },
-      {
-        "title": "3rd i 2026: Ghost School",
-        "startTime": "2026-10-11T14:00:00-07:00"
-      },
-      {
-        "title": "New People: NAZA",
-        "startTime": "2026-10-11T14:30:00-07:00"
-      },
-      {
-        "title": "River of Life LGBTQ+",
-        "startTime": "2026-10-11T15:00:00-07:00"
-      },
-      {
-        "title": "3rd i 2026: The Loyal Man",
-        "startTime": "2026-10-11T16:00:00-07:00"
-      },
-      {
-        "title": "New People: Never After Dark",
-        "startTime": "2026-10-11T16:30:00-07:00"
-      },
       {
         "title": "2026 HUMP! Film Festival",
         "startTime": "2026-10-15T18:30:00-07:00"
