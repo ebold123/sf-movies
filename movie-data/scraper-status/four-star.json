@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-11T13:44:24.376Z",
+  "generatedAt": "2026-10-12T14:03:38.057Z",
   "status": "discrepancies",
   "report": {
-    "matched": 15,
+    "matched": 14,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -39,18 +39,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
-        "startTime": "2026-10-11T10:00:00-07:00"
-      },
-      {
-        "title": "Roll Fog (Preview Screening Fundraiser with Q&A)",
-        "startTime": "2026-10-11T12:30:00-07:00"
-      },
-      {
-        "title": "Closed for a Private Event",
-        "startTime": "2026-10-11T15:30:00-07:00"
-      },
       {
         "title": "FOGCUTTER FILM SERIES: VOLUME 26 - The Buddy Holly Story (Hosted by Chuck Prophet)",
         "startTime": "2026-10-14T18:00:00-07:00"
