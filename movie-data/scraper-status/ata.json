@@ -1,17 +1,17 @@
 {
   "slug": "ata",
   "theater": "ATA",
-  "generatedAt": "2026-10-12T14:31:40.635Z",
+  "generatedAt": "2026-10-13T14:28:37.203Z",
   "status": "ok",
   "report": {
-    "matched": 8,
+    "matched": 7,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [],
     "scenefOnly": [],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 4,
+      "ours": 5,
       "scenef": 0
     }
   }
