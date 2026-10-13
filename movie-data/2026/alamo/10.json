@@ -497,35 +497,11 @@
   },
   {
     "theater": "Alamo",
-    "title": "Ken Russell's The Devils",
-    "startTime": "2026-10-15T19:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/6f5a77734560",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
-  },
-  {
-    "theater": "Alamo",
-    "title": "Sense and Sensibility",
-    "startTime": "2026-10-15T21:30:00-07:00",
-    "sourceUrl": "https://scenef.com/go/2edab2c51b75",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
-  },
-  {
-    "theater": "Alamo",
     "title": "Sense and Sensibility",
     "startTime": "2026-10-16T11:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/a0315a98da41",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
-  },
-  {
-    "theater": "Alamo",
-    "title": "Ken Russell's The Devils",
-    "startTime": "2026-10-16T14:45:00-07:00",
-    "sourceUrl": "https://scenef.com/go/d09004e277c0",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
   },
   {
     "theater": "Alamo",
@@ -537,27 +513,11 @@
   },
   {
     "theater": "Alamo",
-    "title": "Ken Russell's The Devils",
-    "startTime": "2026-10-16T18:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/c07639ace7e7",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
-  },
-  {
-    "theater": "Alamo",
     "title": "Sense and Sensibility",
     "startTime": "2026-10-16T18:15:00-07:00",
     "sourceUrl": "https://scenef.com/go/cf6a4014a7e7",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
-  },
-  {
-    "theater": "Alamo",
-    "title": "Ken Russell's The Devils",
-    "startTime": "2026-10-16T21:15:00-07:00",
-    "sourceUrl": "https://scenef.com/go/e73da23c4f35",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
   },
   {
     "theater": "Alamo",
@@ -569,67 +529,11 @@
   },
   {
     "theater": "Alamo",
-    "title": "Ken Russell's The Devils",
-    "startTime": "2026-10-17T11:30:00-07:00",
-    "sourceUrl": "https://scenef.com/go/318a26aaf514",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
-  },
-  {
-    "theater": "Alamo",
-    "title": "Ken Russell's The Devils",
-    "startTime": "2026-10-17T14:45:00-07:00",
-    "sourceUrl": "https://scenef.com/go/3d88e25f7460",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
-  },
-  {
-    "theater": "Alamo",
-    "title": "Ken Russell's The Devils",
-    "startTime": "2026-10-17T18:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/45e82baea650",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
-  },
-  {
-    "theater": "Alamo",
     "title": "Sense and Sensibility",
     "startTime": "2026-10-17T18:40:00-07:00",
     "sourceUrl": "https://scenef.com/go/dcd98d9e076c",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
-  },
-  {
-    "theater": "Alamo",
-    "title": "Ken Russell's The Devils",
-    "startTime": "2026-10-17T21:15:00-07:00",
-    "sourceUrl": "https://scenef.com/go/c2395bf39a36",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
-  },
-  {
-    "theater": "Alamo",
-    "title": "Ken Russell's The Devils",
-    "startTime": "2026-10-18T12:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/c5f21005a4d3",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
-  },
-  {
-    "theater": "Alamo",
-    "title": "Ken Russell's The Devils",
-    "startTime": "2026-10-18T15:15:00-07:00",
-    "sourceUrl": "https://scenef.com/go/81380f391234",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
-  },
-  {
-    "theater": "Alamo",
-    "title": "Ken Russell's The Devils",
-    "startTime": "2026-10-18T18:30:00-07:00",
-    "sourceUrl": "https://scenef.com/go/28e027f92da7",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
   },
   {
     "theater": "Alamo",
@@ -1929,6 +1833,118 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Devils",
+    "startTime": "2026-10-15T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/405295ba17ed",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Devils",
+    "startTime": "2026-10-15T22:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b6c2734e2b0f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Devils",
+    "startTime": "2026-10-16T10:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4728b8c7d92f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Devils",
+    "startTime": "2026-10-16T14:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bd89b417e69e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Devils",
+    "startTime": "2026-10-16T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/821d05f3bf54",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Devils",
+    "startTime": "2026-10-16T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/746f9f2b883d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Devils",
+    "startTime": "2026-10-17T11:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/91cff21ccf32",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Devils",
+    "startTime": "2026-10-17T14:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/552eb6b5d356",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Devils",
+    "startTime": "2026-10-17T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/08408c2af2e3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Devils",
+    "startTime": "2026-10-17T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9a08f9abb061",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Devils",
+    "startTime": "2026-10-18T12:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/35c0cbe4efbf",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Devils",
+    "startTime": "2026-10-18T15:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/16bca79505cc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Devils",
+    "startTime": "2026-10-18T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/dd1039055905",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Devils",
+    "startTime": "2026-10-18T22:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/45a5b3632c42",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
     "title": "Your Mother Your Mother Your Mother",
     "startTime": "2026-10-13T14:45:00-07:00",
     "sourceUrl": "https://scenef.com/go/157e32759bad",
@@ -1965,7 +1981,7 @@
     "startTime": "2026-10-13T16:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/6394e46f7373",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them."
+    "synopsis": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians."
   },
   {
     "theater": "Alamo",
@@ -2077,7 +2093,7 @@
     "startTime": "2026-10-14T16:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/8aae58658d56",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them."
+    "synopsis": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians."
   },
   {
     "theater": "Alamo",
@@ -2125,7 +2141,7 @@
     "startTime": "2026-10-14T18:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/e70ea8ab6981",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them."
+    "synopsis": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians."
   },
   {
     "theater": "Alamo",
@@ -2169,6 +2185,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-15T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3cc7efdaddd1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
     "title": "You Can See Everything",
     "startTime": "2026-10-15T15:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/8c398d528a4d",
@@ -2177,11 +2201,19 @@
   },
   {
     "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-15T15:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/716723f60ff8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
     "title": "NAZA",
     "startTime": "2026-10-15T16:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/b0de533c4ce9",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them."
+    "synopsis": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians."
   },
   {
     "theater": "Alamo",
@@ -2205,15 +2237,23 @@
     "startTime": "2026-10-15T18:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/436ce16a5693",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them."
+    "synopsis": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians."
   },
   {
     "theater": "Alamo",
-    "title": "The Devils",
-    "startTime": "2026-10-15T19:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/405295ba17ed",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-15T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/05f9a21950cc",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-15T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6f5a77734560",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
   },
   {
     "theater": "Alamo",
@@ -2233,19 +2273,35 @@
   },
   {
     "theater": "Alamo",
-    "title": "The Devils",
-    "startTime": "2026-10-15T22:10:00-07:00",
-    "sourceUrl": "https://scenef.com/go/b6c2734e2b0f",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-15T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2edab2c51b75",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
   },
   {
     "theater": "Alamo",
-    "title": "The Devils",
-    "startTime": "2026-10-16T10:20:00-07:00",
-    "sourceUrl": "https://scenef.com/go/4728b8c7d92f",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-15T21:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f6ff1ac6e7be",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-15T22:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6f63f5ae5f8d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-16T10:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/61b88aac2d71",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
   },
   {
     "theater": "Alamo",
@@ -2265,11 +2321,35 @@
   },
   {
     "theater": "Alamo",
-    "title": "The Devils",
-    "startTime": "2026-10-16T14:45:00-07:00",
-    "sourceUrl": "https://scenef.com/go/bd89b417e69e",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-16T12:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6a424b024926",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-16T12:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/477b4f91b497",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-16T13:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/cb70cce85883",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-16T14:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d09004e277c0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
   },
   {
     "theater": "Alamo",
@@ -2289,11 +2369,27 @@
   },
   {
     "theater": "Alamo",
-    "title": "The Devils",
-    "startTime": "2026-10-16T18:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/821d05f3bf54",
+    "title": "NAZA",
+    "startTime": "2026-10-16T15:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f48f0ced8ac8",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    "synopsis": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-16T16:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/14a605c56641",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-16T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c07639ace7e7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
   },
   {
     "theater": "Alamo",
@@ -2321,11 +2417,19 @@
   },
   {
     "theater": "Alamo",
-    "title": "The Devils",
-    "startTime": "2026-10-16T21:15:00-07:00",
-    "sourceUrl": "https://scenef.com/go/746f9f2b883d",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-16T19:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/523120e606f7",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-16T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e73da23c4f35",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
   },
   {
     "theater": "Alamo",
@@ -2345,6 +2449,22 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-16T22:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5ea384c34c97",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-16T22:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3de3e19c0fc8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
     "title": "You Can See Everything",
     "startTime": "2026-10-17T10:15:00-07:00",
     "sourceUrl": "https://scenef.com/go/d697b999b335",
@@ -2353,11 +2473,27 @@
   },
   {
     "theater": "Alamo",
-    "title": "The Devils",
-    "startTime": "2026-10-17T11:30:00-07:00",
-    "sourceUrl": "https://scenef.com/go/91cff21ccf32",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-17T10:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0705b4d4e14b",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
+    "title": "NAZA",
+    "startTime": "2026-10-17T10:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/12b56effc121",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-17T11:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/318a26aaf514",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
   },
   {
     "theater": "Alamo",
@@ -2369,6 +2505,22 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-17T13:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c366f2cfa0ed",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "NAZA",
+    "startTime": "2026-10-17T14:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/109e6d5d2885",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians."
+  },
+  {
+    "theater": "Alamo",
     "title": "You Can See Everything",
     "startTime": "2026-10-17T14:15:00-07:00",
     "sourceUrl": "https://scenef.com/go/db335195b903",
@@ -2377,11 +2529,11 @@
   },
   {
     "theater": "Alamo",
-    "title": "The Devils",
+    "title": "Ken Russell's The Devils",
     "startTime": "2026-10-17T14:45:00-07:00",
-    "sourceUrl": "https://scenef.com/go/552eb6b5d356",
+    "sourceUrl": "https://scenef.com/go/3d88e25f7460",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
   },
   {
     "theater": "Alamo",
@@ -2393,11 +2545,27 @@
   },
   {
     "theater": "Alamo",
-    "title": "The Devils",
-    "startTime": "2026-10-17T18:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/08408c2af2e3",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-17T16:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/063208f66d58",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-17T16:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/958b7aa27de1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-17T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/45e82baea650",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
   },
   {
     "theater": "Alamo",
@@ -2417,11 +2585,27 @@
   },
   {
     "theater": "Alamo",
-    "title": "The Devils",
-    "startTime": "2026-10-17T21:15:00-07:00",
-    "sourceUrl": "https://scenef.com/go/9a08f9abb061",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-17T19:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1fd94ca98734",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-17T19:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/473f67d459ee",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-17T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c2395bf39a36",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
   },
   {
     "theater": "Alamo",
@@ -2449,6 +2633,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-17T22:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/47a9f4f0f543",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
     "title": "You Can See Everything",
     "startTime": "2026-10-18T10:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/af4d153c08bb",
@@ -2465,11 +2657,35 @@
   },
   {
     "theater": "Alamo",
-    "title": "The Devils",
-    "startTime": "2026-10-18T12:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/35c0cbe4efbf",
+    "title": "NAZA",
+    "startTime": "2026-10-18T11:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/71cfc5d466f5",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    "synopsis": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-18T11:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a3ce3abe751c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-18T12:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c5f21005a4d3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-18T13:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7ca53724dc1e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
   },
   {
     "theater": "Alamo",
@@ -2481,6 +2697,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "NAZA",
+    "startTime": "2026-10-18T14:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/877812ecab37",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians."
+  },
+  {
+    "theater": "Alamo",
     "title": "Sense and Sensibility",
     "startTime": "2026-10-18T14:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/df2a622a5c69",
@@ -2489,11 +2713,27 @@
   },
   {
     "theater": "Alamo",
-    "title": "The Devils",
+    "title": "Ken Russell's The Devils",
     "startTime": "2026-10-18T15:15:00-07:00",
-    "sourceUrl": "https://scenef.com/go/16bca79505cc",
+    "sourceUrl": "https://scenef.com/go/81380f391234",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-18T16:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/35be69523b2f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-18T16:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a658c5b59ca6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
   },
   {
     "theater": "Alamo",
@@ -2513,11 +2753,27 @@
   },
   {
     "theater": "Alamo",
-    "title": "The Devils",
+    "title": "Ken Russell's The Devils",
     "startTime": "2026-10-18T18:30:00-07:00",
-    "sourceUrl": "https://scenef.com/go/dd1039055905",
+    "sourceUrl": "https://scenef.com/go/28e027f92da7",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-18T19:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/fa656117d51b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-18T19:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ef2eac694c1e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
   },
   {
     "theater": "Alamo",
@@ -2537,11 +2793,107 @@
   },
   {
     "theater": "Alamo",
-    "title": "The Devils",
+    "title": "Ken Russell's The Devils",
     "startTime": "2026-10-18T22:10:00-07:00",
-    "sourceUrl": "https://scenef.com/go/45a5b3632c42",
+    "sourceUrl": "https://scenef.com/go/ae85c5210f47",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-18T22:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/26f0d81bab33",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-18T22:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f5b2ad52016d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-19T14:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9e256afa75f7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "NAZA",
+    "startTime": "2026-10-19T14:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0181aa2253dd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-19T14:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d02e357b0a3c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-19T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1b3c557f7dee",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-19T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/28907c9eb6bb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-19T16:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/99e22ee7d4cc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-19T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/241bd65bf725",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-19T18:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6064c55e743a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-19T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/fb071576da16",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-19T18:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5f20405059cd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
   },
   {
     "theater": "Alamo",
@@ -2553,11 +2905,131 @@
   },
   {
     "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-19T21:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2ae5719137cc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-19T21:25:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d3d0ff14e4c5",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-19T22:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/46b5820f6572",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-19T22:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7caa3f8aea30",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-19T22:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/caef06576c9a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "NAZA",
+    "startTime": "2026-10-20T14:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/59b7742814f9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-20T14:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0f1aa796a65a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-20T14:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/05bca90552c3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-20T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1302cfd96968",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-20T15:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3ec4bc39334f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-20T16:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5dba6361be79",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-20T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/edc4001770b3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-20T18:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c7d79931add3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-20T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/19d6673cbc3d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Cycle",
     "startTime": "2026-10-20T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/4f1cc1fb1643",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-20T19:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c2f87a54174f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
   },
   {
     "theater": "Alamo",
@@ -2569,6 +3041,110 @@
   },
   {
     "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-20T21:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/72aaf9b027da",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-20T22:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b79f7b855d8f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-20T22:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/571b4e11b4f9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-20T22:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/fe0acc1130f4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
+  },
+  {
+    "theater": "Alamo",
+    "title": "NAZA",
+    "startTime": "2026-10-21T14:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4a7722655b25",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-21T14:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/56eeff2cfcfb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-21T14:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c40c68ce321d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-21T14:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/31d4452a45d7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-21T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7b5c2d9bc92c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-21T16:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d21bd9f4bc87",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-21T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/685090d16937",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-21T18:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/afc684f03dad",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-21T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8a88959ef54f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
     "title": "A Tale of Two Sisters",
     "startTime": "2026-10-21T18:40:00-07:00",
     "sourceUrl": "https://scenef.com/go/97349dcf0107",
@@ -2577,11 +3153,51 @@
   },
   {
     "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-21T19:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ba24309abd8e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-10-21T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ed2b350eaade",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-21T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0ef73ddabf3e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
     "title": "\"MANOS\" The Hands of Fate",
     "startTime": "2026-10-21T21:50:00-07:00",
     "sourceUrl": "https://scenef.com/go/5f507650ec12",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-21T22:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c3a84eae9c65",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-21T22:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b078e85746b6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
   },
   {
     "theater": "Alamo",
