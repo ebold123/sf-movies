@@ -1,6 +1,13 @@
 [
   {
     "theater": "The Independent",
+    "title": "Lotus",
+    "startTime": "2027-02-04T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/lotus/",
+    "synopsis": "with Michael Wilbur (of Moon Hooch)"
+  },
+  {
+    "theater": "The Independent",
     "title": "Odezenne",
     "startTime": "2027-02-05T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/odezenne/"

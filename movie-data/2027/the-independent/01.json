@@ -27,8 +27,26 @@
   },
   {
     "theater": "The Independent",
+    "title": "Taper’s Choice",
+    "startTime": "2027-01-16T21:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/tapers-choice/"
+  },
+  {
+    "theater": "The Independent",
     "title": "STS9",
     "startTime": "2027-01-17T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/sts9/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "The Flatliners",
+    "startTime": "2027-01-26T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/the-flatliners/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Winona Fighter",
+    "startTime": "2027-01-31T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/winona-fighter/"
   }
 ]
