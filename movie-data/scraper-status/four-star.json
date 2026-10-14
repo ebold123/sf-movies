@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-13T13:54:06.626Z",
+  "generatedAt": "2026-10-14T13:44:46.450Z",
   "status": "discrepancies",
   "report": {
-    "matched": 14,
+    "matched": 15,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -172,7 +172,27 @@
         "startTime": "2026-11-12T20:00:00-08:00"
       },
       {
-        "title": "LIVE MUSIC: Elanor Moss (Presented by THROWIN' BO'S)",
+        "title": "San Francisco Underground Short Film Festival 2026: First Program (presented by Media Meltdown)",
+        "startTime": "2026-11-14T14:15:00-08:00"
+      },
+      {
+        "title": "San Francisco Underground Short Film Festival 2026: Second Program (presented by Media Meltdown)",
+        "startTime": "2026-11-14T17:00:00-08:00"
+      },
+      {
+        "title": "San Francisco Underground Short Film Festival 2026: Third Program (presented by Media Meltdown)",
+        "startTime": "2026-11-14T20:00:00-08:00"
+      },
+      {
+        "title": "San Francisco Underground Short Film Festival 2026: Fourth Program (presented by Media Meltdown)",
+        "startTime": "2026-11-14T22:45:00-08:00"
+      },
+      {
+        "title": "Closed for a Private Event",
+        "startTime": "2026-11-15T12:30:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: Elanor Moss, Sofia Wolfson, Mia Wilson (Presented by THROWIN' BO'S)",
         "startTime": "2026-11-16T20:00:00-08:00"
       },
       {
@@ -182,6 +202,14 @@
       {
         "title": "LIVE MUSIC: Babehoven, Pileup (Presented by THROWIN' BO'S)",
         "startTime": "2026-11-20T20:00:00-08:00"
+      },
+      {
+        "title": "Closed for a Private Event",
+        "startTime": "2026-11-28T12:30:00-08:00"
+      },
+      {
+        "title": "Closed for a Private Event",
+        "startTime": "2026-12-03T19:00:00-08:00"
       }
     ],
     "scenefOnly": [
@@ -204,7 +232,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 5,
+      "ours": 6,
       "scenef": 0
     }
   }

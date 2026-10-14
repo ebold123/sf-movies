@@ -1,6 +1,14 @@
 [
   {
     "theater": "4-Star",
+    "title": "Closed for a Private Event",
+    "startTime": "2026-12-03T19:00:00-08:00",
+    "endTime": "2026-12-03T22:00:00-08:00",
+    "sourceUrl": "https://www.4-star-movies.com/calendar-of-events/private-event-december-3",
+    "synopsis": "CLOSED FOR A PRIVATE EVENTCurious about hosting your own private event with us? Contact and more details can be found here."
+  },
+  {
+    "theater": "4-Star",
     "title": "LIVE MUSIC: The Crooked Jades (10th Album Release Show)",
     "startTime": "2026-12-04T20:00:00-08:00",
     "endTime": "2026-12-04T23:00:00-08:00",
