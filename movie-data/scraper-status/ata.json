@@ -1,12 +1,18 @@
 {
   "slug": "ata",
   "theater": "ATA",
-  "generatedAt": "2026-10-14T14:22:39.772Z",
-  "status": "ok",
+  "generatedAt": "2026-10-15T14:22:58.835Z",
+  "status": "discrepancies",
   "report": {
-    "matched": 7,
+    "matched": 8,
     "timeMismatches": [],
-    "titleMismatches": [],
+    "titleMismatches": [
+      {
+        "startTime": "2026-10-24T19:00:00-07:00",
+        "ourTitle": "Cine+Mas: Family &#038; Resilience Short Film Program",
+        "scenefTitle": "Cine+Mas: Family & Resilience Short Film Program"
+      }
+    ],
     "oursOnly": [],
     "scenefOnly": [],
     "collapsedDuplicates": 0,
