@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-14T18:03:58.343Z",
+  "generatedAt": "2026-10-15T17:48:18.637Z",
   "status": "discrepancies",
   "report": {
     "matched": 4,
@@ -52,6 +52,26 @@
       {
         "title": "LIVE MUSIC: Babehoven, Pileup (Presented by THROWIN' BO'S)",
         "startTime": "2026-11-20T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: Dagmar Zuniga (Presented by THROWIN' BO'S)",
+        "startTime": "2026-12-05T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: Storefront Church (Presented by THROWIN' BO'S)",
+        "startTime": "2026-12-10T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: June McDoom, Eliana Glass (Presented by THROWIN' BO'S)",
+        "startTime": "2026-12-12T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: Tracey Nelson (Presented by THROWIN' BO'S)",
+        "startTime": "2026-12-13T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: Angela Autumn (Presented by THROWIN' BO'S)",
+        "startTime": "2027-01-24T20:00:00-08:00"
       }
     ],
     "scenefOnly": [
@@ -114,12 +134,20 @@
       {
         "title": "Labyrinth",
         "startTime": "2026-11-01T19:00:00-08:00"
+      },
+      {
+        "title": "Dazed and Confused",
+        "startTime": "2026-12-12T14:30:00-08:00"
+      },
+      {
+        "title": "A Bronx Tale",
+        "startTime": "2027-01-29T19:30:00-08:00"
       }
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 7,
-      "scenef": 2
+      "ours": 2,
+      "scenef": 1
     }
   }
 }

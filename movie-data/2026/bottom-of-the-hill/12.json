@@ -1,6 +1,13 @@
 [
   {
     "theater": "Bottom of the Hill",
+    "title": "Fat, Evil Children",
+    "startTime": "2026-12-01T20:00:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261201.html",
+    "synopsis": "with TBA"
+  },
+  {
+    "theater": "Bottom of the Hill",
     "title": "Emo\nNight Karaoke",
     "startTime": "2026-12-02T20:30:00-08:00",
     "sourceUrl": "http://www.bottomofthehill.com/20261202.html",
@@ -45,6 +52,13 @@
     "title": "Christopher Owens",
     "startTime": "2026-12-17T20:00:00-08:00",
     "sourceUrl": "http://www.bottomofthehill.com/20261217.html",
+    "synopsis": "with TBA"
+  },
+  {
+    "theater": "Bottom of the Hill",
+    "title": "Two Gallants",
+    "startTime": "2026-12-18T20:30:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261218.html",
     "synopsis": "with TBA"
   },
   {

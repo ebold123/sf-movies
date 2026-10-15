@@ -19,6 +19,12 @@
   },
   {
     "theater": "The Warfield",
+    "title": "XLOV",
+    "startTime": "2026-12-15T19:30:00-08:00",
+    "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1651188"
+  },
+  {
+    "theater": "The Warfield",
     "title": "Deltron 3030 performing \"Deltron 3030\"",
     "startTime": "2026-12-31T20:30:00-08:00",
     "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1608390",

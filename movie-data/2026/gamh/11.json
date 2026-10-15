@@ -1,6 +1,13 @@
 [
   {
     "theater": "Great American Music Hall",
+    "title": "PRAYERS",
+    "startTime": "2026-11-16T19:30:00-08:00",
+    "sourceUrl": "https://wl.seetickets.us/event/prayers/701222?afflky=GreatAmericanMusicHall",
+    "synopsis": "with DEVORA, Hallows, Chriz Amaya"
+  },
+  {
+    "theater": "Great American Music Hall",
     "title": "Frankie and The Witch Fingers",
     "startTime": "2026-11-01T20:00:00-08:00",
     "sourceUrl": "https://wl.seetickets.us/event/frankie-and-the-witch-fingers/701805?afflky=GreatAmericanMusicHall",
@@ -79,9 +86,9 @@
   },
   {
     "theater": "Great American Music Hall",
-    "title": "PRAYERS",
+    "title": "*CANCELLED* PRAYERS",
     "startTime": "2026-11-16T19:30:00-08:00",
-    "sourceUrl": "https://wl.seetickets.us/event/prayers/701222?afflky=GreatAmericanMusicHall",
+    "sourceUrl": "https://wl.seetickets.us/event/cancelled-prayers/701222?afflky=GreatAmericanMusicHall",
     "synopsis": "with DEVORA, Hallows, Chriz Amaya"
   },
   {
