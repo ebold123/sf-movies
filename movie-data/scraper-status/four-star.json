@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-14T13:44:46.450Z",
+  "generatedAt": "2026-10-15T13:46:19.139Z",
   "status": "discrepancies",
   "report": {
-    "matched": 15,
+    "matched": 17,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -39,50 +39,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "FOGCUTTER FILM SERIES: VOLUME 26 - The Buddy Holly Story (Hosted by Chuck Prophet)",
-        "startTime": "2026-10-14T18:00:00-07:00"
-      },
-      {
-        "title": "GREEN FILM FESTIVAL: Hen (Opening Night!)",
-        "startTime": "2026-10-15T18:00:00-07:00"
-      },
-      {
-        "title": "SF SHORT FILM FESTIVAL: Opening Night Shorts",
-        "startTime": "2026-10-15T20:15:00-07:00"
-      },
-      {
-        "title": "GREEN FILM FESTIVAL: Don't Be Prey (with The Locals)",
-        "startTime": "2026-10-16T18:00:00-07:00"
-      },
-      {
-        "title": "SF SHORT FILM FESTIVAL: Funny Shorts",
-        "startTime": "2026-10-16T20:30:00-07:00"
-      },
-      {
-        "title": "4-Star Halloween Cartoon Special",
-        "startTime": "2026-10-17T10:00:00-07:00"
-      },
-      {
-        "title": "GREEN FILM FESTIVAL: Animal Conservation Shorts",
-        "startTime": "2026-10-17T12:00:00-07:00"
-      },
-      {
-        "title": "GREEN FILM FESTIVAL: In Excess (with Elders of Time)",
-        "startTime": "2026-10-17T14:00:00-07:00"
-      },
-      {
-        "title": "GREEN FILM FESTIVAL: Best Day Ever (with Other Shorts)",
-        "startTime": "2026-10-17T16:15:00-07:00"
-      },
-      {
-        "title": "GREEN FILM FESTIVAL: Unless Something Goes Terribly Wrong (with Dad vs. Bees)",
-        "startTime": "2026-10-17T18:00:00-07:00"
-      },
-      {
-        "title": "SF SHORT FILM FESTIVAL: Animated Shorts",
-        "startTime": "2026-10-17T20:30:00-07:00"
-      },
       {
         "title": "4-Star Halloween Cartoon Special",
         "startTime": "2026-10-18T10:00:00-07:00"
@@ -210,13 +166,29 @@
       {
         "title": "Closed for a Private Event",
         "startTime": "2026-12-03T19:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: Dagmar Zuniga (Presented by THROWIN' BO'S)",
+        "startTime": "2026-12-05T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: Storefront Church (Presented by THROWIN' BO'S)",
+        "startTime": "2026-12-10T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: June McDoom, Eliana Glass (Presented by THROWIN' BO'S)",
+        "startTime": "2026-12-12T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: Tracey Nelson (Presented by THROWIN' BO'S)",
+        "startTime": "2026-12-13T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: Angela Autumn (Presented by THROWIN' BO'S)",
+        "startTime": "2027-01-24T20:00:00-08:00"
       }
     ],
     "scenefOnly": [
-      {
-        "title": "The Buddy Holly Story",
-        "startTime": "2026-10-14T19:00:00-07:00"
-      },
       {
         "title": "Casper",
         "startTime": "2026-10-24T14:45:00-07:00"
@@ -232,7 +204,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 6,
+      "ours": 12,
       "scenef": 0
     }
   }
