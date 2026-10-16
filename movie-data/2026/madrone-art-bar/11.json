@@ -57,6 +57,14 @@
   },
   {
     "theater": "Madrone Art Bar",
+    "title": "SPIKE&#8217;S OPEN MIC",
+    "startTime": "2026-11-08T17:00:00-08:00",
+    "endTime": "2026-11-08T20:00:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/spikes-open-mic-2022-02-13-2022-03-13-2023-01-08-2025-12-14-2026-08-09/2026-11-08/",
+    "synopsis": "SPIKE’S OPEN MIC. San Francisco’s local music open mic afternoon! Each afternoon we welcome in local talent for an opportunity to shine. 5-8pm / Hosted by Carla Tutu."
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "APOCALYPSE SUNDAY",
     "startTime": "2026-11-01T03:00:00-08:00",
     "endTime": "2026-11-02T03:59:00-08:00",
@@ -161,11 +169,11 @@
   },
   {
     "theater": "Madrone Art Bar",
-    "title": "SPIKE&#8217;S OPEN MIC",
-    "startTime": "2026-11-08T17:00:00-08:00",
+    "title": "THE HOUSE THAT POEMS BUILT",
+    "startTime": "2026-11-08T18:00:00-08:00",
     "endTime": "2026-11-08T20:00:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/spikes-open-mic-2022-02-13-2022-03-13-2023-01-08-2025-12-14-2026-08-09/2026-11-08/",
-    "synopsis": "SPIKE’S OPEN MIC. San Francisco’s local music open mic afternoon! Each afternoon we welcome in local talent for an opportunity to shine. 5-8pm / Hosted by Carla Tutu."
+    "sourceUrl": "https://madroneartbar.com/event/the-house-that-poems-built/",
+    "synopsis": "6-8pm\nSpoken word and music with Jessica Care Moore and DJ Davey D"
   },
   {
     "theater": "Madrone Art Bar",
@@ -249,7 +257,7 @@
   },
   {
     "theater": "Madrone Art Bar",
-    "title": "&#8220;forget me not&#8221; Premiere",
+    "title": "&#8220;forget me not&#8221; Short Film Premiere",
     "startTime": "2026-11-14T17:00:00-08:00",
     "endTime": "2026-11-14T19:00:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/forget-me-not-premiere/",
@@ -438,6 +446,14 @@
     "endTime": "2026-11-29T01:30:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/lets-go-disco-8-2026-01-24-2026-02-28-2026-03-28-2026-04-25-2026-07-25-2026-11-28/2026-11-28/",
     "synopsis": "Let’s Go Disco in San Francisco 🌈 🪩\nEarly arrival recommended.\nBe yourself. Dress to dance.\nmotel club presents\nLet’s Go Disco\nMadrone Art Bar\n$10 9:30pm\n \n@motel.club\n@madroneartbar"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "SPIKE&#8217;S OPEN MIC",
+    "startTime": "2026-11-29T17:00:00-08:00",
+    "endTime": "2026-11-29T20:00:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/spikes-open-mic-2022-02-13-2022-03-13-2023-01-08-2025-12-14-2026-08-09-2026-11-08/",
+    "synopsis": "SPIKE’S OPEN MIC. San Francisco’s local music open mic afternoon! Each afternoon we welcome in local talent for an opportunity to shine. 5-8pm / Hosted by Carla Tutu.\n(*Note: This month’s Open Mic will be on the 5th Sunday of the month!)"
   },
   {
     "theater": "Madrone Art Bar",

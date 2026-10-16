@@ -96,6 +96,13 @@
   },
   {
     "theater": "The Independent",
+    "title": "City of the Sun",
+    "startTime": "2026-10-21T20:00:00-07:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/city-of-the-sun/",
+    "synopsis": "with Valley Wolf"
+  },
+  {
+    "theater": "The Independent",
     "title": "This is Lorelei",
     "startTime": "2026-10-16T21:00:00-07:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/this-is-lorelei/",
@@ -128,13 +135,6 @@
     "startTime": "2026-10-20T20:00:00-07:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/sawyer-hill/",
     "synopsis": "with Never Ending Fall"
-  },
-  {
-    "theater": "The Independent",
-    "title": "City of the Sun",
-    "startTime": "2026-10-21T20:00:00-07:00",
-    "sourceUrl": "https://www.theindependentsf.com/tm-event/city-of-the-sun/",
-    "synopsis": "with Valley Wolf"
   },
   {
     "theater": "The Independent",
