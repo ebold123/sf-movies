@@ -1177,6 +1177,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Lady",
+    "startTime": "2026-10-27T20:20:00-07:00",
+    "sourceUrl": "https://roxie.com/film/lady/#showtimes-20261027-2020",
+    "synopsis": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Rewind Presents: The Craft with Live Drag!",
     "startTime": "2026-10-27T21:15:00-07:00",
     "sourceUrl": "https://roxie.com/film/rewind-presents-the-craft/#showtimes-20261027-2115",
@@ -1205,6 +1212,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "NAZA",
+    "startTime": "2026-10-29T16:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261029-1600",
+    "synopsis": "NAZA is also playing at NEW PEOPLE In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: The Great Experiment",
     "startTime": "2026-10-29T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/new-people-the-great-experiment/#showtimes-20261029-1800",
@@ -1219,10 +1233,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "The Blair Witch Project",
+    "startTime": "2026-10-29T21:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-blair-witch-project/#showtimes-20261029-2100",
+    "synopsis": "In 1994 a group of filmmakers head out into the woods of Burkittsville, MD in search of the folk legend of the Blair Witch […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Fjord",
     "startTime": "2026-10-30T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/fjord/#showtimes-20261030-1800",
     "synopsis": "From two-time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devoutRomanian husband relocate with their five children to a remote, close-knit, coastal […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: My Undesirable Friends: Part 2 – Exile (Chapters 1–3)",
+    "startTime": "2026-10-30T18:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-my-undesirable-friends-part-2-exile-chapters-1-3/#showtimes-20261030-1815",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. A group of young journalists deemed “foreign agents” […]"
   },
   {
     "theater": "Roxie",
