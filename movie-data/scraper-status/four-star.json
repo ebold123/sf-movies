@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-16T13:45:32.149Z",
+  "generatedAt": "2026-10-17T13:41:05.821Z",
   "status": "discrepancies",
   "report": {
     "matched": 17,
@@ -184,6 +184,10 @@
         "startTime": "2026-12-13T20:00:00-08:00"
       },
       {
+        "title": "LIVE MUSIC: Robber Robber (Presented by THROWIN' BO'S)",
+        "startTime": "2026-12-16T20:00:00-08:00"
+      },
+      {
         "title": "LIVE MUSIC: Angela Autumn (Presented by THROWIN' BO'S)",
         "startTime": "2027-01-24T20:00:00-08:00"
       }
@@ -204,7 +208,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 10,
+      "ours": 8,
       "scenef": 0
     }
   }
