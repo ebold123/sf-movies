@@ -29,6 +29,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Los Domingos",
+    "startTime": "2026-11-03T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/los-domingos/#showtimes-20261103-1800",
+    "synopsis": "Ainara is seventeen, brilliant, and expected to choose a university degree. Instead, she makes a choice no one saw coming: she feels called to […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "An Evening with Jane Schoenbrun: Public Access Afterworld + I Saw the TV Glow",
     "startTime": "2026-11-04T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/an-evening-with-jane-schoenbrun-public-access-afterworld-i-saw-the-tv-glow/#showtimes-20261104-1800",
@@ -61,6 +68,13 @@
     "startTime": "2026-11-06T19:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/floating-features-pacific-heights/#showtimes-20261106-1900",
     "synopsis": "Drake and Patty purchase a San Francisco Victorian hoping to fund their future through rental income. Their stability collapses when Carter Hayes occupies the […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Las Almas ni los Ojos (Neither Souls nor Eyes)",
+    "startTime": "2026-11-07T13:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/las-almas-ni-los-ojos-neither-souls-nor-eyes/#showtimes-20261107-1300",
+    "synopsis": "Presented by CiNEOLA and co-presented by RoxCine. Part of the COLOMBIA ON FILM: bajo el velo de la ficción (under the veil of fiction) […]"
   },
   {
     "theater": "Roxie",
@@ -124,6 +138,13 @@
     "startTime": "2026-11-17T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/counsellor-at-law/#showtimes-20261117-1800",
     "synopsis": "Part of our series Wild, Weird, Wicked: Films From Before the Code! Directed by the illustrious William Wyler (The Good Fairy, The Big Country, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Los Domingos",
+    "startTime": "2026-11-19T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/los-domingos/#showtimes-20261119-1800",
+    "synopsis": "Ainara is seventeen, brilliant, and expected to choose a university degree. Instead, she makes a choice no one saw coming: she feels called to […]"
   },
   {
     "theater": "Roxie",

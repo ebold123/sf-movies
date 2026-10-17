@@ -1,25 +1,13 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-16T13:53:28.162Z",
+  "generatedAt": "2026-10-17T13:51:35.661Z",
   "status": "discrepancies",
   "report": {
-    "matched": 76,
+    "matched": 84,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "New People: Jigoku (4K Restoration)",
-        "startTime": "2026-10-16T18:15:00-07:00"
-      },
-      {
-        "title": "Floating Features: The Game",
-        "startTime": "2026-10-16T19:00:00-07:00"
-      },
-      {
-        "title": "New People: Hausu",
-        "startTime": "2026-10-16T20:30:00-07:00"
-      },
       {
         "title": "New People: NAZA",
         "startTime": "2026-10-17T13:00:00-07:00"
@@ -65,6 +53,10 @@
         "startTime": "2026-10-23T19:00:00-07:00"
       },
       {
+        "title": "New People: NAZA",
+        "startTime": "2026-10-23T20:30:00-07:00"
+      },
+      {
         "title": "SF Latino Film Festival: Comparsa",
         "startTime": "2026-10-24T12:30:00-07:00"
       },
@@ -87,6 +79,10 @@
       {
         "title": "SF Latino Film Festival: Libertad",
         "startTime": "2026-10-25T13:00:00-07:00"
+      },
+      {
+        "title": "APATure 2026",
+        "startTime": "2026-10-27T18:45:00-07:00"
       },
       {
         "title": "New People: The Great Experiment",
@@ -149,7 +145,20 @@
         "startTime": "2026-12-12T18:30:00-08:00"
       }
     ],
-    "scenefOnly": [],
+    "scenefOnly": [
+      {
+        "title": "Los Conductos",
+        "startTime": "2026-11-08T13:20:00-08:00"
+      },
+      {
+        "title": "How to Clean a House in 10 Easy Steps",
+        "startTime": "2026-11-08T15:10:00-08:00"
+      },
+      {
+        "title": "Raise the Red Lantern",
+        "startTime": "2026-11-20T18:00:00-08:00"
+      }
+    ],
     "collapsedDuplicates": 0,
     "excluded": {
       "ours": 3,
