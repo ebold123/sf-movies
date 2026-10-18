@@ -855,6 +855,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Blade Runner: The Final Cut (35mm)",
+    "startTime": "2026-10-26T20:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/blade-runner-the-final-cut/#showtimes-20261026-2010",
+    "synopsis": "While so many effects-driven visions of the future have faded with time, Blade Runner remains a template for imagining the neon-soaked city to come, […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Carter Country",
     "startTime": "2026-10-18T12:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/carter-country/#showtimes-20261018-1230",
@@ -1230,13 +1237,6 @@
     "startTime": "2026-10-26T18:20:00-07:00",
     "sourceUrl": "https://roxie.com/film/lady/#showtimes-20261026-1820",
     "synopsis": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession […]"
-  },
-  {
-    "theater": "Roxie",
-    "title": "Blade Runner: The Final Cut (35mm)",
-    "startTime": "2026-10-26T20:10:00-07:00",
-    "sourceUrl": "https://roxie.com/film/blade-runner-the-final-cut/#showtimes-20261026-2010",
-    "synopsis": "While so many effects-driven visions of the future have faded with time, Blade Runner remains a template for imagining the neon-soaked city to come, […]"
   },
   {
     "theater": "Roxie",

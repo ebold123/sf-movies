@@ -1,25 +1,13 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-17T13:51:35.661Z",
+  "generatedAt": "2026-10-18T13:51:38.121Z",
   "status": "discrepancies",
   "report": {
-    "matched": 84,
+    "matched": 75,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "New People: NAZA",
-        "startTime": "2026-10-17T13:00:00-07:00"
-      },
-      {
-        "title": "New People: First They Came for My College",
-        "startTime": "2026-10-17T15:00:00-07:00"
-      },
-      {
-        "title": "New People: Jigoku (4K Restoration)",
-        "startTime": "2026-10-17T18:00:00-07:00"
-      },
       {
         "title": "New People: NAZA",
         "startTime": "2026-10-18T13:00:00-07:00"
