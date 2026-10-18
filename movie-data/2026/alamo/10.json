@@ -2721,19 +2721,19 @@
   },
   {
     "theater": "Alamo",
-    "title": "Sense and Sensibility",
-    "startTime": "2026-10-18T11:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/4cfabb32c166",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
-  },
-  {
-    "theater": "Alamo",
     "title": "NAZA",
     "startTime": "2026-10-18T11:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/71cfc5d466f5",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-18T11:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4cfabb32c166",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
   },
   {
     "theater": "Alamo",
