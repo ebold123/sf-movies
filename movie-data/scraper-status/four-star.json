@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-18T13:41:46.162Z",
+  "generatedAt": "2026-10-19T13:51:09.677Z",
   "status": "discrepancies",
   "report": {
-    "matched": 17,
+    "matched": 16,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -39,54 +39,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "4-Star Halloween Cartoon Special",
-        "startTime": "2026-10-18T10:00:00-07:00"
-      },
-      {
-        "title": "GREEN FILM FESTIVAL: Water & Oceans Shorts",
-        "startTime": "2026-10-18T12:00:00-07:00"
-      },
-      {
-        "title": "GREEN FILM FESTIVAL: The Terroirist (with Plant Life)",
-        "startTime": "2026-10-18T14:30:00-07:00"
-      },
-      {
-        "title": "SF SHORT FILM FESTIVAL: True Stories Shorts",
-        "startTime": "2026-10-18T17:00:00-07:00"
-      },
-      {
-        "title": "GREEN FILM FESTIVAL: Narrative Fiction Shorts",
-        "startTime": "2026-10-19T18:00:00-07:00"
-      },
-      {
-        "title": "SF SHORT FILM FESTIVAL: Spontaneous Connections Shorts",
-        "startTime": "2026-10-19T20:15:00-07:00"
-      },
-      {
-        "title": "GREEN FILM FESTIVAL: Harvest",
-        "startTime": "2026-10-20T18:00:00-07:00"
-      },
-      {
-        "title": "SF SHORT FILM FESTIVAL: Spine-tingling Shorts",
-        "startTime": "2026-10-20T20:15:00-07:00"
-      },
-      {
-        "title": "GREEN FILM FESTIVAL: The Big Picture Shorts",
-        "startTime": "2026-10-21T18:00:00-07:00"
-      },
-      {
-        "title": "SF SHORT FILM FESTIVAL: Closing Night Shorts",
-        "startTime": "2026-10-21T20:15:00-07:00"
-      },
-      {
-        "title": "GREEN FILM FESTIVAL: A City in the Forest (Closing Night!)",
-        "startTime": "2026-10-22T18:00:00-07:00"
-      },
-      {
-        "title": "GREEN FILM FESTIVAL: Bodyhackers",
-        "startTime": "2026-10-22T20:30:00-07:00"
-      },
       {
         "title": "Casper",
         "startTime": "2026-10-24T10:00:00-07:00"
@@ -208,7 +160,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 2,
+      "ours": 11,
       "scenef": 0
     }
   }
