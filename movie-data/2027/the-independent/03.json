@@ -8,6 +8,13 @@
   },
   {
     "theater": "The Independent",
+    "title": "Tommy Lefroy",
+    "startTime": "2027-03-03T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/tommy-lefroy/",
+    "synopsis": "with Al Olender"
+  },
+  {
+    "theater": "The Independent",
     "title": "Rayland Baxter",
     "startTime": "2027-03-06T21:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/rayland-baxter/"
@@ -24,6 +31,12 @@
     "startTime": "2027-03-09T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/strongboi/",
     "synopsis": "with Salami Rose Joe Louis"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Ruby Waters",
+    "startTime": "2027-03-13T21:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/ruby-waters/"
   },
   {
     "theater": "The Independent",

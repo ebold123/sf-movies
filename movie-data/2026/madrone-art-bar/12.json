@@ -65,6 +65,38 @@
   },
   {
     "theater": "Madrone Art Bar",
+    "title": "NU NOIZE",
+    "startTime": "2026-12-04T21:30:00-08:00",
+    "endTime": "2026-12-05T01:00:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/nu-noize/2026-12-04/",
+    "synopsis": "NU NOIZE\nA dance party.\ncome early. leave sweaty.\nwith DJs Mackswell & Knowpa.\n\n\n$10 cover at 9:30pm / 21 up w/ID\nGuarantee your spot!"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "Pop Life",
+    "startTime": "2026-12-05T21:00:00-08:00",
+    "endTime": "2026-12-06T01:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/pop-life/2026-12-05/",
+    "synopsis": "Have fun with your friends at POP LIFE – the music video party. Every first Saturday of the month!\nDisco, Soul, Top 40 Pop Hits, Party Anthems, Hip-Hop, One Hit Wonders, Guilty Pleasures, and more\n$10 at the door / 9pm-1:45am / 21+ / no dress code, dress how ya like!"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "Hella Cheese",
+    "startTime": "2026-12-11T21:30:00-08:00",
+    "endTime": "2026-12-12T01:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/hella-cheese-2022-02-11-2026-04-10-2026-07-10-2026-11-13/2026-12-11/",
+    "synopsis": "2nd Fridays at Madrone\nDJ GORDO AND GUESTS\nPLAYING CHEESY AND/OR GUILTY PLEASURES FROM ALL GENRES & ALL ERAS\n$10 at 9:30PM"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "WILD CARD",
+    "startTime": "2026-12-18T21:00:00-08:00",
+    "endTime": "2026-12-18T23:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/wild-card-2026-04-17-2026-11-20/2026-12-18/",
+    "synopsis": "Ante up! DJs King Most and White Mike host a night of drinks and dancing, dealing out your favorite hip hop, funk and dance jams—including some unexpected gems. Music starts at 9pm. $10 cover at 9:30pm / 21 & up w/ID"
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "LIVE MODEL TUESDAY SKETCH",
     "startTime": "2026-12-01T18:30:00-08:00",
     "endTime": "2026-12-01T20:30:00-08:00",
@@ -124,7 +156,7 @@
     "title": "NU NOIZE",
     "startTime": "2026-12-04T21:30:00-08:00",
     "endTime": "2026-12-05T01:00:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/nu-noize/2026-12-04/",
+    "sourceUrl": "https://madroneartbar.com/event/nu-noize-2026-12-04/2026-12-04/",
     "synopsis": "NU NOIZE\nA dance party.\ncome early. leave sweaty.\nwith DJs Mackswell & Knowpa.\n\n\n$10 cover at 9:30pm / 21 up w/ID\nGuarantee your spot!"
   },
   {
@@ -148,7 +180,7 @@
     "title": "Pop Life",
     "startTime": "2026-12-05T21:00:00-08:00",
     "endTime": "2026-12-06T01:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/pop-life/2026-12-05/",
+    "sourceUrl": "https://madroneartbar.com/event/pop-life-2026-12-05/2026-12-05/",
     "synopsis": "Have fun with your friends at POP LIFE – the music video party. Every first Saturday of the month!\nDisco, Soul, Top 40 Pop Hits, Party Anthems, Hip-Hop, One Hit Wonders, Guilty Pleasures, and more\n$10 at the door / 9pm-1:45am / 21+ / no dress code, dress how ya like!"
   },
   {
@@ -236,7 +268,7 @@
     "title": "Hella Cheese",
     "startTime": "2026-12-11T21:30:00-08:00",
     "endTime": "2026-12-12T01:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/hella-cheese-2022-02-11-2026-04-10-2026-07-10-2026-11-13/2026-12-11/",
+    "sourceUrl": "https://madroneartbar.com/event/hella-cheese-2022-02-11-2026-04-10-2026-07-10-2026-12-11/2026-12-11/",
     "synopsis": "2nd Fridays at Madrone\nDJ GORDO AND GUESTS\nPLAYING CHEESY AND/OR GUILTY PLEASURES FROM ALL GENRES & ALL ERAS\n$10 at 9:30PM"
   },
   {
@@ -324,7 +356,7 @@
     "title": "WILD CARD",
     "startTime": "2026-12-18T21:00:00-08:00",
     "endTime": "2026-12-18T23:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/wild-card-2026-04-17-2026-11-20/2026-12-18/",
+    "sourceUrl": "https://madroneartbar.com/event/wild-card-2026-04-17-2026-12-18/2026-12-18/",
     "synopsis": "Ante up! DJs King Most and White Mike host a night of drinks and dancing, dealing out your favorite hip hop, funk and dance jams—including some unexpected gems. Music starts at 9pm. $10 cover at 9:30pm / 21 & up w/ID"
   },
   {

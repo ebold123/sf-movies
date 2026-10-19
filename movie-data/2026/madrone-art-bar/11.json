@@ -65,6 +65,46 @@
   },
   {
     "theater": "Madrone Art Bar",
+    "title": "NU NOIZE",
+    "startTime": "2026-11-06T21:30:00-08:00",
+    "endTime": "2026-11-07T01:00:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/nu-noize/2026-11-06/",
+    "synopsis": "NU NOIZE\nA dance party.\ncome early. leave sweaty.\nwith DJs Mackswell & Knowpa.\n\n\n$10 cover at 9:30pm / 21 up w/ID\nGuarantee your spot!"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "Pop Life",
+    "startTime": "2026-11-07T21:00:00-08:00",
+    "endTime": "2026-11-08T01:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/pop-life/2026-11-07/",
+    "synopsis": "Have fun with your friends at POP LIFE – the music video party. Every first Saturday of the month!\nDisco, Soul, Top 40 Pop Hits, Party Anthems, Hip-Hop, One Hit Wonders, Guilty Pleasures, and more\n$10 at the door / 9pm-1:45am / 21+ / no dress code, dress how ya like!"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "Hella Cheese",
+    "startTime": "2026-11-13T21:30:00-08:00",
+    "endTime": "2026-11-14T01:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/hella-cheese-2022-02-11-2026-04-10-2026-07-10-2026-11-13/2026-11-13/",
+    "synopsis": "2nd Fridays at Madrone\nDJ GORDO AND GUESTS\nPLAYING CHEESY AND/OR GUILTY PLEASURES FROM ALL GENRES & ALL ERAS\n$10 at 9:30PM"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "WILD CARD",
+    "startTime": "2026-11-20T21:00:00-08:00",
+    "endTime": "2026-11-20T23:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/wild-card-2026-04-17-2026-11-20/2026-11-20/",
+    "synopsis": "Ante up! DJs King Most and White Mike host a night of drinks and dancing, dealing out your favorite hip hop, funk and dance jams—including some unexpected gems. Music starts at 9pm. $10 cover at 9:30pm / 21 & up w/ID"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "I HEART THE 90s",
+    "startTime": "2026-11-27T21:30:00-08:00",
+    "endTime": "2026-11-28T01:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/i-heart-the-90s-2025-11-28-2026-03-27-2026-09-25-2026-10-23/2026-11-27/",
+    "synopsis": "DJs Samala, Mr. Grant, N Such, Mama K and Sonny Phono rocking hip hop, dance, alternative, grunge, reggae, etc. VJ Teo with the live visual mixing of 90s music video classics and beyond. SF’s Original 90s Dance Party\nMusic starts at 9pm. $10 at 9:30pm / 21 & up w/ID"
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "APOCALYPSE SUNDAY",
     "startTime": "2026-11-01T03:00:00-08:00",
     "endTime": "2026-11-02T03:59:00-08:00",
@@ -148,7 +188,7 @@
     "title": "NU NOIZE",
     "startTime": "2026-11-06T21:30:00-08:00",
     "endTime": "2026-11-07T01:00:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/nu-noize/2026-11-06/",
+    "sourceUrl": "https://madroneartbar.com/event/nu-noize/",
     "synopsis": "NU NOIZE\nA dance party.\ncome early. leave sweaty.\nwith DJs Mackswell & Knowpa.\n\n\n$10 cover at 9:30pm / 21 up w/ID\nGuarantee your spot!"
   },
   {
@@ -164,8 +204,8 @@
     "title": "Pop Life",
     "startTime": "2026-11-07T21:00:00-08:00",
     "endTime": "2026-11-08T01:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/pop-life/2026-11-07/",
-    "synopsis": "Have fun with your friends at POP LIFE – the music video party. Every first Saturday of the month!\nDisco, Soul, Top 40 Pop Hits, Party Anthems, Hip-Hop, One Hit Wonders, Guilty Pleasures, and more\n$10 at the door / 9pm-1:45am / 21+ / no dress code, dress how ya like!"
+    "sourceUrl": "https://madroneartbar.com/event/pop-life/",
+    "synopsis": "Have fun with your friends at POP LIFE – the music video party. Every first Saturday of the month!\nDisco, Soul, Top 40 Pop Hits, Party Anthems, Hip-Hop, One Hit Wonders, Guilty Pleasures, and more\n$10 at the door / 9pm-1:45am / 21+ / no dress code, dress how ya like!\nGuarantee your spot!"
   },
   {
     "theater": "Madrone Art Bar",
@@ -252,8 +292,8 @@
     "title": "Hella Cheese",
     "startTime": "2026-11-13T21:30:00-08:00",
     "endTime": "2026-11-14T01:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/hella-cheese-2022-02-11-2026-04-10-2026-07-10-2026-11-13/2026-11-13/",
-    "synopsis": "2nd Fridays at Madrone\nDJ GORDO AND GUESTS\nPLAYING CHEESY AND/OR GUILTY PLEASURES FROM ALL GENRES & ALL ERAS\n$10 at 9:30PM"
+    "sourceUrl": "https://madroneartbar.com/event/hella-cheese-2022-02-11-2026-04-10-2026-07-10-2026-11-13/",
+    "synopsis": "2nd Fridays at Madrone\nDJ GORDO AND GUESTS\nPLAYING CHEESY AND/OR GUILTY PLEASURES FROM ALL GENRES & ALL ERAS\n$10 at 9:30PM\nGuarantee your spot!"
   },
   {
     "theater": "Madrone Art Bar",
@@ -277,7 +317,7 @@
     "startTime": "2026-11-14T21:00:00-08:00",
     "endTime": "2026-11-15T02:00:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/straighten-it-out-2025-12-13-2026-11-14/",
-    "synopsis": "Every 2nd Saturday\nSTRAIGHTEN IT OUT\nMadrone, 500 Divisadero St., SF\n21+ | 9pm-2am | $10 at 9:30PM\nStraight up, we play the jams we love. Whether it’s that song you heard growing up that you know all the words to, or a fresh new track that just dropped last week. We’ll even smack it up, flip it, and remix it on the fly if we’re feeling ourselves… And no genre is safe. If it makes you move, we play it!\nresidents\nPROOF\nANT ONE\nJERRY NICE\n+ special guests\ngenre\nHip-Hop, R&B, Classics, Remixes"
+    "synopsis": "Every 2nd Saturday\nSTRAIGHTEN IT OUT\nMadrone, 500 Divisadero St., SF\n21+ | 9pm-2am | $10 at 9:30PM\nStraight up, we play the jams we love. Whether it’s that song you heard growing up that you know all the words to, or a fresh new track that just dropped last week. We’ll even smack it up, flip it, and remix it on the fly if we’re feeling ourselves… And no genre is safe. If it makes you move, we play it!\nresidents\nPROOF\nANT ONE\nJERRY NICE\n+ special guests\ngenre\nHip-Hop, R&B, Classics, Remixes\nGuarantee your spot!"
   },
   {
     "theater": "Madrone Art Bar",
@@ -348,8 +388,8 @@
     "title": "WILD CARD",
     "startTime": "2026-11-20T21:00:00-08:00",
     "endTime": "2026-11-20T23:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/wild-card-2026-04-17-2026-11-20/2026-11-20/",
-    "synopsis": "Ante up! DJs King Most and White Mike host a night of drinks and dancing, dealing out your favorite hip hop, funk and dance jams—including some unexpected gems. Music starts at 9pm. $10 cover at 9:30pm / 21 & up w/ID"
+    "sourceUrl": "https://madroneartbar.com/event/wild-card-2026-04-17-2026-11-20/",
+    "synopsis": "Ante up! DJs King Most and White Mike host a night of drinks and dancing, dealing out your favorite hip hop, funk and dance jams—including some unexpected gems. Music starts at 9pm. $10 cover at 9:30pm / 21 & up w/ID\nGuarantee your spot!"
   },
   {
     "theater": "Madrone Art Bar",
@@ -428,7 +468,7 @@
     "title": "I HEART THE 90s",
     "startTime": "2026-11-27T21:30:00-08:00",
     "endTime": "2026-11-28T01:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/i-heart-the-90s-2025-11-28-2026-03-27-2026-09-25-2026-10-23/2026-11-27/",
+    "sourceUrl": "https://madroneartbar.com/event/i-heart-the-90s-2025-11-28-2026-03-27-2026-09-25-2026-11-27/2026-11-27/",
     "synopsis": "DJs Samala, Mr. Grant, N Such, Mama K and Sonny Phono rocking hip hop, dance, alternative, grunge, reggae, etc. VJ Teo with the live visual mixing of 90s music video classics and beyond. SF’s Original 90s Dance Party\nMusic starts at 9pm. $10 at 9:30pm / 21 & up w/ID"
   },
   {
