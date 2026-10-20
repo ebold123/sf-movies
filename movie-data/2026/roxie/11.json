@@ -36,17 +36,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Runa Simi",
-    "startTime": "2026-11-04T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/runa-simi/#showtimes-20261104-1800",
-    "synopsis": "Q&A with Director Augusto Zegarra after the screening! “Fernando’s ambition to create an official Quechua dub for The Lion King stands as a story […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "An Evening with Jane Schoenbrun: Public Access Afterworld + I Saw the TV Glow",
     "startTime": "2026-11-04T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/an-evening-with-jane-schoenbrun-public-access-afterworld-i-saw-the-tv-glow/#showtimes-20261104-1800",
     "synopsis": "THIS SCREENING IS AT RUSH! Co-presented by Book Passage. Join us for a special evening with acclaimed filmmaker and writer Jane Schoenbrun, celebrating the […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Runa Simi",
+    "startTime": "2026-11-04T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/runa-simi/#showtimes-20261104-1800",
+    "synopsis": "Q&A with Director Augusto Zegarra after the screening! “Fernando’s ambition to create an official Quechua dub for The Lion King stands as a story […]"
   },
   {
     "theater": "Roxie",
@@ -106,10 +106,31 @@
   },
   {
     "theater": "Roxie",
+    "title": "Los Conductos",
+    "startTime": "2026-11-08T13:20:00-08:00",
+    "sourceUrl": "https://roxie.com/film/los-conductos/#showtimes-20261108-1320",
+    "synopsis": "Presented by CiNEOLA and co-presented by RoxCine. Part of the COLOMBIA ON FILM: bajo el velo de la ficción (under the veil of fiction) series. Freely inspired by […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Everything For Sale",
     "startTime": "2026-11-08T15:10:00-08:00",
     "sourceUrl": "https://roxie.com/film/everything-for-sale/#showtimes-20261108-1510",
     "synopsis": "The lead protagonist of a film disappears mid production, and his family and crew search for him before tragic news reaches them. Wajda’s first […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "How to Clean a House in 10 Easy Steps",
+    "startTime": "2026-11-08T15:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/how-to-clean-a-house-in-10-easy-steps/#showtimes-20261108-1510",
+    "synopsis": "Presented by CiNEOLA and co-presented by RoxCine with community partner BAVC Media Part of the COLOMBIA ON FILM: bajo el velo de la ficción (under the veil of fiction) series. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Being Heumann",
+    "startTime": "2026-11-10T15:20:00-08:00",
+    "sourceUrl": "https://roxie.com/film/being-heumann/#showtimes-20261110-1520",
+    "synopsis": "Being Heumann opens at NEW PEOPLE on November 6! They wouldn’t take Judy Heumann’s phone calls, so she took their building. In 1977, a […]"
   },
   {
     "theater": "Roxie",

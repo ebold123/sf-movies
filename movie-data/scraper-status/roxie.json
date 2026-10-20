@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-19T13:56:17.221Z",
+  "generatedAt": "2026-10-20T13:53:40.112Z",
   "status": "discrepancies",
   "report": {
-    "matched": 69,
+    "matched": 71,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
@@ -37,11 +37,11 @@
         "startTime": "2026-10-24T12:30:00-07:00"
       },
       {
-        "title": "New People: Take Me Home",
+        "title": "San Quentin Film Festival 2026",
         "startTime": "2026-10-24T13:00:00-07:00"
       },
       {
-        "title": "San Quentin Film Festival 2026",
+        "title": "New People: Take Me Home",
         "startTime": "2026-10-24T13:00:00-07:00"
       },
       {
@@ -122,14 +122,6 @@
       }
     ],
     "scenefOnly": [
-      {
-        "title": "Los Conductos",
-        "startTime": "2026-11-08T13:20:00-08:00"
-      },
-      {
-        "title": "How to Clean a House in 10 Easy Steps",
-        "startTime": "2026-11-08T15:10:00-08:00"
-      },
       {
         "title": "Raise the Red Lantern",
         "startTime": "2026-11-20T18:00:00-08:00"
