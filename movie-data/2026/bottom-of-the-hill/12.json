@@ -25,7 +25,7 @@
     "title": "Ultra Q",
     "startTime": "2026-12-04T20:00:00-08:00",
     "sourceUrl": "http://www.bottomofthehill.com/20261204.html",
-    "synopsis": "with TBA"
+    "synopsis": "with Cross Stitch"
   },
   {
     "theater": "Bottom of the Hill",
@@ -53,6 +53,13 @@
     "startTime": "2026-12-12T20:30:00-08:00",
     "sourceUrl": "http://www.bottomofthehill.com/20261212.html",
     "synopsis": "with Drunk Horse, Hightower"
+  },
+  {
+    "theater": "Bottom of the Hill",
+    "title": "El Vez & the Centuries",
+    "startTime": "2026-12-13T21:00:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261213.html",
+    "synopsis": "with Rip Room, / Sid Presley"
   },
   {
     "theater": "Bottom of the Hill",
@@ -88,5 +95,47 @@
     "startTime": "2026-12-23T20:30:00-08:00",
     "sourceUrl": "http://www.bottomofthehill.com/20261223.html",
     "synopsis": "with Western Addiction, Seized Up"
+  },
+  {
+    "theater": "Bottom of the Hill",
+    "title": "Top Secret Robot Alliance",
+    "startTime": "2026-12-26T16:30:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261226.html",
+    "synopsis": "with Electric Machine Gun Tits, Varona, Luke Sweeney, Henry Thayer, ... and more"
+  },
+  {
+    "theater": "Bottom of the Hill",
+    "title": "Crop Top",
+    "startTime": "2026-12-27T16:30:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261227.html",
+    "synopsis": "with Funeral Cake, Mark Eitzel, Strange Cities, Devoted Fans, ... and more"
+  },
+  {
+    "theater": "Bottom of the Hill",
+    "title": "Man or Astro-man?",
+    "startTime": "2026-12-28T21:00:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261228.html",
+    "synopsis": "with The Subsonics, / Sid Presley"
+  },
+  {
+    "theater": "Bottom of the Hill",
+    "title": "Man or Astro-man?",
+    "startTime": "2026-12-29T21:00:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261229.html",
+    "synopsis": "with The Subsonics, / Sid Presley"
+  },
+  {
+    "theater": "Bottom of the Hill",
+    "title": "Shannon Shaw",
+    "startTime": "2026-12-30T21:00:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261230.html",
+    "synopsis": "with Tino Drima, / Foodcourt, / Sasquatch Borracho"
+  },
+  {
+    "theater": "Bottom of the Hill",
+    "title": "Shannon Shaw",
+    "startTime": "2026-12-31T21:00:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261231.html",
+    "synopsis": "with Will Sprott, / Sid Presley, / Classic Bar Music"
   }
 ]
