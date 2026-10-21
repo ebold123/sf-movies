@@ -1,14 +1,34 @@
 [
   {
     "theater": "Great American Music Hall",
+    "title": "Yendry",
+    "startTime": "2027-05-21T20:00:00-07:00",
+    "sourceUrl": "https://wl.seetickets.us/event/yendry/707512?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
+    "title": "The Chameleons",
+    "startTime": "2027-05-06T20:00:00-07:00",
+    "sourceUrl": "https://wl.seetickets.us/event/the-chameleons/708460?afflky=GreatAmericanMusicHall",
+    "synopsis": "with Rosegarden Funeral Party"
+  },
+  {
+    "theater": "Great American Music Hall",
+    "title": "The Chameleons",
+    "startTime": "2027-05-07T20:00:00-07:00",
+    "sourceUrl": "https://wl.seetickets.us/event/The-Chameleons/708463?afflky=GreatAmericanMusicHall",
+    "synopsis": "with Rosegarden Funeral Party"
+  },
+  {
+    "theater": "Great American Music Hall",
     "title": "PRIVATE EVENT",
     "startTime": "2027-05-15T19:00:00-07:00",
     "sourceUrl": "https://wl.seetickets.us/event/private-event/693156?afflky=GreatAmericanMusicHall"
   },
   {
     "theater": "Great American Music Hall",
-    "title": "Yendry",
+    "title": "YEИDRY",
     "startTime": "2027-05-21T20:00:00-07:00",
-    "sourceUrl": "https://wl.seetickets.us/event/yendry/707512?afflky=GreatAmericanMusicHall"
+    "sourceUrl": "https://wl.seetickets.us/event/yeidry/707512?afflky=GreatAmericanMusicHall"
   }
 ]

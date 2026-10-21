@@ -39,6 +39,18 @@
   },
   {
     "theater": "The Independent",
+    "title": "The Brothers Comatose",
+    "startTime": "2027-01-22T21:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/the-brothers-comatose/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "The Brothers Comatose",
+    "startTime": "2027-01-23T21:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/the-brothers-comatose-2/"
+  },
+  {
+    "theater": "The Independent",
     "title": "The Flatliners",
     "startTime": "2027-01-26T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/the-flatliners/"

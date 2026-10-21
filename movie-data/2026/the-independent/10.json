@@ -131,6 +131,13 @@
   },
   {
     "theater": "The Independent",
+    "title": "POSTPONED – Sawyer Hill",
+    "startTime": "2026-10-20T20:00:00-07:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/sawyer-hill/",
+    "synopsis": "with Never Ending Fall"
+  },
+  {
+    "theater": "The Independent",
     "title": "Frankie Cosmos – Celebrating 10 Years of Next Thing",
     "startTime": "2026-10-22T20:00:00-07:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/frankie-cosmos-celebrating-10-years-of-next-thing/",
@@ -193,9 +200,9 @@
   },
   {
     "theater": "The Independent",
-    "title": "POSTPONED – Sawyer Hill",
-    "startTime": "2026-10-20T20:00:00-07:00",
-    "sourceUrl": "https://www.theindependentsf.com/tm-event/sawyer-hill/",
-    "synopsis": "with Never Ending Fall"
+    "title": "POSTPONED – City of the Sun",
+    "startTime": "2026-10-21T20:00:00-07:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/city-of-the-sun-2/",
+    "synopsis": "with Valley Wolf"
   }
 ]
