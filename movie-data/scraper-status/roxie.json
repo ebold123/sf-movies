@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-20T13:53:40.112Z",
+  "generatedAt": "2026-10-21T13:54:12.673Z",
   "status": "discrepancies",
   "report": {
-    "matched": 71,
+    "matched": 67,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
