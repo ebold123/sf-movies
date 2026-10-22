@@ -145,6 +145,22 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Magnificent Ambersons",
+    "startTime": "2026-11-08T12:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/de057787b0e8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The spoiled young heir to the decaying Amberson fortune comes between his widowed mother and the man she has always loved."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Southland Tales",
+    "startTime": "2026-11-08T14:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/7c197f3d524d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Set in the futuristic landscape of Los Angeles on July 4, 2008, as it stands on the brink of social, economic and environmental disaster. Boxer Santaros is an action star who's stricken with amnesia. His life intertwines with Krysta Now, an adult film star developing her own reality television project, and Ronald Taverner, a Hermosa Beach police officer who holds the key to a vast conspiracy."
+  },
+  {
+    "theater": "Alamo",
     "title": "Wild Horse Nine",
     "startTime": "2026-11-08T14:45:00-08:00",
     "sourceUrl": "https://scenef.com/go/3d58774bf435",
@@ -177,6 +193,54 @@
   },
   {
     "theater": "Alamo",
+    "title": "Henry: Portrait of a Serial Killer",
+    "startTime": "2026-11-10T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/df5c5b096967",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Arriving in Chicago, Henry moves in with ex-con acquaintance Otis and starts schooling him in the ways of the serial killer."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Crocodile Dose",
+    "startTime": "2026-11-11T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/d2c92ef0bce7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "On their first summer back from college, best  friends Curtis, Jimmy, and Abe embark on a fantastical 24-hour odyssey of drugs and alcohol on their way to a house party hosted by Curtis’s ex-girlfriend, Jane. When their pursuit of hedonism leads to Jane and Curtis reuniting prematurely, Curtis is unable to handle his emotions and  loses touch with his relationships and reality."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Women on the Verge of a Nervous Breakdown",
+    "startTime": "2026-11-12T18:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/2c24a7959aa3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After being dumped by her lover, Pepa finds her life and the lives of those around her spiraling out of control in a deliciously chaotic series of events."
+  },
+  {
+    "theater": "Alamo",
+    "title": "All About My Mother",
+    "startTime": "2026-11-13T18:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/72cc43400298",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Volver",
+    "startTime": "2026-11-14T15:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/c35d06f63f8a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Three generations of women deal with family secrets while surviving the east wind, fire, insanity, superstition, lies and even death."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Skin I Live In",
+    "startTime": "2026-11-15T15:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/e80040be1e76",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A brilliant plastic surgeon creates a synthetic skin that withstands any kind of damage. His guinea pig: a mysterious and volatile woman who holds the key to his obsession."
+  },
+  {
+    "theater": "Alamo",
     "title": "Dive in Wonderland",
     "startTime": "2026-11-16T19:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/971c77c26615",
@@ -201,6 +265,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Cook, the Thief, His Wife & Her Lover",
+    "startTime": "2026-11-20T21:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/565d94d8d66a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When churlish mobster Albert Spica acquires an upscale French restaurant in London, he dines there nightly, effectively scaring off the clientele with his bad manners. His wife, Georgina, is especially disgusted by him, and soon begins an affair with regular guest Michael. Despite their best efforts to keep it secret, Spica learns about their trysts, and he plots a terrible revenge."
+  },
+  {
+    "theater": "Alamo",
     "title": "Pearl",
     "startTime": "2026-11-22T19:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/5cf0e9b9b310",
@@ -209,10 +281,34 @@
   },
   {
     "theater": "Alamo",
+    "title": "Point Blank",
+    "startTime": "2026-11-23T18:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/ae108ae51599",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After being double-crossed and left for dead, a mysterious man named Walker single-mindedly tries to retrieve the rather inconsequential sum of money that was stolen from him."
+  },
+  {
+    "theater": "Alamo",
     "title": "September Songs: The Music of Kurt Weill",
     "startTime": "2026-11-24T18:45:00-08:00",
     "sourceUrl": "https://scenef.com/go/5d5f37da730e",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Filmmaker Larry Weinstein stages a wide range of performances in tribute to the compositions of Kurt Weill."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Room Returns!",
+    "startTime": "2026-11-25T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/7a34ed93f6f9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A chaotic reimagining of Tommy Wiseau's THE ROOM, filmed without any rehearsal"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Planes, Trains and Automobiles",
+    "startTime": "2026-11-26T16:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/e95adca58e98",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith."
   }
 ]

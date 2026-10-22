@@ -1,6 +1,30 @@
 [
   {
     "theater": "Alamo",
+    "title": "Elf",
+    "startTime": "2026-12-09T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/9e407d9b2789",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Elf",
+    "startTime": "2026-12-13T12:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/d865b49f2f5c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Little Women",
+    "startTime": "2026-12-13T15:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/9202595767ce",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Four sisters come of age in America in the aftermath of the Civil War."
+  },
+  {
+    "theater": "Alamo",
     "title": "Dune: Part Three",
     "startTime": "2026-12-15T18:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/7b5e65c60672",
