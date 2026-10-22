@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-21T18:07:54.388Z",
+  "generatedAt": "2026-10-22T18:02:41.191Z",
   "status": "discrepancies",
   "report": {
     "matched": 4,
@@ -42,11 +42,7 @@
         "startTime": "2026-11-12T20:00:00-08:00"
       },
       {
-        "title": "LIVE MUSIC: Elanor Moss, Sofia Wolfson, Mia Wilson (Presented by THROWIN' BO'S)",
-        "startTime": "2026-11-16T20:00:00-08:00"
-      },
-      {
-        "title": "LIVE MUSIC: Computerwife (Presented by THROWIN' BO'S)",
+        "title": "LIVE MUSIC: Computerwife, Double Helix Peace Treaty (Presented by THROWIN' BO'S)",
         "startTime": "2026-11-19T20:00:00-08:00"
       },
       {
@@ -108,7 +104,7 @@
         "startTime": "2026-10-30T18:00:00-07:00"
       },
       {
-        "title": "It",
+        "title": "Popcorn",
         "startTime": "2026-10-30T19:30:00-07:00"
       },
       {
@@ -138,6 +134,10 @@
       {
         "title": "Labyrinth",
         "startTime": "2026-11-01T19:00:00-08:00"
+      },
+      {
+        "title": "It",
+        "startTime": "2026-11-21T19:30:00-08:00"
       },
       {
         "title": "Dazed and Confused",
