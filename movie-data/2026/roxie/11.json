@@ -46,7 +46,7 @@
     "title": "Runa Simi",
     "startTime": "2026-11-04T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/runa-simi/#showtimes-20261104-1800",
-    "synopsis": "Q&A with Director Augusto Zegarra after the screening! “Fernando’s ambition to create an official Quechua dub for The Lion King stands as a story […]"
+    "synopsis": "Q&A with Director Augusto Zegarra, Protagonist Fernando Valencia, and Producer Paloma Iturriaga after the screening! “The film is a love letter to a language, […]"
   },
   {
     "theater": "Roxie",
@@ -113,17 +113,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "How to Clean a House in 10 Easy Steps",
-    "startTime": "2026-11-08T15:10:00-08:00",
-    "sourceUrl": "https://roxie.com/film/how-to-clean-a-house-in-10-easy-steps/#showtimes-20261108-1510",
-    "synopsis": "Presented by CiNEOLA and co-presented by RoxCine with community partner BAVC Media Part of the COLOMBIA ON FILM: bajo el velo de la ficción (under the veil of fiction) series. […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Everything For Sale",
     "startTime": "2026-11-08T15:10:00-08:00",
     "sourceUrl": "https://roxie.com/film/everything-for-sale/#showtimes-20261108-1510",
     "synopsis": "The lead protagonist of a film disappears mid production, and his family and crew search for him before tragic news reaches them. Wajda’s first […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "How to Clean a House in 10 Easy Steps",
+    "startTime": "2026-11-08T15:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/how-to-clean-a-house-in-10-easy-steps/#showtimes-20261108-1510",
+    "synopsis": "Presented by CiNEOLA and co-presented by RoxCine with community partner BAVC Media Part of the COLOMBIA ON FILM: bajo el velo de la ficción (under the veil of fiction) series. […]"
   },
   {
     "theater": "Roxie",
@@ -134,6 +134,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Rock Ross: Go Like This (16mm)",
+    "startTime": "2026-11-11T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/rock-ross-go-like-this-16mm/#showtimes-20261111-1800",
+    "synopsis": "Presented by Canyon Cinema Filmmaker Rock Ross in person for a post-screening audience Q&A! Canyon at The Roxie is back with a spotlight on […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Being Heumann",
     "startTime": "2026-11-12T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/being-heumann/#showtimes-20261112-1800",
@@ -141,10 +148,52 @@
   },
   {
     "theater": "Roxie",
+    "title": "SFTFF 2026 – COMEDY",
+    "startTime": "2026-11-12T19:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/sftff-2026-comedy/#showtimes-20261112-1900",
+    "synopsis": "The 2026 San Francisco Transgender Film Festival opens with COMEDY, a shorts block featuring four outstanding and hilarious films. Cockroach (23min)Justice Singleton, USA, 2025 […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "SFTFF 2026 – DOCUMENTARY",
+    "startTime": "2026-11-12T21:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/sftff-2026-documentary/#showtimes-20261112-2100",
+    "synopsis": "The 2026 San Francisco Transgender Film Festival continues with DOCUMENTARY, a shorts block featuring four poignant and explorative films. 3 Hearts of Iron (13:25min)Ariel del Sol, Costa Rica, […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Floating Features: Friday the 13th",
     "startTime": "2026-11-13T19:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/floating-features-friday-the-13th/#showtimes-20261113-1900",
     "synopsis": "A group of camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp which, years before, was […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "SFTFF 2026 – HORROR",
+    "startTime": "2026-11-13T19:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/sftff-2026-horror/#showtimes-20261113-1900",
+    "synopsis": "The 2026 San Francisco Transgender Film Festival continues with HORROR, a shorts block featuring five terrifying and shocking films. Mascott (13:31min)Marilyne Lamontagne, Canada, 2025 Scott, a transgender actor […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "SFTFF 2026 – GRAB BAG",
+    "startTime": "2026-11-13T21:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/sftff-2026-grab-bag/#showtimes-20261113-2100",
+    "synopsis": "The 2026 San Francisco Transgender Film Festival continues with GRAB BAG, a shorts block of films featuring nine films with a variety of genre and tone. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "SFTFF 2026 – SPECULATIVE FICTION",
+    "startTime": "2026-11-14T19:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/sftff-2026-speculative-fiction/#showtimes-20261114-1900",
+    "synopsis": "The 2026 San Francisco Transgender Film Festival continues with SPECULATIVE FICTION, a shorts block featuring six out of this world films. Las Cosas Que Brillan (11:09min)Kristal Sotomayor, United […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "SFTFF 2026 – ADULT (18+)",
+    "startTime": "2026-11-14T21:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/sftff-2026-adult-18/#showtimes-20261114-2100",
+    "synopsis": "The 2026 San Francisco Transgender Film Festival continues with ADULT(18+), a shorts block featuring five intimate and definitively adult films. Mommy (8:40min)Evie Snax, Manon Praline, United States […]"
   },
   {
     "theater": "Roxie",
