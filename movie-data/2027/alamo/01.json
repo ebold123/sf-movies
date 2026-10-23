@@ -1,6 +1,22 @@
 [
   {
     "theater": "Alamo",
+    "title": "Megalopolis",
+    "startTime": "2027-01-01T16:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/64d15d2d55b6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In a futuristic New York known as New Rome, visionary architect Cesar Catilina dreams of building \"Megalopolis,\" a utopian city that redefines society’s limits. Opposing him is the corrupt Mayor Franklyn Cicero, who clings to power and profit. Between them stands Julia, the mayor’s daughter, whose love for Cesar forces her to choose between loyalty, ambition, and the fate of humanity."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Megalopolis",
+    "startTime": "2027-01-01T19:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/bed10a3c45ff",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In a futuristic New York known as New Rome, visionary architect Cesar Catilina dreams of building \"Megalopolis,\" a utopian city that redefines society’s limits. Opposing him is the corrupt Mayor Franklyn Cicero, who clings to power and profit. Between them stands Julia, the mayor’s daughter, whose love for Cesar forces her to choose between loyalty, ambition, and the fate of humanity."
+  },
+  {
+    "theater": "Alamo",
     "title": "Cameron Winter at Carnegie Hall",
     "startTime": "2027-01-28T19:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/3547b368cbf7",

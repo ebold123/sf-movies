@@ -305,10 +305,34 @@
   },
   {
     "theater": "Alamo",
+    "title": "Sudden Fury",
+    "startTime": "2026-11-25T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/252e6efe9155",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
+  },
+  {
+    "theater": "Alamo",
     "title": "Planes, Trains and Automobiles",
     "startTime": "2026-11-26T16:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/e95adca58e98",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tokyo Godfathers",
+    "startTime": "2026-11-29T16:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/5a0b860afe93",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents."
+  },
+  {
+    "theater": "Alamo",
+    "title": "WTO/99",
+    "startTime": "2026-11-30T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/b568035a9a62",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "An immersive archival documentary that reanimates the clash between the then-emerging World Trade Organization (WTO) and the more than 40,000 people who took to the streets of Seattle to protest the WTO's impacts on human rights, labor, and the environment."
   }
 ]

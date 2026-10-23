@@ -1,11 +1,83 @@
 [
   {
     "theater": "Alamo",
+    "title": "The Exorcist III",
+    "startTime": "2026-12-01T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/da342828d74e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "On the fifteenth anniversary of the exorcism that claimed Father Damien Karras' life, Police Lieutenant Kinderman's world is once again shattered when a boy is found decapitated and savagely crucified."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Batman Returns",
+    "startTime": "2026-12-02T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/651527eb16db",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The monstrous Penguin, who dwells in the sewers beneath Gotham, joins up with corrupt mayoral candidate Max Shreck to topple the Batman once and for all. But when Shreck's timid assistant Selina Kyle finds out, and Shreck tries to kill her, she's transformed into the sexy Catwoman. She teams up with the Penguin and Shreck to destroy Batman, but sparks fly unexpectedly when she confronts the caped crusader."
+  },
+  {
+    "theater": "Alamo",
+    "title": "THX 1138",
+    "startTime": "2026-12-02T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/b2753a89ab5e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tokyo Godfathers",
+    "startTime": "2026-12-03T16:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/2759b2d10d96",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Polar Express",
+    "startTime": "2026-12-05T12:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/275b98dc32a9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe."
+  },
+  {
+    "theater": "Alamo",
+    "title": "National Lampoon's Christmas Vacation",
+    "startTime": "2026-12-07T16:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/122c86bebf73",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "It's Christmastime, and the Griswolds are preparing for a family seasonal celebration. But things never run smoothly for Clark, his wife Ellen, and their two kids. Clark's continual bad luck is worsened by his obnoxious family guests, but he manages to keep going, knowing that his Christmas bonus is due soon."
+  },
+  {
+    "theater": "Alamo",
+    "title": "American Psycho",
+    "startTime": "2026-12-08T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/d1f5145c8364",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies."
+  },
+  {
+    "theater": "Alamo",
     "title": "Elf",
     "startTime": "2026-12-09T18:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/9e407d9b2789",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Arrival + Unarius Mixtape",
+    "startTime": "2026-12-09T21:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/494b3cbdbbd4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A truly spectacular DIY sci-fi lodestone"
+  },
+  {
+    "theater": "Alamo",
+    "title": "National Lampoon's Christmas Vacation",
+    "startTime": "2026-12-12T16:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/67aaed825cec",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "It's Christmastime, and the Griswolds are preparing for a family seasonal celebration. But things never run smoothly for Clark, his wife Ellen, and their two kids. Clark's continual bad luck is worsened by his obnoxious family guests, but he manages to keep going, knowing that his Christmas bonus is due soon."
   },
   {
     "theater": "Alamo",
@@ -25,11 +97,35 @@
   },
   {
     "theater": "Alamo",
+    "title": "Eyes Wide Shut",
+    "startTime": "2026-12-14T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6f2c0d21667d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head."
+  },
+  {
+    "theater": "Alamo",
     "title": "Dune: Part Three",
     "startTime": "2026-12-15T18:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/7b5e65c60672",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "TERROR TUESDAY: BLACK CHRISTMAS '74 + THE OCCUPANT OF THE ROOM",
+    "startTime": "2026-12-15T21:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/215c634db831",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A double dose of Canadian horror excellence."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Birth",
+    "startTime": "2026-12-16T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/d4f6703970a5",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "It took Anna 10 years to recover from the death of her husband, Sean, but now she's on the verge of marrying her boyfriend, Joseph, and finally moving on. However, on the night of her engagement party, a young boy named Sean turns up, saying he is her dead husband reincarnated. At first she ignores the child, but his knowledge of her former husband's life is uncanny, leading her to believe that he might be telling the truth."
   },
   {
     "theater": "Alamo",
@@ -262,5 +358,37 @@
     "sourceUrl": "https://scenef.com/go/a3ffb8738bd5",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Apartment",
+    "startTime": "2026-12-28T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/1b2ae3dc3072",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Shining",
+    "startTime": "2026-12-29T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/62a13f189384",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "When Harry Met Sally...",
+    "startTime": "2026-12-30T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/3ba012e5fad8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Sex always gets in the way of friendships between men and women. At least, that's what Harry Burns believes. So when Harry meets Sally Albright and a deep friendship blossoms between them, Harry's determined not to let his attraction to Sally destroy it. But when a night of weakness ends in a morning of panic, can the pair avoid succumbing to Harry's fears by remaining friends and admitting they just might be the perfect match for each other?"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Mars Attacks!",
+    "startTime": "2026-12-31T16:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/cc3f8555378c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, \"come in peace.\" U.S. President James Dale receives assurance from science professor Donald Kessler that the Martians' mission is a friendly one. But when a peaceful exchange ends in the total annihilation of the U.S. Congress, military men call for a full-scale nuclear retaliation."
   }
 ]
