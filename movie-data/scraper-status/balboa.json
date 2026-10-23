@@ -1,21 +1,16 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-10-22T13:32:15.725Z",
+  "generatedAt": "2026-10-23T13:29:48.200Z",
   "status": "discrepancies",
   "report": {
-    "matched": 73,
+    "matched": 72,
     "timeMismatches": [],
     "titleMismatches": [
       {
         "startTime": "2026-10-23T20:00:00-07:00",
         "ourTitle": "LIVE  MUSIC:  Izaak Opatz, Joe Kaplow",
         "scenefTitle": "LIVE MUSIC: Izaak Opatz and Joe Kaplow"
-      },
-      {
-        "startTime": "2026-11-12T19:00:00-08:00",
-        "ourTitle": "Godzilla Minus Zero",
-        "scenefTitle": "Tank Girl"
       }
     ],
     "oursOnly": [
@@ -56,6 +51,10 @@
       {
         "title": "Godzilla Minus Zero",
         "startTime": "2026-11-12T16:00:00-08:00"
+      },
+      {
+        "title": "Tank Girl",
+        "startTime": "2026-11-12T19:00:00-08:00"
       },
       {
         "title": "Godzilla Minus Zero",
@@ -122,10 +121,10 @@
         "startTime": "2026-11-15T22:30:00-08:00"
       }
     ],
-    "collapsedDuplicates": 0,
+    "collapsedDuplicates": 1,
     "excluded": {
       "ours": 2,
-      "scenef": 6
+      "scenef": 4
     }
   }
 }
