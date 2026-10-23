@@ -14,6 +14,12 @@
   },
   {
     "theater": "Great American Music Hall",
+    "title": "The Mother Hips Annual Holiday Show",
+    "startTime": "2026-12-19T20:00:00-08:00",
+    "sourceUrl": "https://wl.seetickets.us/event/The-Mother-Hips-Annual-Holiday-Show/704855?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
     "title": "ZORN / MEDESKI / LOMBARDO \"Awakening Ground\" *Matinee*",
     "startTime": "2026-12-06T16:00:00-08:00",
     "sourceUrl": "https://wl.seetickets.us/event/zorn-medeski-lombardo-awakening-ground-matinee/694421?afflky=GreatAmericanMusicHall"
@@ -59,7 +65,8 @@
     "theater": "Great American Music Hall",
     "title": "The Mother Hips Annual Holiday Show",
     "startTime": "2026-12-18T20:00:00-08:00",
-    "sourceUrl": "https://wl.seetickets.us/event/the-mother-hips-annual-holiday-show/704853?afflky=GreatAmericanMusicHall"
+    "sourceUrl": "https://wl.seetickets.us/event/the-mother-hips-annual-holiday-show/704853?afflky=GreatAmericanMusicHall",
+    "synopsis": "with The New Suburbans"
   },
   {
     "theater": "Great American Music Hall",
@@ -71,13 +78,15 @@
     "theater": "Great American Music Hall",
     "title": "The Mother Hips Annual Holiday Show",
     "startTime": "2026-12-19T20:00:00-08:00",
-    "sourceUrl": "https://wl.seetickets.us/event/The-Mother-Hips-Annual-Holiday-Show/704855?afflky=GreatAmericanMusicHall"
+    "sourceUrl": "https://wl.seetickets.us/event/the-mother-hips-annual-holiday-show/704855?afflky=GreatAmericanMusicHall",
+    "synopsis": "with Little Worth"
   },
   {
     "theater": "Great American Music Hall",
     "title": "The Mother Hips Annual Holiday Show - Acoustic Matinee",
     "startTime": "2026-12-20T13:00:00-08:00",
-    "sourceUrl": "https://wl.seetickets.us/event/the-mother-hips-annual-holiday-show-acoustic-matinee/704856?afflky=GreatAmericanMusicHall"
+    "sourceUrl": "https://wl.seetickets.us/event/the-mother-hips-annual-holiday-show-acoustic-matinee/704856?afflky=GreatAmericanMusicHall",
+    "synopsis": "with Anna Hillburg"
   },
   {
     "theater": "Great American Music Hall",
