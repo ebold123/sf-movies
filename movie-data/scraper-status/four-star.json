@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-22T13:46:14.219Z",
+  "generatedAt": "2026-10-23T13:46:21.265Z",
   "status": "discrepancies",
   "report": {
-    "matched": 17,
+    "matched": 18,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -36,6 +36,11 @@
         "startTime": "2026-12-04T20:00:00-08:00",
         "ourTitle": "LIVE MUSIC: The Crooked Jades (10th Album Release Show)",
         "scenefTitle": "LIVE MUSIC: Crooked Jades (10th Album Release)"
+      },
+      {
+        "startTime": "2026-12-06T20:00:00-08:00",
+        "ourTitle": "LIVE MUSIC: Stephen Steinbrink (Record Release), April Magazine, ersa",
+        "scenefTitle": "MUSIC: Stephen Steinbrink, April Magazine, ersa"
       }
     ],
     "oursOnly": [
@@ -66,10 +71,6 @@
       {
         "title": "PALESTINE CINEMA DAYS: Return to Haifa (Presented by FILMLAB PALESTINE)",
         "startTime": "2026-11-02T17:30:00-08:00"
-      },
-      {
-        "title": "Runa Simi (Presented by CiNEOLA plus Filmmaker Q&A)",
-        "startTime": "2026-11-02T19:30:00-08:00"
       },
       {
         "title": "LIVE MUSIC: Green-House, Cool Maritime (Presented by THROWIN' BO'S)",
