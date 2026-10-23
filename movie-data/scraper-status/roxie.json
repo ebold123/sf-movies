@@ -1,25 +1,13 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-22T13:52:29.819Z",
+  "generatedAt": "2026-10-23T13:54:11.493Z",
   "status": "discrepancies",
   "report": {
-    "matched": 63,
+    "matched": 59,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "SF Latino Film Festival: STREET SMART: Lessons from a TV Icon",
-        "startTime": "2026-10-22T18:00:00-07:00"
-      },
-      {
-        "title": "New People: NAZA",
-        "startTime": "2026-10-22T18:00:00-07:00"
-      },
-      {
-        "title": "New People: Ghost in the Shell: 30th Anniversary Remaster",
-        "startTime": "2026-10-22T20:00:00-07:00"
-      },
       {
         "title": "New People: Take Me Home",
         "startTime": "2026-10-23T18:00:00-07:00"
@@ -37,11 +25,11 @@
         "startTime": "2026-10-24T12:30:00-07:00"
       },
       {
-        "title": "San Quentin Film Festival 2026",
+        "title": "New People: Take Me Home",
         "startTime": "2026-10-24T13:00:00-07:00"
       },
       {
-        "title": "New People: Take Me Home",
+        "title": "San Quentin Film Festival 2026",
         "startTime": "2026-10-24T13:00:00-07:00"
       },
       {
@@ -105,12 +93,12 @@
         "startTime": "2026-11-07T18:20:00-08:00"
       },
       {
-        "title": "New People: Being Heumann",
-        "startTime": "2026-11-08T13:00:00-08:00"
+        "title": "Studio 8 2026",
+        "startTime": "2026-11-08T12:30:00-08:00"
       },
       {
-        "title": "Rock Ross: Go Like This (16mm)",
-        "startTime": "2026-11-11T18:00:00-08:00"
+        "title": "New People: Being Heumann",
+        "startTime": "2026-11-08T13:00:00-08:00"
       },
       {
         "title": "SFTFF 2026 – COMEDY",
@@ -155,6 +143,10 @@
     ],
     "scenefOnly": [
       {
+        "title": "The Witches",
+        "startTime": "2026-10-31T15:30:00-07:00"
+      },
+      {
         "title": "Raise the Red Lantern",
         "startTime": "2026-11-20T18:00:00-08:00"
       }
@@ -162,7 +154,7 @@
     "collapsedDuplicates": 0,
     "excluded": {
       "ours": 3,
-      "scenef": 4
+      "scenef": 0
     }
   }
 }
