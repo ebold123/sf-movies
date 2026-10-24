@@ -1,18 +1,12 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-10-23T13:29:48.200Z",
+  "generatedAt": "2026-10-24T13:26:07.799Z",
   "status": "discrepancies",
   "report": {
-    "matched": 72,
+    "matched": 71,
     "timeMismatches": [],
-    "titleMismatches": [
-      {
-        "startTime": "2026-10-23T20:00:00-07:00",
-        "ourTitle": "LIVE  MUSIC:  Izaak Opatz, Joe Kaplow",
-        "scenefTitle": "LIVE MUSIC: Izaak Opatz and Joe Kaplow"
-      }
-    ],
+    "titleMismatches": [],
     "oursOnly": [
       {
         "title": "Nirvanna the Band the Show the Movie on 35mm",
@@ -20,10 +14,6 @@
       }
     ],
     "scenefOnly": [
-      {
-        "title": "LIVE MUSIC: Izaak Opatz, Joe Kaplow",
-        "startTime": "2026-10-23T19:00:00-07:00"
-      },
       {
         "title": "Vibeland Episode 2",
         "startTime": "2026-10-24T19:00:00-07:00"
@@ -123,8 +113,8 @@
     ],
     "collapsedDuplicates": 1,
     "excluded": {
-      "ours": 2,
-      "scenef": 4
+      "ours": 0,
+      "scenef": 7
     }
   }
 }
