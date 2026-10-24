@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-23T13:46:21.265Z",
+  "generatedAt": "2026-10-24T13:42:47.405Z",
   "status": "discrepancies",
   "report": {
     "matched": 18,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-10-23T20:00:00-07:00",
-        "ourTitle": "Nosferatu: A Symphony of Horror with LIVE SCORE by Dallas Acid & Paz Lenchantin (Presented by folkYEAH!)",
-        "scenefTitle": "MUSIC: Nosferatu with Paz Lenchantin & Dallas Acid"
-      },
       {
         "startTime": "2026-10-24T19:30:00-07:00",
         "ourTitle": "Evil Dead 2",
@@ -165,8 +160,8 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 4,
-      "scenef": 0
+      "ours": 5,
+      "scenef": 1
     }
   }
 }
