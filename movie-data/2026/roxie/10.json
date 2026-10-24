@@ -1114,17 +1114,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "New People: Take Me Home",
-    "startTime": "2026-10-24T13:00:00-07:00",
-    "sourceUrl": "https://roxie.com/film/new-people-take-me-home/#showtimes-20261024-1300",
-    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. The October 23rd screening is AT RUSH! Director […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "San Quentin Film Festival 2026",
     "startTime": "2026-10-24T13:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/san-quentin-film-festival-2026/#showtimes-20261024-1300",
     "synopsis": "San Quentin Film Festival is proud to present the 2026 Best Documentary and Narrative Short Film Finalists, all directed by currently or formerly incarcerated […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Take Me Home",
+    "startTime": "2026-10-24T13:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-take-me-home/#showtimes-20261024-1300",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. The October 23rd screening is AT RUSH! Director […]"
   },
   {
     "theater": "Roxie",
@@ -1296,17 +1296,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Lady",
-    "startTime": "2026-10-28T20:05:00-07:00",
-    "sourceUrl": "https://roxie.com/film/lady/#showtimes-20261028-2005",
-    "synopsis": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Marie Antoinette (4K Restoration)",
     "startTime": "2026-10-28T20:05:00-07:00",
     "sourceUrl": "https://roxie.com/film/marie-antoinette-4k-restoration/#showtimes-20261028-2005",
     "synopsis": "The third feature film from Oscar-winning writer-director Sofia Coppola (Lost in Translation, 2003) transposes her fascination with the inner lives of young women to […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Lady",
+    "startTime": "2026-10-28T20:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/lady/#showtimes-20261028-2005",
+    "synopsis": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession […]"
   },
   {
     "theater": "Roxie",
@@ -1317,17 +1317,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Woman in the Dunes",
-    "startTime": "2026-10-29T18:00:00-07:00",
-    "sourceUrl": "https://roxie.com/film/woman-in-the-dunes/#showtimes-20261029-1800",
-    "synopsis": "One of the great international art-house sensations of the 1960s, Hiroshi Teshigahara’s WOMAN IN THE DUNES remains a hypnotic, unsettling vision of desire, captivity, […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "New People: The Great Experiment",
     "startTime": "2026-10-29T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/new-people-the-great-experiment/#showtimes-20261029-1800",
     "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Followed by a post-screening Q&A with Co-Director Eric […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Woman in the Dunes",
+    "startTime": "2026-10-29T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/woman-in-the-dunes/#showtimes-20261029-1800",
+    "synopsis": "One of the great international art-house sensations of the 1960s, Hiroshi Teshigahara’s WOMAN IN THE DUNES remains a hypnotic, unsettling vision of desire, captivity, […]"
   },
   {
     "theater": "Roxie",
@@ -1366,6 +1366,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "NAZA",
+    "startTime": "2026-10-30T18:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261030-1810",
+    "synopsis": "NAZA is also playing at NEW PEOPLE In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: My Undesirable Friends: Part 2 – Exile (Chapters 1–3)",
     "startTime": "2026-10-30T18:15:00-07:00",
     "sourceUrl": "https://roxie.com/film/new-people-my-undesirable-friends-part-2-exile-chapters-1-3/#showtimes-20261030-1815",
@@ -1377,6 +1384,13 @@
     "startTime": "2026-10-30T19:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/floating-features-us/#showtimes-20261030-1900",
     "synopsis": "In order to get away from their busy lives, the Wilson family takes a vacation to Santa Cruz, California. At night, four strangers break […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Lady",
+    "startTime": "2026-10-30T20:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/lady/#showtimes-20261030-2000",
+    "synopsis": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession […]"
   },
   {
     "theater": "Roxie",
@@ -1394,6 +1408,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "The Blair Witch Project",
+    "startTime": "2026-10-31T13:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-blair-witch-project/#showtimes-20261031-1330",
+    "synopsis": "In 1994 a group of filmmakers head out into the woods of Burkittsville, MD in search of the folk legend of the Blair Witch […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Witches",
+    "startTime": "2026-10-31T15:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-witches/#showtimes-20261031-1530",
+    "synopsis": "Part of Roxie Kids! While staying at a hotel in England with his grandmother, Helga (Mai Zetterling), young Luke (Jasen Fisher) inadvertently spies on […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Dance Thrill Fest VI",
     "startTime": "2026-10-31T16:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/dance-thrill-fest-vi/#showtimes-20261031-1600",
@@ -1405,6 +1433,13 @@
     "startTime": "2026-10-31T16:45:00-07:00",
     "sourceUrl": "https://roxie.com/film/new-people-the-snake-girl-and-the-silver-haired-witch/#showtimes-20261031-1645",
     "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. This movie feels like it was dreamed into […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Lady",
+    "startTime": "2026-10-31T17:35:00-07:00",
+    "sourceUrl": "https://roxie.com/film/lady/#showtimes-20261031-1735",
+    "synopsis": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession […]"
   },
   {
     "theater": "Roxie",

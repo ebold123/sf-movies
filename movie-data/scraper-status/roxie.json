@@ -1,35 +1,23 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-23T13:54:11.493Z",
+  "generatedAt": "2026-10-24T13:51:32.034Z",
   "status": "discrepancies",
   "report": {
-    "matched": 59,
+    "matched": 73,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "New People: Take Me Home",
-        "startTime": "2026-10-23T18:00:00-07:00"
-      },
-      {
-        "title": "Floating Features: Hocus Pocus",
-        "startTime": "2026-10-23T19:00:00-07:00"
-      },
-      {
-        "title": "New People: NAZA",
-        "startTime": "2026-10-23T20:30:00-07:00"
-      },
       {
         "title": "SF Latino Film Festival: Comparsa",
         "startTime": "2026-10-24T12:30:00-07:00"
       },
       {
-        "title": "New People: Take Me Home",
+        "title": "San Quentin Film Festival 2026",
         "startTime": "2026-10-24T13:00:00-07:00"
       },
       {
-        "title": "San Quentin Film Festival 2026",
+        "title": "New People: Take Me Home",
         "startTime": "2026-10-24T13:00:00-07:00"
       },
       {
@@ -143,10 +131,6 @@
     ],
     "scenefOnly": [
       {
-        "title": "The Witches",
-        "startTime": "2026-10-31T15:30:00-07:00"
-      },
-      {
         "title": "Raise the Red Lantern",
         "startTime": "2026-11-20T18:00:00-08:00"
       }
@@ -154,7 +138,7 @@
     "collapsedDuplicates": 0,
     "excluded": {
       "ours": 3,
-      "scenef": 0
+      "scenef": 4
     }
   }
 }
