@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-23T17:54:36.495Z",
+  "generatedAt": "2026-10-24T16:40:51.020Z",
   "status": "discrepancies",
   "report": {
     "matched": 4,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-10-23T20:00:00-07:00",
-        "ourTitle": "Nosferatu: A Symphony of Horror with LIVE SCORE by Dallas Acid & Paz Lenchantin (Presented by folkYEAH!)",
-        "scenefTitle": "MUSIC: Nosferatu with Paz Lenchantin & Dallas Acid"
-      },
       {
         "startTime": "2026-11-05T20:00:00-08:00",
         "ourTitle": "LIVE MUSIC: Good Friends, The Lowtimers, Red McAdam",
@@ -159,8 +154,8 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 2,
-      "scenef": 0
+      "ours": 3,
+      "scenef": 1
     }
   }
 }
