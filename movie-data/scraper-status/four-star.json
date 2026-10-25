@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-24T16:40:51.020Z",
+  "generatedAt": "2026-10-25T17:05:58.489Z",
   "status": "discrepancies",
   "report": {
     "matched": 4,
@@ -77,22 +77,6 @@
     "scenefOnly": [
       {
         "title": "House",
-        "startTime": "2026-10-24T12:30:00-07:00"
-      },
-      {
-        "title": "Casper",
-        "startTime": "2026-10-24T14:45:00-07:00"
-      },
-      {
-        "title": "House",
-        "startTime": "2026-10-24T17:15:00-07:00"
-      },
-      {
-        "title": "Evil Dead II",
-        "startTime": "2026-10-24T19:30:00-07:00"
-      },
-      {
-        "title": "House",
         "startTime": "2026-10-25T12:30:00-07:00"
       },
       {
@@ -154,8 +138,8 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 3,
-      "scenef": 1
+      "ours": 2,
+      "scenef": 0
     }
   }
 }
