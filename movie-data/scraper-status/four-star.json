@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-25T17:05:58.489Z",
+  "generatedAt": "2026-10-26T19:23:55.369Z",
   "status": "discrepancies",
   "report": {
     "matched": 4,
@@ -29,10 +29,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "LIVE MUSIC: Resavoir, Cheflee (Presented by THROWIN' BO'S)",
-        "startTime": "2026-10-25T20:00:00-07:00"
-      },
       {
         "title": "LIVE MUSIC: Green-House, Cool Maritime (Presented by THROWIN' BO'S)",
         "startTime": "2026-11-04T20:00:00-08:00"
@@ -75,14 +71,6 @@
       }
     ],
     "scenefOnly": [
-      {
-        "title": "House",
-        "startTime": "2026-10-25T12:30:00-07:00"
-      },
-      {
-        "title": "Evil Dead II",
-        "startTime": "2026-10-25T14:45:00-07:00"
-      },
       {
         "title": "It's the Great Pumpkin, Charlie Brown",
         "startTime": "2026-10-30T18:00:00-07:00"
@@ -128,6 +116,10 @@
         "startTime": "2026-11-21T19:30:00-08:00"
       },
       {
+        "title": "MC5: A True Testimonial",
+        "startTime": "2026-11-27T19:00:00-08:00"
+      },
+      {
         "title": "Dazed and Confused",
         "startTime": "2026-12-12T14:30:00-08:00"
       },
@@ -138,7 +130,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 2,
+      "ours": 3,
       "scenef": 0
     }
   }

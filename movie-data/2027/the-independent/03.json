@@ -53,6 +53,12 @@
   },
   {
     "theater": "The Independent",
+    "title": "sophia stel",
+    "startTime": "2027-03-16T20:00:00-07:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/sophia-stel/"
+  },
+  {
+    "theater": "The Independent",
     "title": "Hans Williams",
     "startTime": "2027-03-24T19:30:00-07:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/hans-williams/"
@@ -62,6 +68,13 @@
     "title": "Dan and Peggy Reeder",
     "startTime": "2027-03-25T20:00:00-07:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/dan-and-peggy-reeder/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Dogpark",
+    "startTime": "2027-03-30T20:00:00-07:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/dogpark/",
+    "synopsis": "with The Rose Hips"
   },
   {
     "theater": "The Independent",
