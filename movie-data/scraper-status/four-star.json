@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-25T13:42:48.649Z",
+  "generatedAt": "2026-10-26T14:50:37.505Z",
   "status": "discrepancies",
   "report": {
-    "matched": 16,
+    "matched": 15,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-10-25T14:45:00-07:00",
-        "ourTitle": "Evil Dead 2",
-        "scenefTitle": "Evil Dead II"
-      },
       {
         "startTime": "2026-11-05T20:00:00-08:00",
         "ourTitle": "LIVE MUSIC: Good Friends, The Lowtimers, Red McAdam",
@@ -34,14 +29,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "Casper",
-        "startTime": "2026-10-25T10:00:00-07:00"
-      },
-      {
-        "title": "LIVE MUSIC: Resavoir, Cheflee (Presented by THROWIN' BO'S)",
-        "startTime": "2026-10-25T20:00:00-07:00"
-      },
       {
         "title": "Labyrinth",
         "startTime": "2026-10-31T10:00:00-07:00"
@@ -67,12 +54,32 @@
         "startTime": "2026-11-06T19:30:00-08:00"
       },
       {
+        "title": "Wolfwalkers",
+        "startTime": "2026-11-07T10:00:00-08:00"
+      },
+      {
         "title": "STUDIO 8 FILM FESTIVAL: Juried Show: Personal Visions (Presented by SF Artists Alumni)",
         "startTime": "2026-11-07T14:00:00-08:00"
       },
       {
+        "title": "Wolfwalkers",
+        "startTime": "2026-11-08T10:00:00-08:00"
+      },
+      {
+        "title": "CULTURE & DIVERSITY FILM FESTIVAL: Short Films on \"Love, Food & Freedom\" and \"Sports, Dreams & Sailing\"",
+        "startTime": "2026-11-09T16:00:00-08:00"
+      },
+      {
+        "title": "CULTURE & DIVERSITY FILM FESTIVAL: Films on \"Music, Harmony & Nature\" and \"Mystic Journeys\"",
+        "startTime": "2026-11-10T16:00:00-08:00"
+      },
+      {
         "title": "LIVE MUSIC: School Fair, goldenstar, Poor Image (Presented by THROWIN' BO'S)",
         "startTime": "2026-11-12T20:00:00-08:00"
+      },
+      {
+        "title": "4 Star Autumn Cartoon Special",
+        "startTime": "2026-11-14T10:00:00-08:00"
       },
       {
         "title": "San Francisco Underground Short Film Festival 2026: First Program (presented by Media Meltdown)",
@@ -89,6 +96,10 @@
       {
         "title": "San Francisco Underground Short Film Festival 2026: Fourth Program (presented by Media Meltdown)",
         "startTime": "2026-11-14T22:45:00-08:00"
+      },
+      {
+        "title": "4 Star Autumn Cartoon Special",
+        "startTime": "2026-11-15T10:00:00-08:00"
       },
       {
         "title": "Closed for a Private Event",
@@ -143,11 +154,15 @@
       {
         "title": "Labyrinth",
         "startTime": "2026-11-01T19:00:00-08:00"
+      },
+      {
+        "title": "MC5: A True Testimonial",
+        "startTime": "2026-11-27T19:00:00-08:00"
       }
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 9,
+      "ours": 4,
       "scenef": 0
     }
   }
