@@ -113,6 +113,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Chronovisor",
+    "startTime": "2026-11-03T20:30:00-08:00",
+    "sourceUrl": "https://roxie.com/film/chronovisor/#showtimes-20261103-2030",
+    "synopsis": "An armchair mystery in which the life of a reclusive academic collides with the story of a clandestine technology that can photograph the past. […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Blade Runner: The Final Cut (35mm)",
     "startTime": "2026-11-03T20:40:00-08:00",
     "sourceUrl": "https://roxie.com/film/blade-runner-the-final-cut/#showtimes-20261103-2040",
@@ -141,17 +148,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Once Upon a Time in Harlem",
-    "startTime": "2026-11-06T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/once-upon-a-time-in-harlem/#showtimes-20261106-1800",
-    "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "New People: Being Heumann",
     "startTime": "2026-11-06T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/new-people-being-heumann/#showtimes-20261106-1800",
     "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. All screenings will be open caption! They wouldn’t […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Once Upon a Time in Harlem",
+    "startTime": "2026-11-06T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/once-upon-a-time-in-harlem/#showtimes-20261106-1800",
+    "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event […]"
   },
   {
     "theater": "Roxie",
@@ -260,17 +267,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "SFTFF 2026 – HORROR",
-    "startTime": "2026-11-13T19:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/sftff-2026-horror/#showtimes-20261113-1900",
-    "synopsis": "The 2026 San Francisco Transgender Film Festival continues with HORROR, a shorts block featuring five terrifying and shocking films. Mascott (13:31min)Marilyne Lamontagne, Canada, 2025 Scott, a transgender actor […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Floating Features: Friday the 13th",
     "startTime": "2026-11-13T19:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/floating-features-friday-the-13th/#showtimes-20261113-1900",
     "synopsis": "A group of camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp which, years before, was […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "SFTFF 2026 – HORROR",
+    "startTime": "2026-11-13T19:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/sftff-2026-horror/#showtimes-20261113-1900",
+    "synopsis": "The 2026 San Francisco Transgender Film Festival continues with HORROR, a shorts block featuring five terrifying and shocking films. Mascott (13:31min)Marilyne Lamontagne, Canada, 2025 Scott, a transgender actor […]"
   },
   {
     "theater": "Roxie",
