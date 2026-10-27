@@ -1,6 +1,14 @@
 [
   {
     "theater": "Alamo",
+    "title": "TERROR TUESDAY: BLACK CHRISTMAS '74 + THE OCCUPANT OF THE ROOM",
+    "startTime": "2026-12-15T21:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/215c634db831",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A double dose of Canadian horror excellence."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Exorcist III",
     "startTime": "2026-12-01T21:30:00-08:00",
     "sourceUrl": "https://scenef.com/go/da342828d74e",
@@ -110,14 +118,6 @@
     "sourceUrl": "https://scenef.com/go/7b5e65c60672",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
-  },
-  {
-    "theater": "Alamo",
-    "title": "TERROR TUESDAY: BLACK CHRISTMAS '74 + THE OCCUPANT OF THE ROOM",
-    "startTime": "2026-12-15T21:50:00-08:00",
-    "sourceUrl": "https://scenef.com/go/215c634db831",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A double dose of Canadian horror excellence."
   },
   {
     "theater": "Alamo",
@@ -361,11 +361,67 @@
   },
   {
     "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-25T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/3f0f53796bde",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-26T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/aee1710a1c29",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-26T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/20c81989f380",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-27T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/75fc43b9e7d3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-27T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/0f3948ee0dd1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-28T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/55e5b3fc7b2d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Apartment",
     "startTime": "2026-12-28T19:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/1b2ae3dc3072",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-28T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/f32221521095",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
   },
   {
     "theater": "Alamo",

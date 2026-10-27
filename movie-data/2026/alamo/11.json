@@ -1,11 +1,315 @@
 [
   {
     "theater": "Alamo",
+    "title": "Fjord",
+    "startTime": "2026-11-01T11:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/ab228da484cc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Following the deaths of Mihai's parents, Mihai and Lisbet Gheorghiu leave their life behind in Romania and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbet's family. There, they grow close to their neighbors, the Halbergs, whose warmth gives them hope for a fresh start. But the fragile peace begins to unravel when the Gheorghiu family’s young daughter, Elia, arrives at school covered in bruises."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-11-01T12:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/fdc9a1af8294",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "NC-17 for sexual content/graphic nudity."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-01T12:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6092f9006e95",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-01T12:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/ac1880e0e221",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Once Upon a Time in Harlem",
+    "startTime": "2026-11-01T13:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/267daf6724f2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Fjord",
+    "startTime": "2026-11-01T14:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/738a63d54476",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Following the deaths of Mihai's parents, Mihai and Lisbet Gheorghiu leave their life behind in Romania and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbet's family. There, they grow close to their neighbors, the Halbergs, whose warmth gives them hope for a fresh start. But the fragile peace begins to unravel when the Gheorghiu family’s young daughter, Elia, arrives at school covered in bruises."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Once Upon a Time in Harlem",
+    "startTime": "2026-11-01T15:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/dd44237c0b40",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+  },
+  {
+    "theater": "Alamo",
     "title": "Wild at Heart",
     "startTime": "2026-11-01T16:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/1d67ae4c6b87",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula’s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers’ surreal honeymoon short."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-01T16:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/e02584c35401",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-11-01T16:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/d9979fd49bbd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "NC-17 for sexual content/graphic nudity."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-01T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/cad4a37ebd63",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Fjord",
+    "startTime": "2026-11-01T18:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/b0fa38e23ba4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Following the deaths of Mihai's parents, Mihai and Lisbet Gheorghiu leave their life behind in Romania and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbet's family. There, they grow close to their neighbors, the Halbergs, whose warmth gives them hope for a fresh start. But the fragile peace begins to unravel when the Gheorghiu family’s young daughter, Elia, arrives at school covered in bruises."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Once Upon a Time in Harlem",
+    "startTime": "2026-11-01T19:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/4a418e3ae155",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-01T19:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6e0861b14ac9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-01T20:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/3415cbbce392",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Fjord",
+    "startTime": "2026-11-01T21:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6fa4d972bca6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Following the deaths of Mihai's parents, Mihai and Lisbet Gheorghiu leave their life behind in Romania and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbet's family. There, they grow close to their neighbors, the Halbergs, whose warmth gives them hope for a fresh start. But the fragile peace begins to unravel when the Gheorghiu family’s young daughter, Elia, arrives at school covered in bruises."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Once Upon a Time in Harlem",
+    "startTime": "2026-11-01T22:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/5c334d97fa14",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-11-01T22:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/af80f75c7bc4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "NC-17 for sexual content/graphic nudity."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Once Upon a Time in Harlem",
+    "startTime": "2026-11-02T13:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/055a6aff4ba8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-02T13:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/1ad703903567",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Fjord",
+    "startTime": "2026-11-02T14:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6f0b69adf45a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Following the deaths of Mihai's parents, Mihai and Lisbet Gheorghiu leave their life behind in Romania and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbet's family. There, they grow close to their neighbors, the Halbergs, whose warmth gives them hope for a fresh start. But the fragile peace begins to unravel when the Gheorghiu family’s young daughter, Elia, arrives at school covered in bruises."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-11-02T15:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/4ad1cdfcef82",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-11-02T16:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/84354467d0b8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "NC-17 for sexual content/graphic nudity."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-02T16:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/750fbc2bc982",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-02T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/a851b400e681",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Fjord",
+    "startTime": "2026-11-02T18:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/cbf4212c199c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Following the deaths of Mihai's parents, Mihai and Lisbet Gheorghiu leave their life behind in Romania and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbet's family. There, they grow close to their neighbors, the Halbergs, whose warmth gives them hope for a fresh start. But the fragile peace begins to unravel when the Gheorghiu family’s young daughter, Elia, arrives at school covered in bruises."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Once Upon a Time in Harlem",
+    "startTime": "2026-11-02T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/c0b38255c028",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-02T21:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/d08f76267f34",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Fjord",
+    "startTime": "2026-11-02T21:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/fa0f11d7d89f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Following the deaths of Mihai's parents, Mihai and Lisbet Gheorghiu leave their life behind in Romania and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbet's family. There, they grow close to their neighbors, the Halbergs, whose warmth gives them hope for a fresh start. But the fragile peace begins to unravel when the Gheorghiu family’s young daughter, Elia, arrives at school covered in bruises."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Once Upon a Time in Harlem",
+    "startTime": "2026-11-02T21:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/4a504b27fee5",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild at Heart",
+    "startTime": "2026-11-02T22:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/b86fcc4efa49",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula’s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers’ surreal honeymoon short."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-11-02T22:20:00-08:00",
+    "sourceUrl": "https://scenef.com/go/a431fdb6d3ba",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "NC-17 for sexual content/graphic nudity."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-04T13:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/4ca085716508",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-11-04T13:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/69a9d3fe3737",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "NC-17 for sexual content/graphic nudity."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-04T14:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/0c2bcbd4ac83",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Fjord",
+    "startTime": "2026-11-04T14:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6bec29363c9c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Following the deaths of Mihai's parents, Mihai and Lisbet Gheorghiu leave their life behind in Romania and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbet's family. There, they grow close to their neighbors, the Halbergs, whose warmth gives them hope for a fresh start. But the fragile peace begins to unravel when the Gheorghiu family’s young daughter, Elia, arrives at school covered in bruises."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Once Upon a Time in Harlem",
+    "startTime": "2026-11-04T15:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/4022d092643a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ken Russell's The Devils",
+    "startTime": "2026-11-04T16:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/d476d7f3f3f4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "NC-17 for sexual content/graphic nudity."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-04T17:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/98bb918f8259",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
   },
   {
     "theater": "Alamo",
@@ -17,11 +321,59 @@
   },
   {
     "theater": "Alamo",
+    "title": "Fjord",
+    "startTime": "2026-11-04T18:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/4ab36a5f87c8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Following the deaths of Mihai's parents, Mihai and Lisbet Gheorghiu leave their life behind in Romania and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbet's family. There, they grow close to their neighbors, the Halbergs, whose warmth gives them hope for a fresh start. But the fragile peace begins to unravel when the Gheorghiu family’s young daughter, Elia, arrives at school covered in bruises."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Once Upon a Time in Harlem",
+    "startTime": "2026-11-04T18:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/26cf71429c22",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-04T19:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/91629df436d7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-04T21:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/b89272d61a45",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Once Upon a Time in Harlem",
+    "startTime": "2026-11-04T21:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/e70fd4e87339",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+  },
+  {
+    "theater": "Alamo",
     "title": "Radioactive Dreams",
     "startTime": "2026-11-04T21:30:00-08:00",
     "sourceUrl": "https://scenef.com/go/0b71325ee25f",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "After an atomic war Phillip Hammer and Marlowe Chandler have spent 15 years on their own in an bunker, stuffed with junk from the 40s and old detective novels. Now, 19 years old, they leave their shelter to find a world full of mutants, freaks and cannibals. They become famous detectives in the struggle for the two keys that could fire the last nuclear weapon."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild at Heart",
+    "startTime": "2026-11-04T21:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/eba91fda3f1c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula’s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers’ surreal honeymoon short."
   },
   {
     "theater": "Alamo",
