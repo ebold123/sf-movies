@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-26T19:23:55.369Z",
+  "generatedAt": "2026-10-27T18:44:23.886Z",
   "status": "discrepancies",
   "report": {
     "matched": 4,
@@ -116,6 +116,10 @@
         "startTime": "2026-11-21T19:30:00-08:00"
       },
       {
+        "title": "Dark Passage",
+        "startTime": "2026-11-22T19:30:00-08:00"
+      },
+      {
         "title": "MC5: A True Testimonial",
         "startTime": "2026-11-27T19:00:00-08:00"
       },
@@ -130,7 +134,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 3,
+      "ours": 2,
       "scenef": 0
     }
   }

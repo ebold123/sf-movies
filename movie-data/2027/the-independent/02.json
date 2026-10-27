@@ -20,6 +20,24 @@
   },
   {
     "theater": "The Independent",
+    "title": "Two Gallants: Two-Day Pass",
+    "startTime": "2027-02-10T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Two Gallants",
+    "startTime": "2027-02-10T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/two-gallants/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Two Gallants",
+    "startTime": "2027-02-11T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/two-gallants-2/"
+  },
+  {
+    "theater": "The Independent",
     "title": "Ely Oaks",
     "startTime": "2027-02-12T21:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/ely-oaks/"
@@ -54,6 +72,12 @@
     "title": "Way Dynamic",
     "startTime": "2027-02-24T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/way-dynamic/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Asaf Avidan",
+    "startTime": "2027-02-25T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/asaf-avidan/"
   },
   {
     "theater": "The Independent",
