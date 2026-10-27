@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-26T14:51:23.705Z",
+  "generatedAt": "2026-10-27T13:56:35.809Z",
   "status": "discrepancies",
   "report": {
-    "matched": 60,
+    "matched": 73,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
@@ -29,6 +29,14 @@
         "startTime": "2026-10-30T19:00:00-07:00"
       },
       {
+        "title": "New People: NAZA",
+        "startTime": "2026-10-31T14:50:00-07:00"
+      },
+      {
+        "title": "New People: NAZA",
+        "startTime": "2026-10-31T14:50:00-07:00"
+      },
+      {
         "title": "New People: The Snake Girl and the Silver-Haired Witch",
         "startTime": "2026-10-31T16:45:00-07:00"
       },
@@ -37,8 +45,16 @@
         "startTime": "2026-11-01T13:00:00-08:00"
       },
       {
+        "title": "New People: Paprika",
+        "startTime": "2026-11-01T15:40:00-08:00"
+      },
+      {
         "title": "New People: Closure",
         "startTime": "2026-11-05T18:30:00-08:00"
+      },
+      {
+        "title": "New People: Paprika",
+        "startTime": "2026-11-05T21:20:00-08:00"
       },
       {
         "title": "New People: Being Heumann",
@@ -50,7 +66,7 @@
       },
       {
         "title": "New People: My Undesirable Friends: Part 2 – Exile (Chapters 4-5)",
-        "startTime": "2026-11-07T15:00:00-08:00"
+        "startTime": "2026-11-07T14:30:00-08:00"
       },
       {
         "title": "New People: Being Heumann",
@@ -99,6 +115,10 @@
       {
         "title": "New People: An Eye for an Eye",
         "startTime": "2026-11-29T15:30:00-08:00"
+      },
+      {
+        "title": "New People: Cookie Queens",
+        "startTime": "2026-12-06T13:00:00-08:00"
       },
       {
         "title": "Floating Features: National Lampoon’s Christmas Vacation",

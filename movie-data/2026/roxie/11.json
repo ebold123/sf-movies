@@ -22,10 +22,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "New People: My Undesirable Friends: Part 2 – Exile (Chapters 4-5)",
+    "startTime": "2026-11-07T15:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/my-undesirable-friends-part-2-exile-chapters-4-5/#showtimes-20261107-1500",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. A group of young journalists deemed “foreign agents” […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: The Gymnasts of Fisherman Colony",
     "startTime": "2026-11-01T13:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/new-people-the-gymnasts-of-fisherman-colony/#showtimes-20261101-1300",
     "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Followed by a post-screening Q&A with director Habiba […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Lady",
+    "startTime": "2026-11-01T13:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/lady/#showtimes-20261101-1300",
+    "synopsis": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession […]"
   },
   {
     "theater": "Roxie",
@@ -57,6 +71,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "New People: Paprika",
+    "startTime": "2026-11-01T15:40:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-paprika/#showtimes-20261101-1540",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Arguably the chef d’oeuvre in the anime icon’s […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "THX 1138 (35mm)",
     "startTime": "2026-11-01T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/thx-1138-35mm/#showtimes-20261101-1800",
@@ -71,10 +92,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "The History of Concrete",
-    "startTime": "2026-11-02T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261102-1800",
-    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
+    "title": "Marie Antoinette (4K Restoration)",
+    "startTime": "2026-11-01T20:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/marie-antoinette-4k-restoration/#showtimes-20261101-2000",
+    "synopsis": "The third feature film from Oscar-winning writer-director Sofia Coppola (Lost in Translation, 2003) transposes her fascination with the inner lives of young women to […]"
   },
   {
     "theater": "Roxie",
@@ -85,10 +106,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "Fjord",
-    "startTime": "2026-11-02T20:15:00-08:00",
-    "sourceUrl": "https://roxie.com/film/fjord/#showtimes-20261102-2015",
-    "synopsis": "From two-time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devoutRomanian husband relocate with their five children to a remote, close-knit, coastal […]"
+    "title": "The History of Concrete",
+    "startTime": "2026-11-02T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261102-1800",
+    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
   },
   {
     "theater": "Roxie",
@@ -96,6 +117,13 @@
     "startTime": "2026-11-02T20:15:00-08:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261102-2015",
     "synopsis": "NAZA is also playing at NEW PEOPLE In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Fjord",
+    "startTime": "2026-11-02T20:15:00-08:00",
+    "sourceUrl": "https://roxie.com/film/fjord/#showtimes-20261102-2015",
+    "synopsis": "From two-time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devoutRomanian husband relocate with their five children to a remote, close-knit, coastal […]"
   },
   {
     "theater": "Roxie",
@@ -127,13 +155,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "Runa Simi",
-    "startTime": "2026-11-04T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/runa-simi/#showtimes-20261104-1800",
-    "synopsis": "Q&A with Director Augusto Zegarra, Protagonist Fernando Valencia, and Producer Paloma Iturriaga after the screening! “The film is a love letter to a language, […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "An Evening with Jane Schoenbrun: Public Access Afterworld + I Saw the TV Glow",
     "startTime": "2026-11-04T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/an-evening-with-jane-schoenbrun-public-access-afterworld-i-saw-the-tv-glow/#showtimes-20261104-1800",
@@ -141,10 +162,73 @@
   },
   {
     "theater": "Roxie",
+    "title": "Runa Simi",
+    "startTime": "2026-11-04T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/runa-simi/#showtimes-20261104-1800",
+    "synopsis": "Q&A with Director Augusto Zegarra, Protagonist Fernando Valencia, and Producer Paloma Iturriaga after the screening! “The film is a love letter to a language, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The History of Concrete",
+    "startTime": "2026-11-04T20:30:00-08:00",
+    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261104-2030",
+    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Wild at Heart (4K Restoration)",
+    "startTime": "2026-11-04T21:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/wild-at-heart/#showtimes-20261104-2100",
+    "synopsis": "Come dressed as your favorite character from the film on Halloween and score FREE POPCORN. Snakeskin jackets, red lipstick, and Lynchian weirdness encouraged! “This […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The History of Concrete",
+    "startTime": "2026-11-05T15:30:00-08:00",
+    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261105-1530",
+    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Fjord",
+    "startTime": "2026-11-05T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/fjord/#showtimes-20261105-1800",
+    "synopsis": "From two-time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devoutRomanian husband relocate with their five children to a remote, close-knit, coastal […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "NAZA",
+    "startTime": "2026-11-05T18:20:00-08:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261105-1820",
+    "synopsis": "NAZA is also playing at NEW PEOPLE In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: Closure",
     "startTime": "2026-11-05T18:30:00-08:00",
     "sourceUrl": "https://roxie.com/film/new-people-closure/#showtimes-20261105-1830",
     "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Filmmaker Michał Marczak in person for a post […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Lady",
+    "startTime": "2026-11-05T20:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/lady/#showtimes-20261105-2010",
+    "synopsis": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Alien",
+    "startTime": "2026-11-05T21:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/alien/#showtimes-20261105-2100",
+    "synopsis": "The crew of the commercial towing ship Nostromo is heading home with 20 million tons of mineral ore when a mysterious transmission pulls them […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Paprika",
+    "startTime": "2026-11-05T21:20:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-paprika/#showtimes-20261105-2120",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Arguably the chef d’oeuvre in the anime icon’s […]"
   },
   {
     "theater": "Roxie",
@@ -184,9 +268,9 @@
   {
     "theater": "Roxie",
     "title": "New People: My Undesirable Friends: Part 2 – Exile (Chapters 4-5)",
-    "startTime": "2026-11-07T15:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/my-undesirable-friends-part-2-exile-chapters-4-5/#showtimes-20261107-1500",
-    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. A group of young journalists deemed “foreign agents” […]"
+    "startTime": "2026-11-07T14:30:00-08:00",
+    "sourceUrl": "https://roxie.com/film/my-undesirable-friends-part-2-exile-chapters-4-5/#showtimes-20261107-1430",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Followed by a post-screening Q&A with Protagonist Ksenia […]"
   },
   {
     "theater": "Roxie",
@@ -194,6 +278,13 @@
     "startTime": "2026-11-07T15:15:00-08:00",
     "sourceUrl": "https://roxie.com/film/the-dalai-lama-my-religion-is-kindness/#showtimes-20261107-1515",
     "synopsis": "Director Babeth Mondini-VanLoo and Special Guest in person for Q&A moderated by Gaetano Kazuo Maida Executive Director of the Buddhist Film Foundation. This new […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Fatherland",
+    "startTime": "2026-11-07T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261107-1800",
+    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
   },
   {
     "theater": "Roxie",
@@ -225,17 +316,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "How to Clean a House in 10 Easy Steps",
-    "startTime": "2026-11-08T15:10:00-08:00",
-    "sourceUrl": "https://roxie.com/film/how-to-clean-a-house-in-10-easy-steps/#showtimes-20261108-1510",
-    "synopsis": "Presented by CiNEOLA and co-presented by RoxCine with community partner BAVC Media Part of the COLOMBIA ON FILM: bajo el velo de la ficción (under the veil of fiction) series. […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Everything For Sale",
     "startTime": "2026-11-08T15:10:00-08:00",
     "sourceUrl": "https://roxie.com/film/everything-for-sale/#showtimes-20261108-1510",
     "synopsis": "The lead protagonist of a film disappears mid production, and his family and crew search for him before tragic news reaches them. Wajda’s first […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "How to Clean a House in 10 Easy Steps",
+    "startTime": "2026-11-08T15:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/how-to-clean-a-house-in-10-easy-steps/#showtimes-20261108-1510",
+    "synopsis": "Presented by CiNEOLA and co-presented by RoxCine with community partner BAVC Media Part of the COLOMBIA ON FILM: bajo el velo de la ficción (under the veil of fiction) series. […]"
   },
   {
     "theater": "Roxie",
@@ -288,6 +379,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "La Bola Negra",
+    "startTime": "2026-11-14T15:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261114-1500",
+    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "SFTFF 2026 – SPECULATIVE FICTION",
     "startTime": "2026-11-14T19:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/sftff-2026-speculative-fiction/#showtimes-20261114-1900",
@@ -306,6 +404,13 @@
     "startTime": "2026-11-15T15:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/hunting-flies-roly-poly/#showtimes-20261115-1500",
     "synopsis": "Presented together, Hunting Flies and Roly Poly are two distinct satirical comedy films by celebrated Director Andrzej Wajda. Hunting Flies will be preceded by […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "La Bola Negra",
+    "startTime": "2026-11-15T19:30:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261115-1930",
+    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
   },
   {
     "theater": "Roxie",
@@ -337,6 +442,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Birds of War",
+    "startTime": "2026-11-22T15:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/birds-of-war/#showtimes-20261122-1500",
+    "synopsis": "Post screening Q&A with Director’s and Film Subject’s Janay Boulos and Abd Alkader Habak. By turning the camera on themselves, the co-directors follow the […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Johnny Mnemonic: In Black and White",
     "startTime": "2026-11-27T20:40:00-08:00",
     "sourceUrl": "https://roxie.com/film/johnny-mnemonic-in-black-and-white/#showtimes-20261127-2040",
@@ -344,16 +456,16 @@
   },
   {
     "theater": "Roxie",
-    "title": "Ashes and Diamonds (4K Restoration)",
-    "startTime": "2026-11-29T15:30:00-08:00",
-    "sourceUrl": "https://roxie.com/film/ashes-and-diamonds-4k-restoration/#showtimes-20261129-1530",
-    "synopsis": "On the last day of World War II in a small town somewhere in Poland, Polish exiles of war and the occupying Soviet forces […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "New People: An Eye for an Eye",
     "startTime": "2026-11-29T15:30:00-08:00",
     "sourceUrl": "https://roxie.com/film/new-people-an-eye-for-an-eye/#showtimes-20261129-1530",
     "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Director Tanaz Eshaghian in person for a post-screening […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Ashes and Diamonds (4K Restoration)",
+    "startTime": "2026-11-29T15:30:00-08:00",
+    "sourceUrl": "https://roxie.com/film/ashes-and-diamonds-4k-restoration/#showtimes-20261129-1530",
+    "synopsis": "On the last day of World War II in a small town somewhere in Poland, Polish exiles of war and the occupying Soviet forces […]"
   }
 ]

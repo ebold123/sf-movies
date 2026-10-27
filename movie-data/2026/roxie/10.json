@@ -1296,17 +1296,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Desierto",
-    "startTime": "2026-10-28T18:00:00-07:00",
-    "sourceUrl": "https://roxie.com/film/desierto/#showtimes-20261028-1800",
-    "synopsis": "Marking its 10th anniversary, Jonás Cuarón’s DESIERTO is a tense border thriller with the stripped-down intensity of survival horror. When a group of migrants […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Making Marie Antoinette",
     "startTime": "2026-10-28T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/making-marie-antoinette/#showtimes-20261028-1800",
     "synopsis": "Follows filmmaker Eleanor Coppola’s behind-the-scenes documentation of her daughter Sofia Coppola directing the 2006 film Marie Antoinette, capturing the craftsmanship and challenges of being […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Desierto",
+    "startTime": "2026-10-28T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/desierto/#showtimes-20261028-1800",
+    "synopsis": "Marking its 10th anniversary, Jonás Cuarón’s DESIERTO is a tense border thriller with the stripped-down intensity of survival horror. When a group of migrants […]"
   },
   {
     "theater": "Roxie",
@@ -1401,6 +1401,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-30T20:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261030-2000",
+    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Alien",
     "startTime": "2026-10-30T21:05:00-07:00",
     "sourceUrl": "https://roxie.com/film/alien/#showtimes-20261030-2105",
@@ -1412,6 +1419,27 @@
     "startTime": "2026-10-31T13:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/seance/#showtimes-20261031-1300",
     "synopsis": "Director Vivian Kerr in attendance for a post-screening Q&A! In 1892 California, a woman contemplating adultery is forced to take refuge from a storm […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-31T13:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261031-1315",
+    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: NAZA",
+    "startTime": "2026-10-31T14:50:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-naza/#showtimes-20261031-1450",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. NAZA screenings at NEW PEOPLE start October 9. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: NAZA",
+    "startTime": "2026-10-31T14:50:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-naza/#showtimes-20261031-1450",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. NAZA screenings at NEW PEOPLE start October 9. […]"
   },
   {
     "theater": "Roxie",
@@ -1447,6 +1475,13 @@
     "startTime": "2026-10-31T18:10:00-07:00",
     "sourceUrl": "https://roxie.com/film/fjord/#showtimes-20261031-1810",
     "synopsis": "From two-time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devoutRomanian husband relocate with their five children to a remote, close-knit, coastal […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Blair Witch Project",
+    "startTime": "2026-10-31T19:45:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-blair-witch-project/#showtimes-20261031-1945",
+    "synopsis": "In 1994 a group of filmmakers head out into the woods of Burkittsville, MD in search of the folk legend of the Blair Witch […]"
   },
   {
     "theater": "Roxie",
