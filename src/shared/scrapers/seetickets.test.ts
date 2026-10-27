@@ -1,4 +1,4 @@
-import { describe, expect, it, vi } from "vitest";
+import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import { fetchSeeTicketsEvents, parseSeeTicketsFragment } from "./seetickets";
 
 function card({
@@ -27,6 +27,21 @@ function card({
 }
 
 describe("parseSeeTicketsFragment", () => {
+  const originalTz = process.env.TZ;
+
+  // The listing has no year, so the parser infers it from today's date.
+  // Pin the clock before every fixture date so these tests don't start
+  // failing once those dates pass.
+  beforeEach(() => {
+    vi.useFakeTimers();
+    vi.setSystemTime(new Date("2026-09-01T19:00:00Z"));
+  });
+
+  afterEach(() => {
+    vi.useRealTimers();
+    process.env.TZ = originalTz;
+  });
+
   it("extracts title, support act, date and showtime from an event card", () => {
     const html = card({
       title: "Beth Orton and her band",
@@ -74,6 +89,43 @@ describe("parseSeeTicketsFragment", () => {
         sourceUrl: "https://wl.seetickets.us/event/solo-act/1",
       },
     ]);
+  });
+
+  describe("year inference", () => {
+    it("uses the venue's date, not the server's, to decide whether a show has passed", () => {
+      // 2026-10-01T04:30:00Z is still the evening of Sept 30 in
+      // America/Los_Angeles (PDT, UTC-7). A server running in UTC would see
+      // "today" as Oct 1 and push tonight's show a year into the future.
+      process.env.TZ = "UTC";
+      vi.setSystemTime(new Date("2026-10-01T04:30:00Z"));
+
+      const html = card({
+        title: "Tonight's Show",
+        date: "Wed Sep 30",
+        showtime: "9:00PM",
+        detailUrl: "https://wl.seetickets.us/event/tonight/1",
+      });
+
+      expect(parseSeeTicketsFragment(html, "Great American Music Hall")[0].startTime).toBe(
+        "2026-09-30T21:00:00-07:00",
+      );
+    });
+
+    it("rolls over to next year once the venue-local date has passed", () => {
+      process.env.TZ = "UTC";
+      vi.setSystemTime(new Date("2026-12-15T20:00:00Z"));
+
+      const html = card({
+        title: "New Year Show",
+        date: "Fri Jan 1",
+        showtime: "9:00PM",
+        detailUrl: "https://wl.seetickets.us/event/new-year/1",
+      });
+
+      expect(parseSeeTicketsFragment(html, "Great American Music Hall")[0].startTime).toBe(
+        "2027-01-01T21:00:00-08:00",
+      );
+    });
   });
 });
 
