@@ -344,6 +344,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Arab Film Festival 2026",
+    "startTime": "2026-11-11T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/arab-film-festival-2026/#showtimes-20261111-1800",
+    "synopsis": "The flagship event of the Arab Film and Media Institute, the Arab Film Festival is the longest running independent festival of its kind in […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "SFTFF 2026 – COMEDY",
     "startTime": "2026-11-12T19:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/sftff-2026-comedy/#showtimes-20261112-1900",
@@ -355,6 +362,13 @@
     "startTime": "2026-11-12T21:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/sftff-2026-documentary/#showtimes-20261112-2100",
     "synopsis": "The 2026 San Francisco Transgender Film Festival continues with DOCUMENTARY, a shorts block featuring four poignant and explorative films. 3 Hearts of Iron (13:25min)Ariel del Sol, Costa Rica, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Closure",
+    "startTime": "2026-11-13T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/closure/#showtimes-20261113-1800",
+    "synopsis": "Advance screening followed by a Q&A with director Michał Marczak on Thursday, November 5, at New People Cinema! After his teenage son, Chris, is […]"
   },
   {
     "theater": "Roxie",
@@ -372,6 +386,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "La Bola Negra",
+    "startTime": "2026-11-13T20:20:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261113-2020",
+    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "SFTFF 2026 – GRAB BAG",
     "startTime": "2026-11-13T21:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/sftff-2026-grab-bag/#showtimes-20261113-2100",
@@ -383,6 +404,13 @@
     "startTime": "2026-11-14T15:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261114-1500",
     "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Closure",
+    "startTime": "2026-11-14T17:45:00-08:00",
+    "sourceUrl": "https://roxie.com/film/closure/#showtimes-20261114-1745",
+    "synopsis": "Advance screening followed by a Q&A with director Michał Marczak on Thursday, November 5, at New People Cinema! After his teenage son, Chris, is […]"
   },
   {
     "theater": "Roxie",
@@ -407,10 +435,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "Closure",
+    "startTime": "2026-11-15T17:50:00-08:00",
+    "sourceUrl": "https://roxie.com/film/closure/#showtimes-20261115-1750",
+    "synopsis": "Advance screening followed by a Q&A with director Michał Marczak on Thursday, November 5, at New People Cinema! After his teenage son, Chris, is […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "La Bola Negra",
     "startTime": "2026-11-15T19:30:00-08:00",
     "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261115-1930",
     "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Closure",
+    "startTime": "2026-11-16T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/closure/#showtimes-20261116-1800",
+    "synopsis": "Advance screening followed by a Q&A with director Michał Marczak on Thursday, November 5, at New People Cinema! After his teenage son, Chris, is […]"
   },
   {
     "theater": "Roxie",

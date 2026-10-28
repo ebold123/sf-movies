@@ -1,17 +1,13 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-27T13:56:35.809Z",
+  "generatedAt": "2026-10-28T13:51:37.185Z",
   "status": "discrepancies",
   "report": {
-    "matched": 73,
+    "matched": 76,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "APATure 2026",
-        "startTime": "2026-10-27T18:45:00-07:00"
-      },
       {
         "title": "New People: The Great Experiment",
         "startTime": "2026-10-29T18:00:00-07:00"
@@ -81,6 +77,10 @@
         "startTime": "2026-11-08T13:00:00-08:00"
       },
       {
+        "title": "Arab Film Festival 2026",
+        "startTime": "2026-11-11T18:00:00-08:00"
+      },
+      {
         "title": "SFTFF 2026 – COMEDY",
         "startTime": "2026-11-12T19:00:00-08:00"
       },
@@ -133,7 +133,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 3,
+      "ours": 2,
       "scenef": 0
     }
   }
