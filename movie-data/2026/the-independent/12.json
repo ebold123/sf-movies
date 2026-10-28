@@ -36,6 +36,12 @@
   },
   {
     "theater": "The Independent",
+    "title": "Lazer Dim 700",
+    "startTime": "2026-12-07T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/lazer-dim-700/"
+  },
+  {
+    "theater": "The Independent",
     "title": "Wishy",
     "startTime": "2026-12-08T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/wishy/",
@@ -115,5 +121,11 @@
     "title": "Ray and Paul",
     "startTime": "2026-12-23T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/ray-and-paul-2/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Thievery Corporation",
+    "startTime": "2026-12-31T21:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/thievery-corporation/"
   }
 ]

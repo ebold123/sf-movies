@@ -40,16 +40,16 @@
   },
   {
     "theater": "The Independent",
-    "title": "Temper City",
-    "startTime": "2027-03-09T20:00:00-08:00",
-    "sourceUrl": "https://www.theindependentsf.com/tm-event/temper-city/"
-  },
-  {
-    "theater": "The Independent",
     "title": "strongboi – MOVED TO CASTRO THEATRE",
     "startTime": "2027-03-09T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/strongboi/",
     "synopsis": "with Salami Rose Joe Louis"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Temper City",
+    "startTime": "2027-03-09T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/temper-city/"
   },
   {
     "theater": "The Independent",
@@ -74,6 +74,12 @@
     "title": "Dan and Peggy Reeder",
     "startTime": "2027-03-25T20:00:00-07:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/dan-and-peggy-reeder/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Worldpeace DMT",
+    "startTime": "2027-03-28T20:00:00-07:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/worldpeace-dmt/"
   },
   {
     "theater": "The Independent",

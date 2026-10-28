@@ -20,15 +20,15 @@
   },
   {
     "theater": "The Independent",
-    "title": "Two Gallants: Two-Day Pass",
-    "startTime": "2027-02-10T20:00:00-08:00",
-    "sourceUrl": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/"
-  },
-  {
-    "theater": "The Independent",
     "title": "Two Gallants",
     "startTime": "2027-02-10T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/two-gallants/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Two Gallants: Two-Day Pass",
+    "startTime": "2027-02-10T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/"
   },
   {
     "theater": "The Independent",
@@ -47,6 +47,12 @@
     "title": "Ikkimel",
     "startTime": "2027-02-14T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/ikkimel/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "CODEFENDANTS + Jakob Nowell and THE CASTLE",
+    "startTime": "2027-02-17T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/codefendants-jakob-nowell-and-the-castle/"
   },
   {
     "theater": "The Independent",
