@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-10-27T13:35:48.532Z",
+  "generatedAt": "2026-10-28T13:24:08.092Z",
   "status": "discrepancies",
   "report": {
-    "matched": 57,
+    "matched": 62,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -13,39 +13,20 @@
         "scenefTitle": "The Twilight Saga: New Moon"
       }
     ],
-    "oursOnly": [],
+    "oursOnly": [
+      {
+        "title": "Godzilla Minus Zero",
+        "startTime": "2026-11-12T19:00:00-08:00"
+      }
+    ],
     "scenefOnly": [
       {
         "title": "Comedy At The Balboa: Tokyo Kanpai Boys",
         "startTime": "2026-10-28T18:00:00-07:00"
       },
       {
-        "title": "You Can See Everything",
-        "startTime": "2026-11-06T19:00:00-08:00"
-      },
-      {
         "title": "Dante's Inferno/In Smog and Thunder (DBL FTR)",
         "startTime": "2026-11-06T19:30:00-08:00"
-      },
-      {
-        "title": "You Can See Everything",
-        "startTime": "2026-11-07T15:00:00-08:00"
-      },
-      {
-        "title": "You Can See Everything",
-        "startTime": "2026-11-07T19:00:00-08:00"
-      },
-      {
-        "title": "Godzilla Minus Zero",
-        "startTime": "2026-11-09T16:00:00-08:00"
-      },
-      {
-        "title": "Godzilla Minus Zero",
-        "startTime": "2026-11-10T16:00:00-08:00"
-      },
-      {
-        "title": "Godzilla Minus Zero",
-        "startTime": "2026-11-12T16:00:00-08:00"
       },
       {
         "title": "Godzilla Minus Zero",
