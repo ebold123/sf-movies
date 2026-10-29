@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-28T13:51:37.185Z",
+  "generatedAt": "2026-10-29T13:51:40.367Z",
   "status": "discrepancies",
   "report": {
-    "matched": 76,
+    "matched": 78,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
@@ -29,10 +29,6 @@
         "startTime": "2026-10-31T14:50:00-07:00"
       },
       {
-        "title": "New People: NAZA",
-        "startTime": "2026-10-31T14:50:00-07:00"
-      },
-      {
         "title": "New People: The Snake Girl and the Silver-Haired Witch",
         "startTime": "2026-10-31T16:45:00-07:00"
       },
@@ -45,8 +41,8 @@
         "startTime": "2026-11-01T15:40:00-08:00"
       },
       {
-        "title": "New People: Closure",
-        "startTime": "2026-11-05T18:30:00-08:00"
+        "title": "New People: Paprika",
+        "startTime": "2026-11-05T19:15:00-08:00"
       },
       {
         "title": "New People: Paprika",
@@ -69,7 +65,7 @@
         "startTime": "2026-11-07T18:20:00-08:00"
       },
       {
-        "title": "Studio 8 2026",
+        "title": "Studio 8 2026: Babeth Mondini VanLoo (Studio 8 Legacy Award)",
         "startTime": "2026-11-08T12:30:00-08:00"
       },
       {
@@ -123,6 +119,14 @@
       {
         "title": "Floating Features: National Lampoon’s Christmas Vacation",
         "startTime": "2026-12-12T18:30:00-08:00"
+      },
+      {
+        "title": "New People: The Promised Land",
+        "startTime": "2026-12-19T15:30:00-08:00"
+      },
+      {
+        "title": "Floating Features: A Christmas Story",
+        "startTime": "2026-12-19T18:30:00-08:00"
       }
     ],
     "scenefOnly": [
@@ -133,7 +137,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 2,
+      "ours": 0,
       "scenef": 0
     }
   }

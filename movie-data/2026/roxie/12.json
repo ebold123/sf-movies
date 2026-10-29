@@ -8,10 +8,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "American Pachuco: The Legend of Luis Valdez",
+    "startTime": "2026-12-05T15:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/american-pachuco-the-legend-of-luis-valdez/#showtimes-20261205-1500",
+    "synopsis": "Director David Alvarado in person for Q&A! Against political resistance and industry skepticism, Luis Valdez pushes Chicano storytelling from the fields to the film […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Cameron Winter at Carnegie Hall (35mm)",
     "startTime": "2026-12-05T16:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/cameron-winter-at-carnegie-hall-35mm/#showtimes-20261205-1600",
     "synopsis": "Cameron Winter, in December 2025, after a months-long sold-out tour with his band Geese, returned to New York to play a single show at […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Remake",
+    "startTime": "2026-12-06T12:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/remake/#showtimes-20261206-1200",
+    "synopsis": "Editor Joe Bini in person for a post-screening Q&A. Filmmaker Ross McElwee has spent forty years recording himself and his family, creating documentaries that […]"
   },
   {
     "theater": "Roxie",
@@ -75,5 +89,12 @@
     "startTime": "2026-12-19T18:30:00-08:00",
     "sourceUrl": "https://roxie.com/film/floating-features-a-christmas-story-1983/#showtimes-20261219-1830",
     "synopsis": "Based on the humorous writings of author Jean Shepherd, this beloved holiday movie follows the wintry exploits of youngster Ralphie Parker (Peter Billingsley), who […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Carol",
+    "startTime": "2026-12-21T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/carol/#showtimes-20261221-1800",
+    "synopsis": "Presented by OUTlook and Frameline Dubbed “SF’s hottest new holiday tradition” by the San Francisco Chronicle, Frameline’s fourth annual Carol Day returns to its […]"
   }
 ]
