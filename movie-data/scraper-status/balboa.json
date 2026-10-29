@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-10-28T13:24:08.092Z",
+  "generatedAt": "2026-10-29T13:24:14.558Z",
   "status": "discrepancies",
   "report": {
-    "matched": 62,
+    "matched": 69,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -20,10 +20,6 @@
       }
     ],
     "scenefOnly": [
-      {
-        "title": "Comedy At The Balboa: Tokyo Kanpai Boys",
-        "startTime": "2026-10-28T18:00:00-07:00"
-      },
       {
         "title": "Dante's Inferno/In Smog and Thunder (DBL FTR)",
         "startTime": "2026-11-06T19:30:00-08:00"
@@ -83,7 +79,7 @@
     ],
     "collapsedDuplicates": 3,
     "excluded": {
-      "ours": 0,
+      "ours": 3,
       "scenef": 0
     }
   }
