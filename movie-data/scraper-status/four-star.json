@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-28T18:56:00.406Z",
+  "generatedAt": "2026-10-29T18:59:54.063Z",
   "status": "discrepancies",
   "report": {
-    "matched": 4,
+    "matched": 3,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -120,16 +120,80 @@
         "startTime": "2026-11-08T15:00:00-08:00"
       },
       {
+        "title": "Electric Dreams",
+        "startTime": "2026-11-18T19:30:00-08:00"
+      },
+      {
+        "title": "The Grand Budapest Hotel",
+        "startTime": "2026-11-21T12:15:00-08:00"
+      },
+      {
+        "title": "A Charlie Brown Thanksgiving",
+        "startTime": "2026-11-21T14:45:00-08:00"
+      },
+      {
+        "title": "Fantastic Mr. Fox",
+        "startTime": "2026-11-21T16:00:00-08:00"
+      },
+      {
+        "title": "A Charlie Brown Thanksgiving",
+        "startTime": "2026-11-21T18:15:00-08:00"
+      },
+      {
         "title": "It",
         "startTime": "2026-11-21T19:30:00-08:00"
+      },
+      {
+        "title": "A Charlie Brown Thanksgiving",
+        "startTime": "2026-11-22T12:15:00-08:00"
+      },
+      {
+        "title": "The Grand Budapest Hotel",
+        "startTime": "2026-11-22T13:30:00-08:00"
+      },
+      {
+        "title": "A Charlie Brown Thanksgiving",
+        "startTime": "2026-11-22T16:00:00-08:00"
+      },
+      {
+        "title": "Fantastic Mr. Fox",
+        "startTime": "2026-11-22T17:15:00-08:00"
       },
       {
         "title": "Dark Passage",
         "startTime": "2026-11-22T19:30:00-08:00"
       },
       {
+        "title": "A Charlie Brown Thanksgiving",
+        "startTime": "2026-11-25T18:15:00-08:00"
+      },
+      {
+        "title": "The Grand Budapest Hotel",
+        "startTime": "2026-11-25T19:30:00-08:00"
+      },
+      {
         "title": "MC5: A True Testimonial",
-        "startTime": "2026-11-27T19:00:00-08:00"
+        "startTime": "2026-11-27T19:30:00-08:00"
+      },
+      {
+        "title": "Ponyo",
+        "startTime": "2026-11-29T12:30:00-08:00"
+      },
+      {
+        "title": "Ponyo",
+        "startTime": "2026-11-29T15:00:00-08:00"
+      },
+      {
+        "title": "Ponyo",
+        "startTime": "2026-11-29T17:30:00-08:00"
+      },
+      {
+        "title": "Begotten",
+        "startTime": "2026-11-29T20:00:00-08:00"
+      },
+      {
+        "title": "The Chinese Feast",
+        "startTime": "2026-12-02T19:30:00-08:00"
       },
       {
         "title": "Dazed and Confused",
