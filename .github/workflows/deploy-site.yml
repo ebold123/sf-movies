@@ -4,6 +4,12 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # Scrape workflows commit with GITHUB_TOKEN, and GitHub does not start other
+  # workflows from those pushes — so the push trigger above never fires for
+  # scraped data. Rebuild daily instead, 30 min after the last scraper (ATA,
+  # 14:07 UTC). The build also needs the daily run to drop past showings.
+  schedule:
+    - cron: "37 14 * * *" # daily, 14:37 UTC (~7:37am PDT / 6:37am PST)
 
 permissions:
   contents: read
