@@ -73,6 +73,14 @@
   },
   {
     "theater": "Madrone Art Bar",
+    "title": "I HEART THE 90s",
+    "startTime": "2027-04-23T21:30:00-07:00",
+    "endTime": "2027-04-24T01:30:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/i-heart-the-90s-2025-11-28-2026-03-27-2026-09-25-2026-11-27/2027-04-23/",
+    "synopsis": "DJs Samala, Mr. Grant, N Such, Mama K and Sonny Phono rocking hip hop, dance, alternative, grunge, reggae, etc. VJ Teo with the live visual mixing of 90s music video classics and beyond. SF’s Original 90s Dance Party\nMusic starts at 9pm. $10 at 9:30pm / 21 & up w/ID"
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "Brazilian Wax",
     "startTime": "2027-04-01T18:00:00-07:00",
     "endTime": "2027-04-01T21:00:00-07:00",
@@ -348,7 +356,7 @@
     "title": "I HEART THE 90s",
     "startTime": "2027-04-23T21:30:00-07:00",
     "endTime": "2027-04-24T01:30:00-07:00",
-    "sourceUrl": "https://madroneartbar.com/event/i-heart-the-90s-2025-11-28-2026-03-27-2026-09-25-2026-11-27/2027-04-23/",
+    "sourceUrl": "https://madroneartbar.com/event/i-heart-the-90s-2025-11-28-2026-03-27-2026-09-25-2027-01-22/2027-04-23/",
     "synopsis": "DJs Samala, Mr. Grant, N Such, Mama K and Sonny Phono rocking hip hop, dance, alternative, grunge, reggae, etc. VJ Teo with the live visual mixing of 90s music video classics and beyond. SF’s Original 90s Dance Party\nMusic starts at 9pm. $10 at 9:30pm / 21 & up w/ID"
   },
   {
@@ -406,5 +414,13 @@
     "endTime": "2027-04-27T20:30:00-07:00",
     "sourceUrl": "https://madroneartbar.com/event/livemodelsketch-2026-06-23-2026-10-06/2027-04-27/",
     "synopsis": "LIVE MODEL TUESDAY SKETCH\nhosted by Sketchboard Co.\n$15 fee to draw the model\nEvery Tuesday 6:30 to 8:30 PM\nwith live music by Twango\nBring your own materials\nNo Photos Please Respect the Models"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "PARTY 4 U",
+    "startTime": "2027-04-30T21:00:00-07:00",
+    "endTime": "2027-05-01T01:30:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/party-4-u-3-2027-01-29/2027-04-30/",
+    "synopsis": "PARTY 4 U! Dance to CharliXCX, Chappell Roan, Lady Gaga, Robyn, Weeknd etc…DJs Fox & Kool Karlo.  🏆🥴😈\n$10 after 9:30pm"
   }
 ]
