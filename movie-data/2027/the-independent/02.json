@@ -21,14 +21,20 @@
   {
     "theater": "The Independent",
     "title": "Two Gallants",
-    "startTime": "2027-02-10T20:00:00-08:00",
-    "sourceUrl": "https://www.theindependentsf.com/tm-event/two-gallants/"
+    "startTime": "2027-02-09T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/two-gallants-3/"
   },
   {
     "theater": "The Independent",
     "title": "Two Gallants: Two-Day Pass",
     "startTime": "2027-02-10T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Two Gallants",
+    "startTime": "2027-02-10T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/two-gallants/"
   },
   {
     "theater": "The Independent",

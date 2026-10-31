@@ -129,6 +129,14 @@
   },
   {
     "theater": "Madrone Art Bar",
+    "title": "Big Brain",
+    "startTime": "2027-01-06T18:30:00-08:00",
+    "endTime": "2027-01-06T20:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/jerome-clay-2-2025-12-03-2026-02-04-2026-11-04/2027-01-06/",
+    "synopsis": "A lecture series and party for smarties.\nHosted by Big Brain\n7pm-8:45pm\nAdvance tickets available at Big Brain SF"
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "Max Cowan",
     "startTime": "2027-01-01T04:00:00-08:00",
     "endTime": "2027-01-02T03:59:00-08:00",
@@ -196,7 +204,7 @@
     "title": "Big Brain",
     "startTime": "2027-01-06T18:30:00-08:00",
     "endTime": "2027-01-06T20:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/jerome-clay-2-2025-12-03-2026-02-04-2026-11-04/2027-01-06/",
+    "sourceUrl": "https://madroneartbar.com/event/jerome-clay-2-2025-12-03-2026-02-04-2026-12-02/2027-01-06/",
     "synopsis": "A lecture series and party for smarties.\nHosted by Big Brain\n7pm-8:45pm\nAdvance tickets available at Big Brain SF"
   },
   {

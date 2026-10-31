@@ -113,6 +113,14 @@
   },
   {
     "theater": "Madrone Art Bar",
+    "title": "Big Brain",
+    "startTime": "2026-12-02T18:30:00-08:00",
+    "endTime": "2026-12-02T20:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/jerome-clay-2-2025-12-03-2026-02-04-2026-11-04/2026-12-02/",
+    "synopsis": "A lecture series and party for smarties.\nHosted by Big Brain\n7pm-8:45pm\nAdvance tickets available at Big Brain SF"
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "LIVE MODEL TUESDAY SKETCH",
     "startTime": "2026-12-01T18:30:00-08:00",
     "endTime": "2026-12-01T20:30:00-08:00",
@@ -132,7 +140,7 @@
     "title": "Big Brain",
     "startTime": "2026-12-02T18:30:00-08:00",
     "endTime": "2026-12-02T20:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/jerome-clay-2-2025-12-03-2026-02-04-2026-11-04/2026-12-02/",
+    "sourceUrl": "https://madroneartbar.com/event/jerome-clay-2-2025-12-03-2026-02-04-2026-12-02/2026-12-02/",
     "synopsis": "A lecture series and party for smarties.\nHosted by Big Brain\n7pm-8:45pm\nAdvance tickets available at Big Brain SF"
   },
   {

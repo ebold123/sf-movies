@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-30T18:40:23.710Z",
+  "generatedAt": "2026-10-31T17:48:53.216Z",
   "status": "discrepancies",
   "report": {
     "matched": 3,
@@ -71,46 +71,6 @@
       }
     ],
     "scenefOnly": [
-      {
-        "title": "It's the Great Pumpkin, Charlie Brown",
-        "startTime": "2026-10-30T18:00:00-07:00"
-      },
-      {
-        "title": "Popcorn",
-        "startTime": "2026-10-30T19:30:00-07:00"
-      },
-      {
-        "title": "It's the Great Pumpkin, Charlie Brown",
-        "startTime": "2026-10-31T12:30:00-07:00"
-      },
-      {
-        "title": "The Shining",
-        "startTime": "2026-10-31T13:45:00-07:00"
-      },
-      {
-        "title": "It's the Great Pumpkin, Charlie Brown",
-        "startTime": "2026-10-31T17:00:00-07:00"
-      },
-      {
-        "title": "Labyrinth",
-        "startTime": "2026-10-31T18:15:00-07:00"
-      },
-      {
-        "title": "The Shining",
-        "startTime": "2026-10-31T20:45:00-07:00"
-      },
-      {
-        "title": "The Shining",
-        "startTime": "2026-11-01T12:30:00-08:00"
-      },
-      {
-        "title": "Labyrinth",
-        "startTime": "2026-11-01T19:00:00-08:00"
-      },
-      {
-        "title": "Runa Simi",
-        "startTime": "2026-11-02T19:30:00-08:00"
-      },
       {
         "title": "Chronovisor",
         "startTime": "2026-11-08T12:30:00-08:00"
@@ -206,8 +166,8 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 3,
-      "scenef": 0
+      "ours": 2,
+      "scenef": 8
     }
   }
 }
