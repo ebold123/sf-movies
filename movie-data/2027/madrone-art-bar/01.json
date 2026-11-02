@@ -137,6 +137,22 @@
   },
   {
     "theater": "Madrone Art Bar",
+    "title": "Brazilian Wax",
+    "startTime": "2027-01-07T18:00:00-08:00",
+    "endTime": "2027-01-07T21:00:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/brazilian-wax-2-2026-02-11-2026-07-08-2026-11-05/2027-01-07/",
+    "synopsis": "BRAZILIAN VINYL SESSIONS\nw/ DJ CARIOCA & DJ FLORA\nTropical Grooves and Rare Tracks\n6:00 – 9:00pm"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "Brazilian Disco",
+    "startTime": "2027-01-07T21:30:00-08:00",
+    "endTime": "2027-01-08T01:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/brazilian-disco-7-2026-11-05/2027-01-07/",
+    "synopsis": "Brazilian Disco\nDJ Veesh spinning Vintage Brazilian Disco, Funk, Samba & Soul beats to die for.\nJoin us at Madrone, Let’s Keep it Rio!\nNO COVER\n9:30pm"
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "Max Cowan",
     "startTime": "2027-01-01T04:00:00-08:00",
     "endTime": "2027-01-02T03:59:00-08:00",
@@ -220,7 +236,7 @@
     "title": "Brazilian Wax",
     "startTime": "2027-01-07T18:00:00-08:00",
     "endTime": "2027-01-07T21:00:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/brazilian-wax-2-2026-02-11-2026-07-08-2026-11-05/2027-01-07/",
+    "sourceUrl": "https://madroneartbar.com/event/brazilian-wax-2-2026-02-11-2026-07-08-2026-11-05-2026-12-03/2027-01-07/",
     "synopsis": "BRAZILIAN VINYL SESSIONS\nw/ DJ CARIOCA & DJ FLORA\nTropical Grooves and Rare Tracks\n6:00 – 9:00pm"
   },
   {
@@ -228,7 +244,7 @@
     "title": "Brazilian Disco",
     "startTime": "2027-01-07T21:30:00-08:00",
     "endTime": "2027-01-08T01:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/brazilian-disco-7-2026-11-05/2027-01-07/",
+    "sourceUrl": "https://madroneartbar.com/event/brazilian-disco-7-2026-11-05-2026-12-03/2027-01-07/",
     "synopsis": "Brazilian Disco\nDJ Veesh spinning Vintage Brazilian Disco, Funk, Samba & Soul beats to die for.\nJoin us at Madrone, Let’s Keep it Rio!\nNO COVER\n9:30pm"
   },
   {
