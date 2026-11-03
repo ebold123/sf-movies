@@ -1,6 +1,13 @@
 [
   {
     "theater": "Great American Music Hall",
+    "title": "ELDER",
+    "startTime": "2027-04-20T20:00:00-07:00",
+    "sourceUrl": "https://wl.seetickets.us/event/elder/709965?afflky=GreatAmericanMusicHall",
+    "synopsis": "with Blackwater Holylight"
+  },
+  {
+    "theater": "Great American Music Hall",
     "title": "FAUN",
     "startTime": "2027-04-27T20:30:00-07:00",
     "sourceUrl": "https://wl.seetickets.us/event/faun/707862?afflky=GreatAmericanMusicHall"

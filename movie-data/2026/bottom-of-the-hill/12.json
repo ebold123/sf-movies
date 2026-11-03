@@ -98,6 +98,13 @@
   },
   {
     "theater": "Bottom of the Hill",
+    "title": "The Hooks",
+    "startTime": "2026-12-22T20:30:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261222.html",
+    "synopsis": "with The Greasy Gills, The Ultra Sounds"
+  },
+  {
+    "theater": "Bottom of the Hill",
     "title": "Swingin' Utters",
     "startTime": "2026-12-23T20:30:00-08:00",
     "sourceUrl": "http://www.bottomofthehill.com/20261223.html",
@@ -108,14 +115,14 @@
     "title": "Top Secret Robot Alliance",
     "startTime": "2026-12-26T16:30:00-08:00",
     "sourceUrl": "http://www.bottomofthehill.com/20261226.html",
-    "synopsis": "with Electric Machine Gun Tits, Varona, Luke Sweeney, Henry Thayer, Matt Jaffe, ... and more"
+    "synopsis": "with Buzzed Lightbeer, Electric Machine Gun Tits, Varona, The Ific, Luke Sweeney, Henry Thayer, Matt Jaffe, Ari Vais"
   },
   {
     "theater": "Bottom of the Hill",
-    "title": "Mark Eitzel",
+    "title": "Devoted Fans",
     "startTime": "2026-12-27T16:30:00-08:00",
     "sourceUrl": "http://www.bottomofthehill.com/20261227.html",
-    "synopsis": "with Funeral Cake, Strange Cities, Devoted Fans, Cowboy Beauty Queen, Sunday Artist, ... and more"
+    "synopsis": "with Funeral Cake, Sweetwater Black, Strange Cities, Sunday Artist, Mark Eitzel, Indianna Hale, Cowboy Beauty Queen, ... and more"
   },
   {
     "theater": "Bottom of the Hill",

@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-02T22:22:39.931Z",
+  "generatedAt": "2026-11-03T20:10:15.092Z",
   "status": "discrepancies",
   "report": {
     "matched": 3,
@@ -29,10 +29,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "LIVE MUSIC: Green-House, Cool Maritime (Presented by THROWIN' BO'S)",
-        "startTime": "2026-11-04T20:00:00-08:00"
-      },
       {
         "title": "LIVE MUSIC: School Fair, goldenstar, Poor Image (Presented by THROWIN' BO'S)",
         "startTime": "2026-11-12T20:00:00-08:00"
@@ -166,8 +162,8 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 2,
-      "scenef": 1
+      "ours": 3,
+      "scenef": 0
     }
   }
 }
