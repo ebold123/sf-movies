@@ -45,6 +45,13 @@
   },
   {
     "theater": "The Independent",
+    "title": "The Stinkfoot Orchestra",
+    "startTime": "2027-01-21T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/the-stinkfoot-orchestra/",
+    "synopsis": "with featuring Napoleon Murphy Brock"
+  },
+  {
+    "theater": "The Independent",
     "title": "The Brothers Comatose",
     "startTime": "2027-01-22T21:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/the-brothers-comatose/"
@@ -66,6 +73,13 @@
     "title": "Mollie Elizabeth",
     "startTime": "2027-01-27T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/mollie-elizabeth/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "City of the Sun",
+    "startTime": "2027-01-28T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/city-of-the-sun-2/",
+    "synopsis": "with Valley Wolf"
   },
   {
     "theater": "The Independent",
