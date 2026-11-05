@@ -9,6 +9,7 @@ import { fetchTheIndependentEvents } from "./theIndependent";
 import { fetchLiveNationEvents } from "./livenation";
 import { fetchCarbonhouseEvents } from "./carbonhouse";
 import { fetchSeeTicketsEvents } from "./seetickets";
+import { fetchEnvelopEvents } from "./envelop";
 
 function fetchRawEventsFor(theater: TheaterConfig): Promise<Event[]> {
   switch (theater.source) {
@@ -33,6 +34,8 @@ function fetchRawEventsFor(theater: TheaterConfig): Promise<Event[]> {
       return fetchCarbonhouseEvents(theater.baseUrl, theater.name);
     case "seetickets":
       return fetchSeeTicketsEvents(theater.baseUrl, theater.name);
+    case "envelop":
+      return fetchEnvelopEvents(theater.baseUrl, theater.name);
   }
 }
 
