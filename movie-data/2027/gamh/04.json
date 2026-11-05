@@ -1,6 +1,12 @@
 [
   {
     "theater": "Great American Music Hall",
+    "title": "THAO",
+    "startTime": "2027-04-15T20:00:00-07:00",
+    "sourceUrl": "https://wl.seetickets.us/event/thao/710387?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
     "title": "ELDER",
     "startTime": "2027-04-20T20:00:00-07:00",
     "sourceUrl": "https://wl.seetickets.us/event/elder/709965?afflky=GreatAmericanMusicHall",
