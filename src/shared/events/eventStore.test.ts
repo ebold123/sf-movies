@@ -62,16 +62,55 @@ describe("mergeEvents", () => {
       expect(mergeEvents([madrone], [utc])).toEqual([utc]);
     });
 
-    it("keeps events that differ in start time, title or theater", () => {
+    it("keeps events that differ in start time, title or theater when scraped together", () => {
       const nextWeek: Event = { ...madrone, startTime: "2026-11-17T18:30:00-08:00", sourceUrl: "https://x/1" };
       const otherTitle: Event = { ...madrone, title: "Big Brain", sourceUrl: "https://x/2" };
       const otherVenue: Event = { ...madrone, theater: "The Independent", sourceUrl: "https://x/3" };
-      expect(mergeEvents([madrone], [nextWeek, otherTitle, otherVenue])).toEqual([
+      expect(mergeEvents([], [madrone, nextWeek, otherTitle, otherVenue])).toEqual([
         madrone,
         nextWeek,
         otherTitle,
         otherVenue,
       ]);
+    });
+  });
+
+  describe("when a theater renames an event", () => {
+    const stored: Event = {
+      theater: "Great American Music Hall",
+      title: "PRAYERS",
+      startTime: "2026-11-16T19:30:00-08:00",
+      sourceUrl: "https://wl.seetickets.us/event/prayers/1",
+    };
+    const renamed: Event = {
+      ...stored,
+      title: "*CANCELLED* PRAYERS",
+      sourceUrl: "https://wl.seetickets.us/event/cancelled-prayers/1",
+    };
+
+    it("replaces the stored event at the same theater and start time", () => {
+      expect(mergeEvents([stored], [renamed])).toEqual([renamed]);
+    });
+
+    it("matches the start time as an instant, not as text", () => {
+      const utc: Event = { ...renamed, startTime: "2026-11-17T03:30:00.000Z" };
+      expect(mergeEvents([stored], [utc])).toEqual([utc]);
+    });
+
+    it("keeps same-time events that arrive together in one scrape", () => {
+      const pass: Event = { ...renamed, title: "PRAYERS: Two-Day Pass", sourceUrl: "https://x/pass" };
+      expect(mergeEvents([stored], [renamed, pass])).toEqual([renamed, pass]);
+    });
+
+    it("keeps stored events at the same time when nothing incoming shares it", () => {
+      const pass: Event = { ...stored, title: "PRAYERS: Two-Day Pass", sourceUrl: "https://x/pass" };
+      const other: Event = { ...stored, startTime: "2026-11-20T19:30:00-08:00", sourceUrl: "https://x/other" };
+      expect(mergeEvents([stored, pass], [other])).toEqual([stored, pass, other]);
+    });
+
+    it("does not replace a same-time event at a different theater", () => {
+      const elsewhere: Event = { ...stored, theater: "The Independent", sourceUrl: "https://x/ind" };
+      expect(mergeEvents([elsewhere], [renamed])).toEqual([elsewhere, renamed]);
     });
   });
 });
