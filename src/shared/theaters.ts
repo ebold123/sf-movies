@@ -11,7 +11,8 @@ export interface TheaterConfig {
     | "the-independent"
     | "live-nation"
     | "carbonhouse"
-    | "seetickets";
+    | "seetickets"
+    | "envelop";
   // Required when source is "scenef" — the venue id in SceneF's feed.
   venueId?: string;
   // This fork only scrapes and displays "music" venues (see scrape-music-venues.ts
@@ -123,6 +124,15 @@ export const theaters: Record<string, TheaterConfig> = {
     name: "Great American Music Hall",
     baseUrl: "https://gamh.com",
     source: "seetickets",
+    category: "music",
+  },
+  // Envelop's 32-speaker immersive listening space. Only its DANCE parties and
+  // album LISTEN sessions are listed (see scrapers/envelop.ts).
+  "envelop-sf": {
+    slug: "envelop-sf",
+    name: "Envelop SF",
+    baseUrl: "https://envelop.us",
+    source: "envelop",
     category: "music",
   },
 };
