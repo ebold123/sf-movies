@@ -17,6 +17,22 @@
   },
   {
     "theater": "Madrone Art Bar",
+    "title": "ITALO FRISCO",
+    "startTime": "2027-01-13T21:30:00-08:00",
+    "endTime": "2027-01-14T00:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/italo-frisco-4-2025-12-10-2026-09-09/2027-01-13/",
+    "synopsis": "ITALO FRISCO\n9:30PM NO COVER\nJoin DJ Nino MSK & special guests for ITALO FRISCO, a vinyl-powered fusion of California cool and irresistible Italo Disco & House, every second Wednesday at Madrone Art Bar.\nStep onto the dance floor for a night of retro-fueled, future-forward energy, where West Coast vibes meet the infectious rhythms of Global Disco & House.\nCome be part of the groove—it’s more than music, it’s a movement."
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "SONAMÓ – Italian Funk",
+    "startTime": "2027-01-14T21:30:00-08:00",
+    "endTime": "2027-01-15T00:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/sonamo-italian-funk-16-2026-08-13-2026-12-10/2027-01-14/",
+    "synopsis": "SONAMÓ – Italian Funk is a San Francisco Bay Area band that delivers a dynamic, passionate blend of melodies via hefty doses of funk and acid jazz.\nTo describe the sound of the band: if Sting and Jamiroquai had a lovechild they would name it Sonamó, and it would be eclectic and open-minded- just like the group’s home base…the City by the Bay. $5 / Music at 9:30pm"
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "Max Cowan",
     "startTime": "2027-01-01T04:00:00-08:00",
     "endTime": "2027-01-02T03:59:00-08:00",
@@ -81,11 +97,27 @@
   },
   {
     "theater": "Madrone Art Bar",
+    "title": "Karaoke",
+    "startTime": "2027-01-05T21:30:00-08:00",
+    "endTime": "2027-01-06T00:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/glitter-tears-karaoke-18-2026-02-04-2026-02-04-2026-04-07-2026-04-21/2027-01-05/",
+    "synopsis": "KARAOKE\nWith host Lauren Yellow\nMusic starts at 9:30pm"
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "Big Brain",
     "startTime": "2027-01-06T18:30:00-08:00",
     "endTime": "2027-01-06T20:30:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/jerome-clay-2-2025-12-03-2026-02-04-2026-12-02/2027-01-06/",
     "synopsis": "A lecture series and party for smarties.\nHosted by Big Brain\n7pm-8:45pm\nAdvance tickets available at Big Brain SF"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "MADRONE OPEN DECKS",
+    "startTime": "2027-01-06T21:30:00-08:00",
+    "endTime": "2027-01-07T00:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/madrone-open-decks/2027-01-06/",
+    "synopsis": "9:30pm-12:30am\nMore details to come!"
   },
   {
     "theater": "Madrone Art Bar",
@@ -169,6 +201,14 @@
   },
   {
     "theater": "Madrone Art Bar",
+    "title": "Karaoke",
+    "startTime": "2027-01-12T21:30:00-08:00",
+    "endTime": "2027-01-13T00:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/glitter-tears-karaoke-18-2026-02-04-2026-02-04-2026-04-07-2026-04-21/2027-01-12/",
+    "synopsis": "KARAOKE\nWith host Lauren Yellow\nMusic starts at 9:30pm"
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "Monthly Trivia Night",
     "startTime": "2027-01-13T19:00:00-08:00",
     "endTime": "2027-01-13T21:00:00-08:00",
@@ -177,11 +217,11 @@
   },
   {
     "theater": "Madrone Art Bar",
-    "title": "ITALO FRISCO",
+    "title": "MADRONE OPEN DECKS",
     "startTime": "2027-01-13T21:30:00-08:00",
     "endTime": "2027-01-14T00:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/italo-frisco-4-2025-12-10-2026-09-09/2027-01-13/",
-    "synopsis": "ITALO FRISCO\n9:30PM NO COVER\nJoin DJ Nino MSK & special guests for ITALO FRISCO, a vinyl-powered fusion of California cool and irresistible Italo Disco & House, every second Wednesday at Madrone Art Bar.\nStep onto the dance floor for a night of retro-fueled, future-forward energy, where West Coast vibes meet the infectious rhythms of Global Disco & House.\nCome be part of the groove—it’s more than music, it’s a movement."
+    "sourceUrl": "https://madroneartbar.com/event/madrone-open-decks/2027-01-13/",
+    "synopsis": "9:30pm-12:30am\nMore details to come!"
   },
   {
     "theater": "Madrone Art Bar",
@@ -190,14 +230,6 @@
     "endTime": "2027-01-14T20:30:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/kitten-on-the-keys-7-2025-12-11-2026-07-09/2027-01-14/",
     "synopsis": "Happy Hour Entertainment 6:30-8:30PM with Kitten on The Keys\n\n\nSuzanne Ramsey aka Kitten on the Keys is a Bay Area Native who has toured extensively through the US and Europe. Her songbook is deep and wide. Pianist, accordionist, and singer- she plays a hodge podge\nof styles and eras. Kitschy Cabaret Originals, bawdy blues, unexpected covers, and forgotten gems of yesteryear. Vibrant, vivacious, and super fun. No Cover."
-  },
-  {
-    "theater": "Madrone Art Bar",
-    "title": "SONAMÓ – Italian Funk",
-    "startTime": "2027-01-14T21:30:00-08:00",
-    "endTime": "2027-01-15T00:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/sonamo-italian-funk-16-2026-08-13-2026-12-10/2027-01-14/",
-    "synopsis": "SONAMÓ – Italian Funk is a San Francisco Bay Area band that delivers a dynamic, passionate blend of melodies via hefty doses of funk and acid jazz.\nTo describe the sound of the band: if Sting and Jamiroquai had a lovechild they would name it Sonamó, and it would be eclectic and open-minded- just like the group’s home base…the City by the Bay. $5 / Music at 9:30pm"
   },
   {
     "theater": "Madrone Art Bar",
@@ -273,11 +305,27 @@
   },
   {
     "theater": "Madrone Art Bar",
+    "title": "Karaoke",
+    "startTime": "2027-01-19T21:30:00-08:00",
+    "endTime": "2027-01-20T00:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/glitter-tears-karaoke-18-2026-02-04-2026-02-04-2026-04-07-2026-04-21/2027-01-19/",
+    "synopsis": "KARAOKE\nWith host Lauren Yellow\nMusic starts at 9:30pm"
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "Madrone x SFPL: Blind Book Art Challenge",
     "startTime": "2027-01-20T18:00:00-08:00",
     "endTime": "2027-01-20T20:00:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/madrone-x-sfpl-blind-book-art-challenge-2/",
     "synopsis": "💝 📚 Join Madrone Art Bar and the SF Public Library for an early Valentine’s-themed art event! 🌹🍫\n6-8PM\n📖 Choose a gift-wrapped romance book and create an original artwork inspired by its first paragraph or page, without knowing anything else about the story. Put your imagination, interpretation, and creative instincts to the test as you connect visual art and literature in an unexpected way over drinks and community. 🎨🍷\n🖼️ At the end of the evening, participants will have the opportunity to share their artwork and take their book home. 📚\n🎨 All art supplies provided, though you’re welcome to bring your own favorite materials.\n21+ / 🍕 Outside food welcome!"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "MADRONE OPEN DECKS",
+    "startTime": "2027-01-20T21:30:00-08:00",
+    "endTime": "2027-01-21T00:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/madrone-open-decks/2027-01-20/",
+    "synopsis": "9:30pm-12:30am\nMore details to come!"
   },
   {
     "theater": "Madrone Art Bar",
@@ -342,6 +390,22 @@
     "endTime": "2027-01-26T20:30:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/livemodelsketch-2026-06-23-2026-10-06-2026-11-03/2027-01-26/",
     "synopsis": "LIVE MODEL TUESDAY SKETCH\nhosted by Sketchboard Co.\n$15 fee to draw the model\nEvery Tuesday 6:30 to 8:30 PM\nwith live music by Twango\nBring your own materials\nNo Photos Please Respect the Models"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "Karaoke",
+    "startTime": "2027-01-26T21:30:00-08:00",
+    "endTime": "2027-01-27T00:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/glitter-tears-karaoke-18-2026-02-04-2026-02-04-2026-04-07-2026-04-21/2027-01-26/",
+    "synopsis": "KARAOKE\nWith host Lauren Yellow\nMusic starts at 9:30pm"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "MADRONE OPEN DECKS",
+    "startTime": "2027-01-27T21:30:00-08:00",
+    "endTime": "2027-01-28T00:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/madrone-open-decks/2027-01-27/",
+    "synopsis": "9:30pm-12:30am\nMore details to come!"
   },
   {
     "theater": "Madrone Art Bar",

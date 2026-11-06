@@ -91,10 +91,17 @@
   },
   {
     "theater": "Bottom of the Hill",
+    "title": "Just Friends",
+    "startTime": "2026-12-20T19:30:00-08:00",
+    "sourceUrl": "http://www.bottomofthehill.com/20261220.html",
+    "synopsis": "with Carpool Tunnel, Bones Shredder"
+  },
+  {
+    "theater": "Bottom of the Hill",
     "title": "Voodoo Dolly",
     "startTime": "2026-12-21T20:00:00-08:00",
     "sourceUrl": "http://www.bottomofthehill.com/20261221.html",
-    "synopsis": "with The Reptile House, Debased"
+    "synopsis": "with Cult Strange, Debased"
   },
   {
     "theater": "Bottom of the Hill",

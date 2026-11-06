@@ -1,11 +1,19 @@
 [
   {
     "theater": "Madrone Art Bar",
-    "title": "Local/Global with DJmaDRE and friends",
-    "startTime": "2026-12-02T21:30:00-08:00",
-    "endTime": "2026-12-03T01:00:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/local-global-with-djmadre-and-friends-2026-12-02-2/",
-    "synopsis": "9:30pm to 1am\nNO COVER\nAn all-female crew of professional DJs who play music from the Bay Area (hip-hop/funk/soul) and global sounds (afrobeats, reggaeton, dancehall, Arab and Indian, Asian beats).\nLocal/Global with @djmadresf and friends"
+    "title": "ITALO FRISCO",
+    "startTime": "2026-12-09T21:30:00-08:00",
+    "endTime": "2026-12-10T00:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/italo-frisco-4-2025-12-10-2026-09-09-2026-11-11/2026-12-09/",
+    "synopsis": "ITALO FRISCO\n9:30PM NO COVER\nJoin DJ Nino MSK & special guests for ITALO FRISCO, a vinyl-powered fusion of California cool and irresistible Italo Disco & House, every second Wednesday at Madrone Art Bar.\nStep onto the dance floor for a night of retro-fueled, future-forward energy, where West Coast vibes meet the infectious rhythms of Global Disco & House.\nCome be part of the groove—it’s more than music, it’s a movement."
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "SONAMÓ – Italian Funk",
+    "startTime": "2026-12-10T21:30:00-08:00",
+    "endTime": "2026-12-11T00:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/sonamo-italian-funk-16-2026-08-13-2026-12-10/",
+    "synopsis": "SONAMÓ – Italian Funk is a San Francisco Bay Area band that delivers a dynamic, passionate blend of melodies via hefty doses of funk and acid jazz.\nTo describe the sound of the band: if Sting and Jamiroquai had a lovechild they would name it Sonamó, and it would be eclectic and open-minded- just like the group’s home base…the City by the Bay. $5 / Music at 9:30pm"
   },
   {
     "theater": "Madrone Art Bar",
@@ -30,6 +38,14 @@
     "endTime": "2026-12-02T20:30:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/jerome-clay-2-2025-12-03-2026-02-04-2026-12-02/2026-12-02/",
     "synopsis": "A lecture series and party for smarties.\nHosted by Big Brain\n7pm-8:45pm\nAdvance tickets available at Big Brain SF"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "Local/Global with DJmaDRE and friends",
+    "startTime": "2026-12-02T21:30:00-08:00",
+    "endTime": "2026-12-03T01:00:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/local-global-with-djmadre-and-friends-2026-12-02-2/",
+    "synopsis": "9:30pm to 1am\nNO COVER\nAn all-female crew of professional DJs who play music from the Bay Area (hip-hop/funk/soul) and global sounds (afrobeats, reggaeton, dancehall, Arab and Indian, Asian beats).\nLocal/Global with @djmadresf and friends"
   },
   {
     "theater": "Madrone Art Bar",
@@ -137,27 +153,11 @@
   },
   {
     "theater": "Madrone Art Bar",
-    "title": "ITALO FRISCO",
-    "startTime": "2026-12-09T21:30:00-08:00",
-    "endTime": "2026-12-10T00:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/italo-frisco-4-2025-12-10-2026-09-09/2026-12-09/",
-    "synopsis": "ITALO FRISCO\n9:30PM NO COVER\nJoin DJ Nino MSK & special guests for ITALO FRISCO, a vinyl-powered fusion of California cool and irresistible Italo Disco & House, every second Wednesday at Madrone Art Bar.\nStep onto the dance floor for a night of retro-fueled, future-forward energy, where West Coast vibes meet the infectious rhythms of Global Disco & House.\nCome be part of the groove—it’s more than music, it’s a movement."
-  },
-  {
-    "theater": "Madrone Art Bar",
     "title": "Kitten on The Keys",
     "startTime": "2026-12-10T18:30:00-08:00",
     "endTime": "2026-12-10T20:30:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/kitten-on-the-keys-7-2025-12-11-2026-07-09/2026-12-10/",
     "synopsis": "Happy Hour Entertainment 6:30-8:30PM with Kitten on The Keys\n\n\nSuzanne Ramsey aka Kitten on the Keys is a Bay Area Native who has toured extensively through the US and Europe. Her songbook is deep and wide. Pianist, accordionist, and singer- she plays a hodge podge\nof styles and eras. Kitschy Cabaret Originals, bawdy blues, unexpected covers, and forgotten gems of yesteryear. Vibrant, vivacious, and super fun. No Cover."
-  },
-  {
-    "theater": "Madrone Art Bar",
-    "title": "SONAMÓ – Italian Funk",
-    "startTime": "2026-12-10T21:30:00-08:00",
-    "endTime": "2026-12-11T00:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/sonamo-italian-funk-16-2026-08-13-2026-12-10/2026-12-10/",
-    "synopsis": "SONAMÓ – Italian Funk is a San Francisco Bay Area band that delivers a dynamic, passionate blend of melodies via hefty doses of funk and acid jazz.\nTo describe the sound of the band: if Sting and Jamiroquai had a lovechild they would name it Sonamó, and it would be eclectic and open-minded- just like the group’s home base…the City by the Bay. $5 / Music at 9:30pm"
   },
   {
     "theater": "Madrone Art Bar",
@@ -382,5 +382,21 @@
     "endTime": "2026-12-30T00:30:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/glitter-tears-karaoke-18-2026-02-04-2026-02-04-2026-04-07-2026-04-21/2026-12-29/",
     "synopsis": "KARAOKE\nWith host Lauren Yellow\nMusic starts at 9:30pm"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "Madrone Presents Fillmore Sessions",
+    "startTime": "2026-12-30T18:30:00-08:00",
+    "endTime": "2026-12-30T20:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/madrone-presents-fillmore-sessions-4/",
+    "synopsis": "Madrone’s owner, Spike Krouse, hits the decks for a deep dive into the soul of Fillmore jazz 🎶\n6:00–9:00 PM\nExpect a rich blend of legendary cuts and hidden gems as he spins selections from the iconic Oscar Myers & The Fillmore Collection — from heavy hitters to rare, lesser-known bangers."
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "NEW YEAR’S EVE",
+    "startTime": "2026-12-31T21:00:00-08:00",
+    "endTime": "2027-01-01T02:00:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/new-years-eve/",
+    "synopsis": "NEW YEAR’S EVE\nLet’s Go Disco at Madrone Art Bar in San Francisco!\nWe are ringing in the new year with an extra special Let’s Go Disco party at Madrone.\nCountdown. Party Favors. Dance. Say goodbye to 2026 under the disco bomb!\nHouse – Disco – Underground – all night long\nLimited presale tickets. Early arrival recommended. Be yourself. Dress to dance.\nDoors @ 8pm $20 presale $25 at the door\nMotel Club presents\nLet’s Go Disco NYE 2026\nDec 31, supported by Local 500\nMadrone, San Francisco"
   }
 ]

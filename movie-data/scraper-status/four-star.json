@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-05T20:42:51.722Z",
+  "generatedAt": "2026-11-06T19:59:29.489Z",
   "status": "discrepancies",
   "report": {
     "matched": 3,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-11-05T20:00:00-08:00",
-        "ourTitle": "LIVE MUSIC: Good Friends, The Lowtimers, Red McAdam",
-        "scenefTitle": "LIVE MUSIC: Good Friends, The Lowtimers & more"
-      },
       {
         "startTime": "2026-11-13T19:30:00-08:00",
         "ourTitle": "NEIL YOUNG CELEBRATION: Live Music Tribute & Screening of Rust Never Sleeps",
@@ -65,6 +60,10 @@
       {
         "title": "LIVE MUSIC: Angela Autumn (Presented by THROWIN' BO'S)",
         "startTime": "2027-01-24T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: BB Wisely (Presented by THROWIN' BO'S)",
+        "startTime": "2027-01-27T20:00:00-08:00"
       }
     ],
     "scenefOnly": [
