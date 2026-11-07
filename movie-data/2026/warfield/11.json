@@ -13,6 +13,12 @@
   },
   {
     "theater": "The Warfield",
+    "title": "HENRY",
+    "startTime": "2026-11-09T20:00:00-08:00",
+    "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1496362"
+  },
+  {
+    "theater": "The Warfield",
     "title": "KINO",
     "startTime": "2026-11-13T20:00:00-08:00",
     "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1394481"
