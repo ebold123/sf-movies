@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-08T18:24:14.061Z",
+  "generatedAt": "2026-11-09T23:02:26.923Z",
   "status": "discrepancies",
   "report": {
-    "matched": 2,
+    "matched": 1,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -29,10 +29,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "LIVE MUSIC: School Fair, goldenstar, Poor Image (Presented by THROWIN' BO'S)",
-        "startTime": "2026-11-12T20:00:00-08:00"
-      },
       {
         "title": "LIVE MUSIC: Computerwife, Double Helix Peace Treaty (Presented by THROWIN' BO'S)",
         "startTime": "2026-11-19T20:00:00-08:00"
@@ -67,14 +63,6 @@
       }
     ],
     "scenefOnly": [
-      {
-        "title": "Chronovisor",
-        "startTime": "2026-11-08T12:30:00-08:00"
-      },
-      {
-        "title": "Chronovisor",
-        "startTime": "2026-11-08T15:00:00-08:00"
-      },
       {
         "title": "Electric Dreams",
         "startTime": "2026-11-18T19:30:00-08:00"
@@ -162,7 +150,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 1,
+      "ours": 2,
       "scenef": 0
     }
   }

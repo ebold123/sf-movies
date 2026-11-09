@@ -79,8 +79,20 @@
   },
   {
     "theater": "Envelop SF",
+    "title": "Charli XCX - Brat : DANCE",
+    "startTime": "2026-11-27T14:30:00-08:00",
+    "sourceUrl": "https://envelop.us/event/ESF20261127-charli-xcx-brat-dance"
+  },
+  {
+    "theater": "Envelop SF",
     "title": "Kaytranada - 99.9% : DANCE",
     "startTime": "2026-11-28T14:30:00-08:00",
     "sourceUrl": "https://envelop.us/event/ESF20261128-kaytranada-99.9-dance"
+  },
+  {
+    "theater": "Envelop SF",
+    "title": "Ravi Shankar - Chants of India : LISTEN",
+    "startTime": "2026-11-29T14:30:00-08:00",
+    "sourceUrl": "https://envelop.us/event/ESF20261129-ravi-shankar-chants-of-india-listen"
   }
 ]

@@ -1,6 +1,30 @@
 [
   {
     "theater": "Madrone Art Bar",
+    "title": "NU NOIZE",
+    "startTime": "2026-12-04T21:30:00-08:00",
+    "endTime": "2026-12-05T01:00:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/nu-noize-2026-12-04/",
+    "synopsis": "NU NOIZE\nA dance party.\ncome early. leave sweaty.\nwith DJs Mackswell & Knowpa.\n\n\n$10 cover at 9:30pm / 21 up w/ID\nGuarantee your spot!"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "Pop Life",
+    "startTime": "2026-12-05T21:00:00-08:00",
+    "endTime": "2026-12-06T01:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/pop-life-2026-12-05/",
+    "synopsis": "Have fun with your friends at POP LIFE – the music video party. Every first Saturday of the month!\nDisco, Soul, Top 40 Pop Hits, Party Anthems, Hip-Hop, One Hit Wonders, Guilty Pleasures, and more\n$10 at the door / 9pm-1:45am / 21+ / no dress code, dress how ya like!\nGuarantee your spot!"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "ITALO FRISCO",
+    "startTime": "2026-12-09T21:30:00-08:00",
+    "endTime": "2026-12-10T00:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/italo-frisco-4-2025-12-10-2026-09-09-2026-11-11-2026-12-09/2026-12-09/",
+    "synopsis": "ITALO FRISCO\n9:30PM NO COVER\nJoin DJ Nino MSK & special guests for ITALO FRISCO, a vinyl-powered fusion of California cool and irresistible Italo Disco & House, every second Wednesday at Madrone Art Bar.\nStep onto the dance floor for a night of retro-fueled, future-forward energy, where West Coast vibes meet the infectious rhythms of Global Disco & House.\nCome be part of the groove—it’s more than music, it’s a movement."
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "LIVE MODEL TUESDAY SKETCH",
     "startTime": "2026-12-01T18:30:00-08:00",
     "endTime": "2026-12-01T20:30:00-08:00",
@@ -57,19 +81,11 @@
   },
   {
     "theater": "Madrone Art Bar",
-    "title": "NU NOIZE",
-    "startTime": "2026-12-04T21:30:00-08:00",
-    "endTime": "2026-12-05T01:00:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/nu-noize-2026-12-04/2026-12-04/",
-    "synopsis": "NU NOIZE\nA dance party.\ncome early. leave sweaty.\nwith DJs Mackswell & Knowpa.\n\n\n$10 cover at 9:30pm / 21 up w/ID\nGuarantee your spot!"
-  },
-  {
-    "theater": "Madrone Art Bar",
-    "title": "Madrone Holiday Market",
+    "title": "🎄Madrone Holiday Market 🛍️",
     "startTime": "2026-12-05T10:00:00-08:00",
     "endTime": "2026-12-05T15:00:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/madrone-holiday-market/",
-    "synopsis": "Kick off the holidays by stopping by our Holiday Market! More details to come!\n10am-3pm"
+    "synopsis": "On Saturday, December 5th, from 10am to 3pm, we are taking over the bar and the parklet for our festive Madrone Holiday Market!\nWe’re packing the space with incredible local makers and artisans so you can get your holiday shopping done while supporting small businesses.\n🎉 The Lineup:\n• 🛍️ Makers & Artisans: Unique handmade gifts both inside the bar and outside in the parklet.\n• 🥞 Food Pop-up: Delicious eats by Half Baked Hapa.\n• 🥂 At the Bar: We’re shaking up some special brunch cocktails.\n🎟️ Free Entry // Minors are welcome out on the sidewalk, but you must be 21+ to enter the bar!"
   },
   {
     "theater": "Madrone Art Bar",
@@ -78,14 +94,6 @@
     "endTime": "2026-12-05T19:00:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/madrone-x-gamescape-monthly-game-night-2026-12-05/",
     "synopsis": "Join us for our monthly Game Night with Gamescape! 🎲♟️\nCome solo or bring friends and choose from a mix of party games, strategy games, chess, puzzles, and more. The Gamescape crew will be on hand to help you find a game and get started.\nFree, 21+, and outside food is welcome!\n1st Saturdays of the month // 4–7 PM at Madrone Art Bar"
-  },
-  {
-    "theater": "Madrone Art Bar",
-    "title": "Pop Life",
-    "startTime": "2026-12-05T21:00:00-08:00",
-    "endTime": "2026-12-06T01:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/pop-life-2026-12-05/2026-12-05/",
-    "synopsis": "Have fun with your friends at POP LIFE – the music video party. Every first Saturday of the month!\nDisco, Soul, Top 40 Pop Hits, Party Anthems, Hip-Hop, One Hit Wonders, Guilty Pleasures, and more\n$10 at the door / 9pm-1:45am / 21+ / no dress code, dress how ya like!"
   },
   {
     "theater": "Madrone Art Bar",
@@ -134,14 +142,6 @@
     "endTime": "2026-12-09T21:00:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/monthly-trivia-night-2026-12-09/2026-12-09/",
     "synopsis": "7-9PM, Free\nThe 2nd Wednesday of every month. Join us for a new monthly trivia night @ Madrone!"
-  },
-  {
-    "theater": "Madrone Art Bar",
-    "title": "ITALO FRISCO",
-    "startTime": "2026-12-09T21:30:00-08:00",
-    "endTime": "2026-12-10T00:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/italo-frisco-4-2025-12-10-2026-09-09-2026-11-11/2026-12-09/",
-    "synopsis": "ITALO FRISCO\n9:30PM NO COVER\nJoin DJ Nino MSK & special guests for ITALO FRISCO, a vinyl-powered fusion of California cool and irresistible Italo Disco & House, every second Wednesday at Madrone Art Bar.\nStep onto the dance floor for a night of retro-fueled, future-forward energy, where West Coast vibes meet the infectious rhythms of Global Disco & House.\nCome be part of the groove—it’s more than music, it’s a movement."
   },
   {
     "theater": "Madrone Art Bar",

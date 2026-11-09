@@ -1,19 +1,27 @@
 [
   {
     "theater": "Madrone Art Bar",
+    "title": "Pop Life",
+    "startTime": "2027-05-01T21:00:00-07:00",
+    "endTime": "2027-05-02T01:30:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/pop-life-2027-01-02/2027-05-01/",
+    "synopsis": "Have fun with your friends at POP LIFE – the music video party. Every first Saturday of the month!\nDisco, Soul, Top 40 Pop Hits, Party Anthems, Hip-Hop, One Hit Wonders, Guilty Pleasures, and more\n$10 at the door / 9pm-1:45am / 21+ / no dress code, dress how ya like!"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "NU NOIZE",
+    "startTime": "2027-05-07T21:30:00-07:00",
+    "endTime": "2027-05-08T01:00:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/nu-noize-2027-01-01/2027-05-07/",
+    "synopsis": "NU NOIZE\nA dance party.\ncome early. leave sweaty.\nwith DJs Mackswell & Knowpa.\n\n\n$10 cover at 9:30pm / 21 up w/ID\nGuarantee your spot!"
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "Madrone x Gamescape: Monthly Game Night",
     "startTime": "2027-05-01T16:00:00-07:00",
     "endTime": "2027-05-01T19:00:00-07:00",
     "sourceUrl": "https://madroneartbar.com/event/madrone-x-gamescape-monthly-game-night-2026-11-07-2027-01-02/2027-05-01/",
     "synopsis": "Join us for our monthly Game Night with Gamescape! 🎲♟️\nCome solo or bring friends and choose from a mix of party games, strategy games, chess, puzzles, and more. The Gamescape crew will be on hand to help you find a game and get started.\nFree, 21+, and outside food is welcome!\n1st Saturdays of the month // 4–7 PM at Madrone Art Bar"
-  },
-  {
-    "theater": "Madrone Art Bar",
-    "title": "Pop Life",
-    "startTime": "2027-05-01T21:00:00-07:00",
-    "endTime": "2027-05-02T01:30:00-07:00",
-    "sourceUrl": "https://madroneartbar.com/event/pop-life-2026-12-05/2027-05-01/",
-    "synopsis": "Have fun with your friends at POP LIFE – the music video party. Every first Saturday of the month!\nDisco, Soul, Top 40 Pop Hits, Party Anthems, Hip-Hop, One Hit Wonders, Guilty Pleasures, and more\n$10 at the door / 9pm-1:45am / 21+ / no dress code, dress how ya like!"
   },
   {
     "theater": "Madrone Art Bar",
@@ -81,14 +89,6 @@
   },
   {
     "theater": "Madrone Art Bar",
-    "title": "NU NOIZE",
-    "startTime": "2027-05-07T21:30:00-07:00",
-    "endTime": "2027-05-08T01:00:00-07:00",
-    "sourceUrl": "https://madroneartbar.com/event/nu-noize-2026-12-04/2027-05-07/",
-    "synopsis": "NU NOIZE\nA dance party.\ncome early. leave sweaty.\nwith DJs Mackswell & Knowpa.\n\n\n$10 cover at 9:30pm / 21 up w/ID\nGuarantee your spot!"
-  },
-  {
-    "theater": "Madrone Art Bar",
     "title": "STRAIGHTEN IT OUT",
     "startTime": "2027-05-08T04:00:00-07:00",
     "endTime": "2027-05-09T03:59:00-07:00",
@@ -102,5 +102,21 @@
     "endTime": "2027-05-08T21:00:00-07:00",
     "sourceUrl": "https://madroneartbar.com/event/heavy-sounds-2025-12-13/2027-05-08/",
     "synopsis": "DJ KeyBumps playin’ what the kids need to hear. Spinning all vinyl: Rare Blues, Soul and Rock ‘n Roll.HAPPY HOUR 4 – 7pm ENTERTAINMENT from 7 – 9pm"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "SPIKE&#8217;S OPEN MIC",
+    "startTime": "2027-05-09T17:00:00-07:00",
+    "endTime": "2027-05-09T20:00:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/spikes-open-mic-2022-02-13-2022-03-13-2023-01-08-2025-12-14-2026-08-09/2027-05-09/",
+    "synopsis": "SPIKE’S OPEN MIC. San Francisco’s local music open mic afternoon! Each afternoon we welcome in local talent for an opportunity to shine. 5-8pm / Hosted by Carla Tutu."
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "SUNDAY B3 SESSIONS",
+    "startTime": "2027-05-09T21:00:00-07:00",
+    "endTime": "2027-05-09T21:00:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/spikes-open-mic-sunday-b3-sessions-2025-11-23/2027-05-09/",
+    "synopsis": "Sunday B3 Sessions Hosted by Adam Shulman and Mike Olmos\nSwinging soul jazz with a jam session to follow\n9pm-Close\n \nNo Cover"
   }
 ]
