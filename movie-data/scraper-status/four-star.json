@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-09T23:02:26.923Z",
+  "generatedAt": "2026-11-10T20:30:14.021Z",
   "status": "discrepancies",
   "report": {
     "matched": 1,
@@ -26,6 +26,11 @@
         "startTime": "2026-12-06T20:00:00-08:00",
         "ourTitle": "LIVE MUSIC: Stephen Steinbrink (Record Release), April Magazine, ersa",
         "scenefTitle": "MUSIC: Stephen Steinbrink, April Magazine, ersa"
+      },
+      {
+        "startTime": "2026-12-18T20:00:00-08:00",
+        "ourTitle": "LIVE MUSIC: Country Risquè, Samantha Henson, Sam Hirst",
+        "scenefTitle": "LIVE MUSIC: Country Risque, Samantha Henson & more"
       }
     ],
     "oursOnly": [
@@ -56,6 +61,10 @@
       {
         "title": "LIVE MUSIC: Angela Autumn (Presented by THROWIN' BO'S)",
         "startTime": "2027-01-24T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: Morgan Garrett, Lucy Liyou (Presented by THROWIN' BO'S)",
+        "startTime": "2027-01-26T20:00:00-08:00"
       },
       {
         "title": "LIVE MUSIC: BB Wisely (Presented by THROWIN' BO'S)",

@@ -26,6 +26,12 @@
   },
   {
     "theater": "Great American Music Hall",
+    "title": "Ciaran",
+    "startTime": "2027-02-17T21:00:00-08:00",
+    "sourceUrl": "https://wl.seetickets.us/event/ciaran/710110?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
     "title": "Jess Williamson",
     "startTime": "2027-02-18T20:00:00-08:00",
     "sourceUrl": "https://wl.seetickets.us/event/jess-williamson/707156?afflky=GreatAmericanMusicHall",

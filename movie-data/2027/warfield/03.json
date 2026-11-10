@@ -1,6 +1,13 @@
 [
   {
     "theater": "The Warfield",
+    "title": "Melvin Seals & JGB",
+    "startTime": "2027-03-06T20:00:00-08:00",
+    "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1664449",
+    "synopsis": "with Skeleton Crewe (Rob Barraco, Barry Sless, Stephen Inglis, Pete Sears, Jay Lane) and Special Guests"
+  },
+  {
+    "theater": "The Warfield",
     "title": "Foil Arms and Hog",
     "startTime": "2027-03-13T19:30:00-08:00",
     "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1633750"
