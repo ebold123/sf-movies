@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-10T20:30:14.021Z",
+  "generatedAt": "2026-11-11T20:15:16.255Z",
   "status": "discrepancies",
   "report": {
     "matched": 1,
@@ -16,6 +16,11 @@
         "startTime": "2026-11-15T20:00:00-08:00",
         "ourTitle": "LIVE MUSIC: Todd Day Wait, Mac Cornish, Josiah Flores",
         "scenefTitle": "LIVE MUSIC: Todd Day Wait, Mac Cornish & more"
+      },
+      {
+        "startTime": "2026-12-02T19:30:00-08:00",
+        "ourTitle": "LIVE MUSIC: Vince Guaraldi's A Charlie Brown Christmas (performed by Spencer Zahn, Zach Tenorio & Aaron Steele)",
+        "scenefTitle": "MUSIC: Charlie Brown Xmas (Spencer Zahn & more)"
       },
       {
         "startTime": "2026-12-04T20:00:00-08:00",
@@ -143,10 +148,6 @@
       {
         "title": "Begotten",
         "startTime": "2026-11-29T20:00:00-08:00"
-      },
-      {
-        "title": "The Chinese Feast",
-        "startTime": "2026-12-02T19:30:00-08:00"
       },
       {
         "title": "Dazed and Confused",

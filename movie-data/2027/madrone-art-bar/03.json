@@ -33,6 +33,14 @@
   },
   {
     "theater": "Madrone Art Bar",
+    "title": "Josh Gelfand",
+    "startTime": "2027-03-12T04:00:00-08:00",
+    "endTime": "2027-03-13T03:59:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/josh-gelfand-26/2027-03-12/",
+    "synopsis": "6:30pm-8:30pm Josh Gelfand on Piano\nPlaying all the songs from your one friend’s favorite playlist, and some of the ones from yours."
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "Motown on Mondays",
     "startTime": "2027-03-01T19:00:00-08:00",
     "endTime": "2027-03-02T01:30:00-08:00",
@@ -174,14 +182,6 @@
     "endTime": "2027-03-12T00:30:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/2-step-thursday-with-veotis-2-2026-09-10-2027-01-14/2027-03-11/",
     "synopsis": "2-Step THURSDAY with VEOTIS\nSoul, Jazz, and Funk\nLive Music starts at 9:30pm\nNo Cover"
-  },
-  {
-    "theater": "Madrone Art Bar",
-    "title": "Josh Gelfand",
-    "startTime": "2027-03-12T04:00:00-08:00",
-    "endTime": "2027-03-13T03:59:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/kitten-on-the-keys-3-2021-11-11-2022-12-08-2025-12-12/2027-03-12/",
-    "synopsis": "6:30pm-8:30pm Josh Gelfand on Piano\nPlaying all the songs from your one friend’s favorite playlist, and some of the ones from yours."
   },
   {
     "theater": "Madrone Art Bar",

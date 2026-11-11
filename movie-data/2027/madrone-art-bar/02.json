@@ -25,6 +25,14 @@
   },
   {
     "theater": "Madrone Art Bar",
+    "title": "Josh Gelfand",
+    "startTime": "2027-02-12T04:00:00-08:00",
+    "endTime": "2027-02-13T03:59:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/josh-gelfand-26/2027-02-12/",
+    "synopsis": "6:30pm-8:30pm Josh Gelfand on Piano\nPlaying all the songs from your one friend’s favorite playlist, and some of the ones from yours."
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "Motown on Mondays",
     "startTime": "2027-02-01T19:00:00-08:00",
     "endTime": "2027-02-02T01:30:00-08:00",
@@ -174,14 +182,6 @@
     "endTime": "2027-02-12T00:30:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/sonamo-italian-funk-16-2026-08-13-2027-01-14/2027-02-11/",
     "synopsis": "SONAMÓ – Italian Funk is a San Francisco Bay Area band that delivers a dynamic, passionate blend of melodies via hefty doses of funk and acid jazz.\nTo describe the sound of the band: if Sting and Jamiroquai had a lovechild they would name it Sonamó, and it would be eclectic and open-minded- just like the group’s home base…the City by the Bay. $5 / Music at 9:30pm"
-  },
-  {
-    "theater": "Madrone Art Bar",
-    "title": "Josh Gelfand",
-    "startTime": "2027-02-12T04:00:00-08:00",
-    "endTime": "2027-02-13T03:59:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/kitten-on-the-keys-3-2021-11-11-2022-12-08-2025-12-12/2027-02-12/",
-    "synopsis": "6:30pm-8:30pm Josh Gelfand on Piano\nPlaying all the songs from your one friend’s favorite playlist, and some of the ones from yours."
   },
   {
     "theater": "Madrone Art Bar",
