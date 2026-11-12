@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-11T20:15:16.255Z",
+  "generatedAt": "2026-11-12T20:55:02.688Z",
   "status": "discrepancies",
   "report": {
     "matched": 1,
@@ -68,6 +68,10 @@
         "startTime": "2027-01-24T20:00:00-08:00"
       },
       {
+        "title": "LIVE MUSIC: John Roseboro (Presented by THROWIN' BO'S)",
+        "startTime": "2027-01-25T20:00:00-08:00"
+      },
+      {
         "title": "LIVE MUSIC: Morgan Garrett, Lucy Liyou (Presented by THROWIN' BO'S)",
         "startTime": "2027-01-26T20:00:00-08:00"
       },
@@ -77,6 +81,10 @@
       }
     ],
     "scenefOnly": [
+      {
+        "title": "Runa Simi",
+        "startTime": "2026-11-15T14:30:00-08:00"
+      },
       {
         "title": "Electric Dreams",
         "startTime": "2026-11-18T19:30:00-08:00"
@@ -148,6 +156,10 @@
       {
         "title": "Begotten",
         "startTime": "2026-11-29T20:00:00-08:00"
+      },
+      {
+        "title": "Castration Movie ⅗ Year of the Hyaena",
+        "startTime": "2026-12-05T18:30:00-08:00"
       },
       {
         "title": "Dazed and Confused",
