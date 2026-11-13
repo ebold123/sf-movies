@@ -177,14 +177,6 @@
   },
   {
     "theater": "Madrone Art Bar",
-    "title": "WeWorkHere",
-    "startTime": "2026-11-19T21:00:00-08:00",
-    "endTime": "2026-11-19T23:30:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/weworkhere-17-2026-04-16-2026-11-19/",
-    "synopsis": "Local500 Presents:\nWeWorkHere\nYou’ve seen them behind the bar but tonight, they are mixing more than just cocktails. Madrone’s very own bar staff Dave, Noah, Rene and other locals are DJing a combination of HOUSE, TECHNO, and CLUB music. No Cover 9:00pm."
-  },
-  {
-    "theater": "Madrone Art Bar",
     "title": "Thick &#038; Tired (A Drag Show)",
     "startTime": "2026-11-22T18:00:00-08:00",
     "endTime": "2026-11-22T20:00:00-08:00",
@@ -326,6 +318,14 @@
     "endTime": "2026-11-19T21:00:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/usf-law-school-fundraiser/",
     "synopsis": "6-9PM\nPurchase tickets here\n\n\nA Piliprimx-themed Bar Night Fundraiser with Pride Law, the Latinx Law Student Association (LLSA), and Pilipinx American Law Society (PALS)\n\n\n\n\nPride Law, the Latinx Law Student Association (LLSA), and Pilipinx American Law Society (PALS) are excited to bring you the first-ever Piliprimx-themed Bar Night Fundraiser! We look forward to closing out the semester by celebrating the beauty of the intersectionality our communities share! There will be good music, cultural visuals, goodie bags, and a ticketed giveaway! This event is open to students, attorneys, and even community members! Our beloved SBA 1L Representative Hector Jimenez, also known by their drag name Xochitl, will host and perform that night!\nThe event will include giveaways! We’ll select winners from all ticket entries. Prize categories include: Tattoo, Electronics, Self-care kit, Finals prep, Coffee essentials"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "WeWorkHere",
+    "startTime": "2026-11-19T21:00:00-08:00",
+    "endTime": "2026-11-19T23:30:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/weworkhere-17-2026-04-16-2026-11-19/",
+    "synopsis": "Local500 Presents:\nWeWorkHere\nYou’ve seen them behind the bar but tonight, they are mixing more than just cocktails. Madrone’s very own bar staff Dave, Noah, Rene and other locals are DJing a combination of HOUSE, TECHNO, and CLUB music. No Cover 9:00pm."
   },
   {
     "theater": "Madrone Art Bar",

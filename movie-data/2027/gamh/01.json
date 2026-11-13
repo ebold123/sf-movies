@@ -39,8 +39,63 @@
   },
   {
     "theater": "Great American Music Hall",
+    "title": "Thomas Lennon & Friends Sing The Smiths",
+    "startTime": "2027-01-17T20:00:00-08:00",
+    "sourceUrl": "https://wl.seetickets.us/event/thomas-lennon-and-friends-sing-the-smiths/710737?afflky=GreatAmericanMusicHall",
+    "synopsis": "with The Sweet and Tender Hooligans"
+  },
+  {
+    "theater": "Great American Music Hall",
     "title": "True Widow",
     "startTime": "2027-01-19T20:00:00-08:00",
     "sourceUrl": "https://wl.seetickets.us/event/true-widow/707017?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
+    "title": "EARLY SHOW - Ask A Fuckboy",
+    "startTime": "2027-01-22T19:00:00-08:00",
+    "sourceUrl": "https://wl.seetickets.us/event/early-show-ask-a-fuckboy/710921?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
+    "title": "LATE SHOW - Ask A Fuckboy",
+    "startTime": "2027-01-22T21:30:00-08:00",
+    "sourceUrl": "https://wl.seetickets.us/event/late-show-ask-a-fuckboy/710923?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
+    "title": "\"After Hours\" Live Read with Live Music",
+    "startTime": "2027-01-23T21:00:00-08:00",
+    "sourceUrl": "https://wl.seetickets.us/event/after-hours-live-read-with-live-music/710926?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
+    "title": "Edinburgh Spotlight: Demi Adejuyigbe Sells Out",
+    "startTime": "2027-01-28T19:00:00-08:00",
+    "sourceUrl": "https://wl.seetickets.us/event/edinburgh-spotlight-demi-adejuyigbe-sells-out/710929?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
+    "title": "Early Show: Joel Kim Booster & Friends",
+    "startTime": "2027-01-29T19:00:00-08:00",
+    "sourceUrl": "https://wl.seetickets.us/event/early-show-joel-kim-booster-and-friends/711069?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
+    "title": "Late Show: Joel Kim Booster & Friends",
+    "startTime": "2027-01-29T21:30:00-08:00",
+    "sourceUrl": "https://wl.seetickets.us/event/late-show-joel-kim-booster-and-friends/711068?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
+    "title": "The Red Room Orchestra - Music from the works of David Lynch",
+    "startTime": "2027-01-30T21:00:00-08:00",
+    "sourceUrl": "https://wl.seetickets.us/event/the-red-room-orchestra-music-from-the-works-of-david-lynch/710933?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
+    "title": "Porchlight: A Storytelling Series",
+    "startTime": "2027-01-31T19:00:00-08:00",
+    "sourceUrl": "https://wl.seetickets.us/event/porchlight-a-storytelling-series/711064?afflky=GreatAmericanMusicHall"
   }
 ]
