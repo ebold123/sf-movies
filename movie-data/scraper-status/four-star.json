@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-13T20:31:44.899Z",
+  "generatedAt": "2026-11-14T18:46:26.922Z",
   "status": "discrepancies",
   "report": {
     "matched": 1,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-11-13T19:30:00-08:00",
-        "ourTitle": "NEIL YOUNG CELEBRATION: Live Music Tribute & Screening of Rust Never Sleeps",
-        "scenefTitle": "Neil Young Celebration: Rust Never Sleeps & more"
-      },
       {
         "startTime": "2026-11-15T20:00:00-08:00",
         "ourTitle": "LIVE MUSIC: Todd Day Wait, Mac Cornish, Josiah Flores",
