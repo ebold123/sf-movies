@@ -81,6 +81,13 @@
   },
   {
     "theater": "The Independent",
+    "title": "Amira Elfeky",
+    "startTime": "2027-02-23T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/amira-elfeky/",
+    "synopsis": "with My Upside Down, Meghan Curtin"
+  },
+  {
+    "theater": "The Independent",
     "title": "Way Dynamic",
     "startTime": "2027-02-24T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/way-dynamic/"

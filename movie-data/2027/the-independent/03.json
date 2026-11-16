@@ -41,12 +41,6 @@
   },
   {
     "theater": "The Independent",
-    "title": "Temper City",
-    "startTime": "2027-03-09T20:00:00-08:00",
-    "sourceUrl": "https://www.theindependentsf.com/tm-event/temper-city/"
-  },
-  {
-    "theater": "The Independent",
     "title": "strongboi – MOVED TO CASTRO THEATRE",
     "startTime": "2027-03-09T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/strongboi/",
@@ -54,9 +48,22 @@
   },
   {
     "theater": "The Independent",
+    "title": "Temper City",
+    "startTime": "2027-03-09T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/temper-city/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Rio Romeo",
+    "startTime": "2027-03-12T21:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/rio-romeo/"
+  },
+  {
+    "theater": "The Independent",
     "title": "Ruby Waters",
     "startTime": "2027-03-13T21:00:00-08:00",
-    "sourceUrl": "https://www.theindependentsf.com/tm-event/ruby-waters/"
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/ruby-waters/",
+    "synopsis": "with OK Cowgirl"
   },
   {
     "theater": "The Independent",

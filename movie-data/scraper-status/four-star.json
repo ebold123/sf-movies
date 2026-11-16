@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-15T19:24:46.376Z",
+  "generatedAt": "2026-11-16T22:56:38.056Z",
   "status": "discrepancies",
   "report": {
     "matched": 1,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-11-15T20:00:00-08:00",
-        "ourTitle": "LIVE MUSIC: Todd Day Wait, Mac Cornish, Josiah Flores",
-        "scenefTitle": "LIVE MUSIC: Todd Day Wait, Mac Cornish & more"
-      },
       {
         "startTime": "2026-12-02T19:30:00-08:00",
         "ourTitle": "LIVE MUSIC: Vince Guaraldi's A Charlie Brown Christmas (performed by Spencer Zahn, Zach Tenorio & Aaron Steele)",
@@ -76,14 +71,6 @@
       }
     ],
     "scenefOnly": [
-      {
-        "title": "Runa Simi",
-        "startTime": "2026-11-15T14:30:00-08:00"
-      },
-      {
-        "title": "Electric Dreams",
-        "startTime": "2026-11-18T19:30:00-08:00"
-      },
       {
         "title": "The Grand Budapest Hotel",
         "startTime": "2026-11-21T12:15:00-08:00"
@@ -167,8 +154,8 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 2,
-      "scenef": 0
+      "ours": 1,
+      "scenef": 1
     }
   }
 }
