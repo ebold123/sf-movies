@@ -54,6 +54,12 @@
   },
   {
     "theater": "The Independent",
+    "title": "SML",
+    "startTime": "2027-03-11T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/sml/"
+  },
+  {
+    "theater": "The Independent",
     "title": "Rio Romeo",
     "startTime": "2027-03-12T21:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/rio-romeo/"

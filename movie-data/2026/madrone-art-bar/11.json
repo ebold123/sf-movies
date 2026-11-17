@@ -273,6 +273,14 @@
   },
   {
     "theater": "Madrone Art Bar",
+    "title": "Josh Gelfand",
+    "startTime": "2026-11-27T04:00:00-08:00",
+    "endTime": "2026-11-28T03:59:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/josh-gelfand-25-2025-11-28-2026-11-27/",
+    "synopsis": "6:30pm-8:30pm Josh Gelfand on Piano\nPlaying all the songs from your one friend’s favorite playlist, and some of the ones from yours."
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "Motown on Mondays",
     "startTime": "2026-11-16T19:00:00-08:00",
     "endTime": "2026-11-17T01:30:00-08:00",
@@ -422,14 +430,6 @@
     "endTime": "2026-11-27T03:59:00-08:00",
     "sourceUrl": "https://madroneartbar.com/event/bar-is-closed-8/",
     "synopsis": "Happy Thanksgiving! See you on Friday at 4pm."
-  },
-  {
-    "theater": "Madrone Art Bar",
-    "title": "Josh Gelfand",
-    "startTime": "2026-11-27T04:00:00-08:00",
-    "endTime": "2026-11-28T03:59:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/josh-gelfand-25-2025-11-28/2026-11-27/",
-    "synopsis": "6:30pm-8:30pm Josh Gelfand on Piano\nPlaying all the songs from your one friend’s favorite playlist, and some of the ones from yours."
   },
   {
     "theater": "Madrone Art Bar",

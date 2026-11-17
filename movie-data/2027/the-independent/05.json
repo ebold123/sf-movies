@@ -1,6 +1,13 @@
 [
   {
     "theater": "The Independent",
+    "title": "Racing Mount Pleasant",
+    "startTime": "2027-05-07T21:00:00-07:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/racing-mount-pleasant/",
+    "synopsis": "with Dutch Interior"
+  },
+  {
+    "theater": "The Independent",
     "title": "Too Many Zooz",
     "startTime": "2027-05-09T20:00:00-07:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/too-many-zooz-2/"
@@ -10,6 +17,12 @@
     "title": "cleopatrick",
     "startTime": "2027-05-10T20:00:00-07:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/cleopatrick/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Peel Dream Magazine",
+    "startTime": "2027-05-15T21:00:00-07:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/peel-dream-magazine/"
   },
   {
     "theater": "The Independent",
@@ -29,5 +42,11 @@
     "startTime": "2027-05-19T20:00:00-07:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/xana/",
     "synopsis": "with plus special guest (TBD)"
+  },
+  {
+    "theater": "The Independent",
+    "title": "Madra Salach",
+    "startTime": "2027-05-21T21:00:00-07:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/madra-salach/"
   }
 ]

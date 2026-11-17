@@ -7,8 +7,20 @@
   },
   {
     "theater": "The Masonic",
+    "title": "Sweet Relief Benefit: A Night to Honor Elvis Costello",
+    "startTime": "2027-02-13T19:00:00-08:00",
+    "sourceUrl": "https://www.ticketmaster.com/sweet-relief-benefit-a-night-to-san-francisco-california-02-13-2027/event/1C006569D19C168A"
+  },
+  {
+    "theater": "The Masonic",
     "title": "Polyphia: BE NOT AFRAID World Tour ",
     "startTime": "2027-02-14T19:30:00-08:00",
     "sourceUrl": "https://www.ticketmaster.com/polyphia-be-not-afraid-world-tour-san-francisco-california-02-14-2027/event/1C0064CBC54B572F"
+  },
+  {
+    "theater": "The Masonic",
+    "title": "Ben Schwartz & Friends",
+    "startTime": "2027-02-26T19:30:00-08:00",
+    "sourceUrl": "https://www.ticketmaster.com/ben-schwartz-friends-san-francisco-california-02-26-2027/event/1C00656C8F757FD4"
   }
 ]

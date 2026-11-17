@@ -40,6 +40,13 @@
   },
   {
     "theater": "The Independent",
+    "title": "mayday mae!",
+    "startTime": "2027-01-14T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/mayday-mae/",
+    "synopsis": "with For Horses, Cilantro, DJ Arktoi"
+  },
+  {
+    "theater": "The Independent",
     "title": "Sister Nancy & the Steady Rock Band",
     "startTime": "2027-01-15T21:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/sister-nancy-the-steady-rock-band/",
@@ -56,6 +63,12 @@
     "title": "STS9",
     "startTime": "2027-01-17T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/sts9/"
+  },
+  {
+    "theater": "The Independent",
+    "title": "josh conway",
+    "startTime": "2027-01-20T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/josh-conway/"
   },
   {
     "theater": "The Independent",
