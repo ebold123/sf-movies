@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-17T21:49:49.080Z",
+  "generatedAt": "2026-11-18T21:29:11.386Z",
   "status": "discrepancies",
   "report": {
     "matched": 1,
@@ -146,6 +146,10 @@
       {
         "title": "Dazed and Confused",
         "startTime": "2026-12-12T14:30:00-08:00"
+      },
+      {
+        "title": "A Christmas Carol",
+        "startTime": "2026-12-20T19:30:00-08:00"
       },
       {
         "title": "A Bronx Tale",

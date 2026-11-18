@@ -1,14 +1,6 @@
 [
   {
     "theater": "Madrone Art Bar",
-    "title": "FRINGE: THE INDIE ROCK DANCE PARTY",
-    "startTime": "2027-05-15T21:00:00-07:00",
-    "endTime": "2027-05-15T23:30:00-07:00",
-    "sourceUrl": "https://madroneartbar.com/event/fringe-the-indie-rock-dance-party-9-2021-08-21-2026-02-21-2026-04-18-2026-08-15-2027-01-16/2027-05-15/",
-    "synopsis": "Fringe spins Yeah Yeah Yeahs * The Killers * LCD Soundsystem * ROBYN * Cut Copy * Passion Pit * MGMT * The Strokes * Phoenix * Empire of the Sun * Wet Leg * Phoebe Bridgers * Foster the People * Chappell Roan * The White Stripes * CHVRCHES * Chromeo * Lorde * Icona Pop * Charli XCX and much more…\nFringe, the indie music video dance party, is every 3rd Saturday with DJs Blondie K, Starr Noir, subOctave, Jon, and DJ Tempo at Madrone Art Bar in San Francisco.\nFree fringe swag and LED cat ears while they last (arrive early).\nIndie Rock * Indie Pop * Indie Sleaze * 00s Indie Hits * Alternative Rock * Bloghaus * Electro Pop * Indie Anthems\n9pm-2am\nMadrone Art Bar\n500 Divisadero Street @ Fell\n$10 after 9:30pm at the door\n21 UP\n@fringesf\nVoted “Best Dance Party” in SFWeekly & SFBG"
-  },
-  {
-    "theater": "Madrone Art Bar",
     "title": "Madrone x Gamescape: Monthly Game Night",
     "startTime": "2027-05-01T16:00:00-07:00",
     "endTime": "2027-05-01T19:00:00-07:00",
@@ -201,6 +193,14 @@
   },
   {
     "theater": "Madrone Art Bar",
+    "title": "FRINGE: THE INDIE ROCK DANCE PARTY",
+    "startTime": "2027-05-15T21:00:00-07:00",
+    "endTime": "2027-05-15T23:30:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/fringe-the-indie-rock-dance-party-9-2021-08-21-2026-02-21-2026-04-18-2026-08-15-2027-01-16/2027-05-15/",
+    "synopsis": "Fringe spins Yeah Yeah Yeahs * The Killers * LCD Soundsystem * ROBYN * Cut Copy * Passion Pit * MGMT * The Strokes * Phoenix * Empire of the Sun * Wet Leg * Phoebe Bridgers * Foster the People * Chappell Roan * The White Stripes * CHVRCHES * Chromeo * Lorde * Icona Pop * Charli XCX and much more…\nFringe, the indie music video dance party, is every 3rd Saturday with DJs Blondie K, Starr Noir, subOctave, Jon, and DJ Tempo at Madrone Art Bar in San Francisco.\nFree fringe swag and LED cat ears while they last (arrive early).\nIndie Rock * Indie Pop * Indie Sleaze * 00s Indie Hits * Alternative Rock * Bloghaus * Electro Pop * Indie Anthems\n9pm-2am\nMadrone Art Bar\n500 Divisadero Street @ Fell\n$10 after 9:30pm at the door\n21 UP\n@fringesf\nVoted “Best Dance Party” in SFWeekly & SFBG"
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "Thirst Draft: Write Drunk, Edit Never",
     "startTime": "2027-05-16T18:00:00-07:00",
     "endTime": "2027-05-16T21:00:00-07:00",
@@ -222,5 +222,21 @@
     "endTime": "2027-05-18T01:30:00-07:00",
     "sourceUrl": "https://madroneartbar.com/event/motown-on-mondays-79-2025-12-01-2026-04-27/2027-05-17/",
     "synopsis": "It’s only Monday if you treat it like one! DJ Gordo Cabeza and weekly guests play originals, exclusive remixes and close relatives of your favorite Motown songs. The most talked about night in town! Starting at 7pm. Doors 4pm – 2am / 21 & up w/ID $5 cover after 8pm"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "LIVE MODEL TUESDAY SKETCH",
+    "startTime": "2027-05-18T18:30:00-07:00",
+    "endTime": "2027-05-18T20:30:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/livemodelsketch-2026-06-23-2026-10-06-2026-11-03/2027-05-18/",
+    "synopsis": "LIVE MODEL TUESDAY SKETCH\nhosted by Sketchboard Co.\n$15 fee to draw the model\nEvery Tuesday 6:30 to 8:30 PM\nwith live music by Twango\nBring your own materials\nNo Photos Please Respect the Models"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "Karaoke",
+    "startTime": "2027-05-18T21:30:00-07:00",
+    "endTime": "2027-05-19T00:30:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/glitter-tears-karaoke-18-2026-02-04-2026-02-04-2026-04-07-2026-04-21/2027-05-18/",
+    "synopsis": "KARAOKE\nWith host Lauren Yellow\nMusic starts at 9:30pm"
   }
 ]
