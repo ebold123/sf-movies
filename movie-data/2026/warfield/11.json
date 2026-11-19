@@ -44,6 +44,12 @@
   },
   {
     "theater": "The Warfield",
+    "title": "Song Dongye",
+    "startTime": "2026-11-23T20:00:00-08:00",
+    "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1613808"
+  },
+  {
+    "theater": "The Warfield",
     "title": "RØZ",
     "startTime": "2026-11-19T20:00:00-08:00",
     "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1556908"
@@ -54,11 +60,5 @@
     "startTime": "2026-11-21T20:00:00-08:00",
     "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1554506",
     "synopsis": "with Eurohead, ali rq, deBasement, techno pagan"
-  },
-  {
-    "theater": "The Warfield",
-    "title": "Song Dongye",
-    "startTime": "2026-11-23T20:00:00-08:00",
-    "sourceUrl": "https://www.thewarfieldtheatre.com/events/detail/1613808"
   }
 ]

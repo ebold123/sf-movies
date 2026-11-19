@@ -33,6 +33,14 @@
   },
   {
     "theater": "Madrone Art Bar",
+    "title": "NU NOIZE",
+    "startTime": "2027-01-01T21:30:00-08:00",
+    "endTime": "2027-01-02T01:00:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/nu-noize-2027-01-01/2027-01-01/",
+    "synopsis": "NU NOIZE\nA dance party.\ncome early. leave sweaty.\nwith DJs Mackswell & Knowpa.\n\n\n$10 cover at 9:30pm / 21 up w/ID\nGuarantee your spot!"
+  },
+  {
+    "theater": "Madrone Art Bar",
     "title": "Max Cowan",
     "startTime": "2027-01-01T04:00:00-08:00",
     "endTime": "2027-01-02T03:59:00-08:00",
@@ -41,11 +49,11 @@
   },
   {
     "theater": "Madrone Art Bar",
-    "title": "NU NOIZE",
-    "startTime": "2027-01-01T21:30:00-08:00",
-    "endTime": "2027-01-02T01:00:00-08:00",
-    "sourceUrl": "https://madroneartbar.com/event/nu-noize-2027-01-01/2027-01-01/",
-    "synopsis": "NU NOIZE\nA dance party.\ncome early. leave sweaty.\nwith DJs Mackswell & Knowpa.\n\n\n$10 cover at 9:30pm / 21 up w/ID\nGuarantee your spot!"
+    "title": "SHAKE &#038; POP",
+    "startTime": "2027-01-01T21:00:00-08:00",
+    "endTime": "2027-01-02T02:00:00-08:00",
+    "sourceUrl": "https://madroneartbar.com/event/shake-pop-5/",
+    "synopsis": "9PM to 2AM\nFREE, NO COVER\nSHAKE AND POP\nDJ ILLBORN spins POP/DISCO/HOUSE/INDIE DANCE"
   },
   {
     "theater": "Madrone Art Bar",

@@ -20,6 +20,12 @@
   },
   {
     "theater": "The Independent",
+    "title": "BabyTron",
+    "startTime": "2027-02-08T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/babytron/"
+  },
+  {
+    "theater": "The Independent",
     "title": "Two Gallants",
     "startTime": "2027-02-09T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/two-gallants-3/"

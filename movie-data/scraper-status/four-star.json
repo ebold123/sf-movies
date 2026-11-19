@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-18T21:29:11.386Z",
+  "generatedAt": "2026-11-19T21:39:33.438Z",
   "status": "discrepancies",
   "report": {
     "matched": 1,
@@ -30,14 +30,6 @@
     ],
     "oursOnly": [
       {
-        "title": "LIVE MUSIC: Computerwife, Double Helix Peace Treaty (Presented by THROWIN' BO'S)",
-        "startTime": "2026-11-19T20:00:00-08:00"
-      },
-      {
-        "title": "LIVE MUSIC: Babehoven, Pileup (Presented by THROWIN' BO'S)",
-        "startTime": "2026-11-20T20:00:00-08:00"
-      },
-      {
         "title": "LIVE MUSIC: Storefront Church (Presented by THROWIN' BO'S)",
         "startTime": "2026-12-10T20:00:00-08:00"
       },
@@ -54,7 +46,7 @@
         "startTime": "2026-12-16T20:00:00-08:00"
       },
       {
-        "title": "LIVE MUSIC: Angela Autumn (Presented by THROWIN' BO'S)",
+        "title": "LIVE MUSIC: Angela Autumn, Abbie McAllister (Presented by THROWIN' BO'S)",
         "startTime": "2027-01-24T20:00:00-08:00"
       },
       {
@@ -158,8 +150,8 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 2,
-      "scenef": 1
+      "ours": 4,
+      "scenef": 0
     }
   }
 }
