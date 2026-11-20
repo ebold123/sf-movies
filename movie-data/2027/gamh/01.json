@@ -1,6 +1,12 @@
 [
   {
     "theater": "Great American Music Hall",
+    "title": "Edinburgh Spotlight: Demi Adejuyigbe Sells Out",
+    "startTime": "2027-01-28T19:00:00-08:00",
+    "sourceUrl": "https://wl.seetickets.us/event/edinburgh-spotlight-demi-adejuyigbe-sells-out/710929?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
     "title": "The Mom Dance Party ® by Moms Feelin' Themselves",
     "startTime": "2027-01-08T19:00:00-08:00",
     "sourceUrl": "https://wl.seetickets.us/event/the-mom-dance-party-r-by-moms-feelin-themselves/708498?afflky=GreatAmericanMusicHall"
@@ -52,6 +58,12 @@
   },
   {
     "theater": "Great American Music Hall",
+    "title": "Jenny Yang: GOOD EGG",
+    "startTime": "2027-01-21T19:30:00-08:00",
+    "sourceUrl": "https://wl.seetickets.us/event/jenny-yang-good-egg/712018?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
     "title": "EARLY SHOW - Ask A Fuckboy",
     "startTime": "2027-01-22T19:00:00-08:00",
     "sourceUrl": "https://wl.seetickets.us/event/early-show-ask-a-fuckboy/710921?afflky=GreatAmericanMusicHall"
@@ -70,9 +82,15 @@
   },
   {
     "theater": "Great American Music Hall",
-    "title": "Edinburgh Spotlight: Demi Adejuyigbe Sells Out",
+    "title": "Early Show: Edinburgh Spotlight: Demi Adejuyigbe Sells Out",
     "startTime": "2027-01-28T19:00:00-08:00",
-    "sourceUrl": "https://wl.seetickets.us/event/edinburgh-spotlight-demi-adejuyigbe-sells-out/710929?afflky=GreatAmericanMusicHall"
+    "sourceUrl": "https://wl.seetickets.us/event/early-show-edinburgh-spotlight-demi-adejuyigbe-sells-out/710929?afflky=GreatAmericanMusicHall"
+  },
+  {
+    "theater": "Great American Music Hall",
+    "title": "Late Show: Edinburgh Spotlight: Demi Adejuyigbe Sells Out",
+    "startTime": "2027-01-28T21:30:00-08:00",
+    "sourceUrl": "https://wl.seetickets.us/event/late-show-edinburgh-spotlight-demi-adejuyigbe-sells-out/711680?afflky=GreatAmericanMusicHall"
   },
   {
     "theater": "Great American Music Hall",

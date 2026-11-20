@@ -25,11 +25,11 @@
   },
   {
     "theater": "Madrone Art Bar",
-    "title": "NU NOIZE",
-    "startTime": "2027-04-02T21:30:00-07:00",
-    "endTime": "2027-04-03T01:00:00-07:00",
-    "sourceUrl": "https://madroneartbar.com/event/nu-noize-2027-02-05/2027-04-02/",
-    "synopsis": "NU NOIZE\nA dance party.\ncome early. leave sweaty.\nwith DJs Mackswell & Knowpa.\n\n\n$10 cover at 9:30pm / 21 up w/ID\nGuarantee your spot!"
+    "title": "Big Brain",
+    "startTime": "2027-04-07T18:30:00-07:00",
+    "endTime": "2027-04-07T20:30:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/jerome-clay-2-2025-12-03-2026-02-04-2027-01-06/2027-04-07/",
+    "synopsis": "A lecture series and party for smarties.\nHosted by Big Brain\n7pm-8:45pm\nAdvance tickets available at Big Brain SF"
   },
   {
     "theater": "Madrone Art Bar",
@@ -54,6 +54,14 @@
     "endTime": "2027-04-03T03:59:00-07:00",
     "sourceUrl": "https://madroneartbar.com/event/max-cowan-20-2025-12-05/2027-04-02/",
     "synopsis": "Max Cowan takes the piano from the East Bay to New Orleans, and through every funky congregation in between. As co-leader of funk powerhouse Atta Kid, keyboardist for funk pioneer, Zigaboo Modeliste, and longtime collaborator with Otis McDonald, Max’s repertoire tours the B-sides of your soul. 7-9PM"
+  },
+  {
+    "theater": "Madrone Art Bar",
+    "title": "NU NOIZE",
+    "startTime": "2027-04-02T21:30:00-07:00",
+    "endTime": "2027-04-03T01:00:00-07:00",
+    "sourceUrl": "https://madroneartbar.com/event/nu-noize-2027-02-05/2027-04-02/",
+    "synopsis": "NU NOIZE\nA dance party.\ncome early. leave sweaty.\nwith DJs Mackswell & Knowpa.\n\n\n$10 cover at 9:30pm / 21 up w/ID\nGuarantee your spot!"
   },
   {
     "theater": "Madrone Art Bar",
@@ -102,14 +110,6 @@
     "endTime": "2027-04-07T00:30:00-07:00",
     "sourceUrl": "https://madroneartbar.com/event/glitter-tears-karaoke-18-2026-02-04-2026-02-04-2026-04-07-2026-04-21/2027-04-06/",
     "synopsis": "KARAOKE\nWith host Lauren Yellow\nMusic starts at 9:30pm"
-  },
-  {
-    "theater": "Madrone Art Bar",
-    "title": "Big Brain",
-    "startTime": "2027-04-07T18:30:00-07:00",
-    "endTime": "2027-04-07T20:30:00-07:00",
-    "sourceUrl": "https://madroneartbar.com/event/jerome-clay-2-2025-12-03-2026-02-04-2026-12-02/2027-04-07/",
-    "synopsis": "A lecture series and party for smarties.\nHosted by Big Brain\n7pm-8:45pm\nAdvance tickets available at Big Brain SF"
   },
   {
     "theater": "Madrone Art Bar",

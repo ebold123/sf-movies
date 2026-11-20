@@ -66,6 +66,12 @@
   },
   {
     "theater": "The Independent",
+    "title": "Rin",
+    "startTime": "2027-01-19T20:00:00-08:00",
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/rin/"
+  },
+  {
+    "theater": "The Independent",
     "title": "josh conway",
     "startTime": "2027-01-20T20:00:00-08:00",
     "sourceUrl": "https://www.theindependentsf.com/tm-event/josh-conway/"
@@ -119,6 +125,7 @@
     "theater": "The Independent",
     "title": "Winona Fighter",
     "startTime": "2027-01-31T20:00:00-08:00",
-    "sourceUrl": "https://www.theindependentsf.com/tm-event/winona-fighter/"
+    "sourceUrl": "https://www.theindependentsf.com/tm-event/winona-fighter/",
+    "synopsis": "with MAX DIAZ"
   }
 ]

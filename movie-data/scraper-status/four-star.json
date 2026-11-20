@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-19T21:39:33.438Z",
+  "generatedAt": "2026-11-20T21:15:44.257Z",
   "status": "discrepancies",
   "report": {
     "matched": 1,
@@ -29,10 +29,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "LIVE MUSIC: Storefront Church (Presented by THROWIN' BO'S)",
-        "startTime": "2026-12-10T20:00:00-08:00"
-      },
       {
         "title": "LIVE MUSIC: June McDoom, Eliana Glass (Presented by THROWIN' BO'S)",
         "startTime": "2026-12-12T20:00:00-08:00"
@@ -134,6 +130,10 @@
       {
         "title": "Castration Movie ⅗ Year of the Hyaena",
         "startTime": "2026-12-05T18:30:00-08:00"
+      },
+      {
+        "title": "The Chinese Feast",
+        "startTime": "2026-12-10T19:30:00-08:00"
       },
       {
         "title": "Dazed and Confused",
